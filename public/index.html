@@ -1,0 +1,411 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dihmon List</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&display=swap">
+<style>
+/* A list site: light page between two walls of blue blocks, white dashed-edge panels, a main column and a sidebar. */
+:root{
+  --page:#f3f4f6; --panel:#ffffff; --ink:#24262b; --muted:#6b7080; --line:#d4d7de; --soft:#eef0f4;
+  --blue:#1d6fb8; --blue2:#2f8fe0; --link:#0b4fae; --up:#1d9a4f; --down:#d0362f; --gold:#e3a51b;
+  --font:"Montserrat",system-ui,"Segoe UI",Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--page);color:var(--ink);font-family:var(--font);font-size:15px}
+a{color:var(--link)}
+.walls{position:fixed;inset:0;pointer-events:none;z-index:0}
+.walls canvas{position:absolute;top:0;height:100%}
+.walls .l{left:0}.walls .r{right:0}
+.site{position:relative;z-index:1;max-width:1260px;margin:0 auto;padding:0 16px 60px}
+@media (min-width:1500px){.site{max-width:1280px}}
+nav.top{background:var(--panel);border:1px dashed var(--line);border-top:0;display:flex;align-items:center;gap:6px;flex-wrap:wrap;padding:10px 16px;box-shadow:0 2px 6px rgba(0,0,0,.05)}
+.brand{font-weight:800;font-size:22px;letter-spacing:.02em;color:var(--ink);text-decoration:none;margin-right:auto;display:flex;align-items:center;gap:10px}
+.brand i{width:26px;height:26px;background:linear-gradient(135deg,var(--blue2),var(--blue));display:inline-block;transform:rotate(45deg);border-radius:3px}
+nav.top a.nl{color:var(--ink);text-decoration:none;font-weight:600;padding:8px 12px;border-radius:4px}
+nav.top a.nl:hover,nav.top a.nl.on{background:var(--soft)}
+.tabs{background:var(--panel);border:1px dashed var(--line);display:grid;grid-template-columns:repeat(3,1fr);margin-top:14px;box-shadow:0 2px 6px rgba(0,0,0,.05)}
+.tabs a{text-align:center;padding:13px 6px;font-weight:700;font-size:17px;color:var(--ink);text-decoration:none;border-bottom:3px solid transparent}
+.tabs a.on{border-bottom-color:var(--blue2)}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px;margin-top:24px;align-items:start}
+@media (max-width:900px){.grid{grid-template-columns:1fr}}
+.panel{background:var(--panel);border:1px dashed var(--line);padding:22px;box-shadow:0 2px 6px rgba(0,0,0,.05);min-width:0}
+.panel+.panel{margin-top:24px}
+.panel h2{font-size:26px;font-weight:700;text-align:center;margin:0 0 14px;padding-bottom:14px;border-bottom:1px solid var(--line)}
+.panel p{color:var(--muted);text-align:center;margin:.4em 0;line-height:1.45}
+.list{display:flex;flex-direction:column;gap:16px}
+.card{display:flex;gap:22px;align-items:center;background:var(--panel);border:1px dashed var(--line);padding:22px 28px;text-decoration:none;color:inherit;box-shadow:0 2px 6px rgba(0,0,0,.05);min-width:0}
+.card:hover{border-color:var(--blue2)}
+.thumb{flex:none;width:310px;max-width:42%;aspect-ratio:16/9;background:#1b2330 center/cover no-repeat;position:relative;overflow:hidden}
+.thumb .ph{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:22px;text-align:center;padding:10px;text-shadow:0 2px 6px rgba(0,0,0,.5)}
+.card .t{min-width:0}
+.card h3{margin:0 0 4px;font-size:32px;font-weight:700;overflow-wrap:anywhere}
+.card .pub{font-weight:700;font-size:21px;color:#4a4d55}
+.card .pub b{color:var(--ink);border-bottom:1px dotted var(--ink)}
+.card .pts{color:#555a66;margin-top:6px;font-size:16px;font-variant-numeric:tabular-nums}
+@media (max-width:640px){.card{flex-direction:column;align-items:stretch;padding:16px}.thumb{width:100%;max-width:100%}.card h3{font-size:24px}.card .pub{font-size:17px}}
+.empty{text-align:center;color:var(--muted);padding:40px 16px}
+.empty b{display:block;color:var(--ink);font-size:20px;margin-bottom:6px}
+/* level page */
+.lvhead{text-align:center}
+.lvhead .nav{display:flex;align-items:center;justify-content:center;gap:24px}
+.lvhead h1{font-size:44px;font-weight:700;margin:6px 0;overflow-wrap:anywhere}
+.arrow{font-size:34px;font-weight:700;text-decoration:none;color:var(--ink);padding:0 6px}
+.arrow.off{visibility:hidden}
+.credits{font-weight:600;font-size:18px;color:#4a4d55;border-bottom:1px solid var(--line);padding-bottom:6px}
+.credits b{color:var(--ink);border-bottom:1px dotted var(--ink)}
+.quote{color:#444;padding:6px 0 14px;border-bottom:1px solid var(--line)}
+.video{margin:18px auto;max-width:740px;aspect-ratio:16/9;background:#111}
+.video iframe{width:100%;height:100%;border:0;display:block}
+.stats{display:flex;flex-wrap:wrap;justify-content:center;gap:16px 34px;margin:18px 0;text-align:center}
+.stats div{min-width:110px}
+.stats b{display:block;font-weight:700;font-size:17px}
+.stats span{color:#555a66;font-size:17px;overflow-wrap:anywhere}
+h4.sec{font-size:22px;font-weight:700;text-align:center;margin:28px 0 10px}
+.tbl{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+.tbl th,.tbl td{padding:9px 10px;border-bottom:1px solid var(--soft);text-align:left;vertical-align:top}
+.tbl th{font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.scroll{overflow-x:auto}
+.up{color:var(--up);font-weight:700}.down{color:var(--down);font-weight:700}
+.small{font-size:13px;color:var(--muted)}
+/* forms */
+form.f{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+form.f .w{grid-column:1/-1}
+label{display:flex;flex-direction:column;gap:5px;font-weight:600;font-size:13px;color:#4a4d55;min-width:0}
+input,textarea,select{font:inherit;font-size:15px;padding:9px 10px;border:1px solid var(--line);border-radius:4px;background:#fff;color:var(--ink);width:100%}
+textarea{min-height:70px;resize:vertical}
+input:focus,textarea:focus,select:focus,button:focus-visible,a:focus-visible{outline:2px solid var(--blue2);outline-offset:1px}
+@media (max-width:640px){form.f{grid-template-columns:1fr}}
+button{font:inherit;font-weight:700;cursor:pointer;border:0;border-radius:4px;padding:10px 16px;background:var(--soft);color:var(--ink)}
+button.go{background:var(--blue);color:#fff}
+button.bad{background:#fbe5e3;color:#a3231c}
+button.sm{padding:6px 10px;font-size:13px}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.msg{font-weight:600;font-size:14px}.msg.ok{color:var(--up)}.msg.err{color:var(--down)}
+.sub{border:1px dashed var(--line);padding:14px;margin-bottom:12px}
+.sub h5{margin:0 0 6px;font-size:16px}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:3px 12px;font-size:14px;margin:8px 0}
+.kv dt{color:var(--muted)} .kv dd{margin:0;overflow-wrap:anywhere}
+.pill{display:inline-block;font-size:12px;font-weight:700;border-radius:3px;padding:2px 7px;background:var(--soft)}
+.pill.rec{background:#e3effc;color:#0b4fae}.pill.lev{background:#fdf0d7;color:#8a5a00}
+.stack{display:flex;flex-direction:column;gap:10px}
+.lvrow{border-bottom:1px solid var(--soft);padding:8px 0}
+</style>
+</head>
+<body>
+<div class="walls" aria-hidden="true"><canvas class="l" id="wl"></canvas><canvas class="r" id="wr"></canvas></div>
+<div class="site">
+  <nav class="top">
+    <a class="brand" href="#/"><i></i>DIHMON LIST</a>
+    <a class="nl" href="#/" data-nav="list">List</a>
+    <a class="nl" href="#/players" data-nav="players">Players</a>
+    <a class="nl" href="#/submit" data-nav="submit">Submit</a>
+    <a class="nl" href="#/admin" data-nav="admin">Admin</a>
+  </nav>
+  <div id="view"></div>
+</div>
+<script>
+'use strict';
+// ------------------------------------------------------------------ helpers
+const $view = document.getElementById('view');
+function h(tag, attrs, ...kids){
+  const e = document.createElement(tag);
+  for (const k in attrs||{}) {
+    const v = attrs[k]; if (v == null || v === false) continue;
+    if (k === 'class') e.className = v; else if (k.startsWith('on')) e.addEventListener(k.slice(2), v); else if (k === 'style') e.style.cssText = v; else e.setAttribute(k, v === true ? '' : v);
+  }
+  for (const c of kids.flat()) if (c != null && c !== false) e.append(c instanceof Node ? c : String(c));
+  return e;
+}
+async function api(path, opts){
+  opts = opts || {};
+  const headers = {'Content-Type':'application/json'};
+  const key = sessionStorage.getItem('dl-admin'); if (key && path.startsWith('/api/admin')) headers['X-Admin-Key'] = key;
+  const r = await fetch(path, {method: opts.method||'GET', headers, body: opts.body ? JSON.stringify(opts.body) : undefined});
+  let data = null; try { data = await r.json(); } catch(e) {}
+  if (!r.ok) throw new Error((data && data.error) || ('Error ' + r.status));
+  return data;
+}
+const fmt = n => (Math.round(n*100)/100).toFixed(2);
+const ytId = u => { if(!u) return null; const m = u.match(/(?:youtu\.be\/|v=|embed\/|shorts\/)([A-Za-z0-9_-]{11})/); return m ? m[1] : null; };
+const thumbOf = lv => lv.thumbnail || (ytId(lv.video) ? 'https://i.ytimg.com/vi/' + ytId(lv.video) + '/hqdefault.jpg' : null);
+const date = s => s ? new Date(s).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'numeric'}) : '';
+function section(pos, L){ return pos <= L.main ? 'main' : pos <= L.extended ? 'extended' : 'legacy'; }
+function navOn(n){ document.querySelectorAll('[data-nav]').forEach(a => a.classList.toggle('on', a.dataset.nav === n)); }
+function thumb(lv){
+  const t = thumbOf(lv), el = h('div',{class:'thumb'});
+  if (t) el.style.backgroundImage = 'url("' + encodeURI(t).replace(/"/g,'%22') + '")';
+  else { el.style.background = 'linear-gradient(135deg,#1d6fb8,#13253f)'; el.append(h('div',{class:'ph'}, lv.name)); }
+  return el;
+}
+function pointsLine(lv){
+  return lv.minScore != null ? fmt(lv.minScore) + ' (' + lv.minPercent + '%) — ' + fmt(lv.score) + ' (100%) points' : fmt(lv.score) + ' points';
+}
+
+// ------------------------------------------------------------------ pages
+async function pageList(tab){
+  navOn('list');
+  const L = await api('/api/list');
+  const tabs = h('div',{class:'tabs'},
+    h('a',{href:'#/main', class: tab==='main'?'on':null},'Main List'),
+    h('a',{href:'#/extended', class: tab==='extended'?'on':null},'Extended List'),
+    h('a',{href:'#/legacy', class: tab==='legacy'?'on':null},'Legacy List'));
+  const shown = L.levels.filter(lv => section(lv.position, L) === tab);
+  const list = h('div',{class:'list'});
+  if (!shown.length) list.append(h('div',{class:'panel empty'}, h('b',null, L.levels.length ? 'Nothing in this list yet' : 'The list is empty'),
+    tab==='main' ? 'Once a level is approved it shows up here. Submit one from the Submit page.' : tab==='extended' ? 'Positions ' + (L.main+1) + ' to ' + L.extended + ' go here.' : 'Levels below #' + L.extended + ' go here.'));
+  for (const lv of shown) list.append(h('a',{class:'card', href:'#/level/' + lv.id}, thumb(lv),
+    h('div',{class:'t'}, h('h3',null,'#' + lv.position + ' – ' + lv.name),
+      lv.publisher ? h('div',{class:'pub'},'published by ', h('b',null, lv.publisher)) : null,
+      h('div',{class:'pts'}, pointsLine(lv)))));
+  const hardest = L.levels[0];
+  const side = h('aside',null,
+    h('div',{class:'panel'}, h('h2',null,'Extreme Dihmons'),
+      h('p',null,'The hardest extreme dihmons, ranked. Position 1 is the hardest.'),
+      h('p',null, h('b',null, String(L.levels.length)), ' levels on the list'),
+      hardest ? h('p',null,'Top: ', h('a',{href:'#/level/'+hardest.id}, hardest.name)) : null),
+    h('div',{class:'panel'}, h('h2',null,'Submit'),
+      h('p',null,'Beaten something on the list, or know an extreme dihmon that belongs here? Send it in. An admin checks every submission.'),
+      h('p',null, h('a',{href:'#/submit'},'Submit a record or a level'))),
+    h('div',{class:'panel'}, h('h2',null,'Guidelines'),
+      h('p',null,'Records need a video of the whole run. Main list levels take progress records from their minimum percent; extended and legacy levels take 100% only.')));
+  $view.replaceChildren(tabs, h('div',{class:'grid'}, list, side));
+}
+
+async function pageLevel(id){
+  navOn('list');
+  const [lv, L] = await Promise.all([api('/api/levels/' + encodeURIComponent(id)), api('/api/list')]);
+  const i = L.levels.findIndex(x => x.id === lv.id), prev = L.levels[i-1], next = L.levels[i+1];
+  const cred = h('div',{class:'credits'});
+  const part = (lab, who) => { if (!who) return; if (cred.childNodes.length) cred.append(', '); cred.append(lab, h('b',null, who)); };
+  part('by ', lv.creators); part('published by ', lv.publisher); part('verified by ', lv.verifier);
+  const vid = ytId(lv.video);
+  const stats = h('div',{class:'stats'});
+  const stat = (k, v) => { if (v) stats.append(h('div',null, h('b',null,k), h('span',null,v))); };
+  stat('Level Password', lv.password); stat('Level ID', lv.levelId); stat('Level Length', lv.length); stat('Object Count', lv.objects);
+  stat('In-Game Difficulty', lv.difficulty); stat('Created In', lv.createdIn); stat('Song', lv.song);
+  const scores = h('div',{class:'stats'}, h('div',null, h('b',null,'Dihmonlist score (100%)'), h('span',null, fmt(lv.score))),
+    lv.minScore != null ? h('div',null, h('b',null,'Dihmonlist score (' + lv.minPercent + '%)'), h('span',null, fmt(lv.minScore))) : null);
+  const hist = h('table',{class:'tbl'}, h('thead',null,h('tr',null, h('th',null,'Date'), h('th',null,'Change'), h('th',null,'New position'), h('th',null,'Reason'))),
+    h('tbody',null, (lv.history||[]).slice().reverse().map(e => h('tr',null, h('td',null,date(e.date)),
+      h('td',null, e.change == null ? '—' : e.change > 0 ? h('span',{class:'up'},'▲ ' + e.change) : e.change < 0 ? h('span',{class:'down'},'▼ ' + (-e.change)) : '0'),
+      h('td',null,'#' + e.position), h('td',null, e.reason || '')))));
+  const recs = lv.records.length ? h('table',{class:'tbl'}, h('thead',null,h('tr',null, h('th',null,'Player'), h('th',null,'Progress'), h('th',null,'Video'))),
+    h('tbody',null, lv.records.map(r => h('tr',null, h('td',null,r.player), h('td',null, r.percent + '%'), h('td',null, h('a',{href:r.video, target:'_blank', rel:'noopener noreferrer'},'Watch'))))))
+    : h('p',null,'No records yet. ', h('a',{href:'#/submit/' + lv.id},'Submit one'), '.');
+  const main = h('div',{class:'panel'},
+    h('div',{class:'lvhead'},
+      h('div',{class:'nav'}, h('a',{class:'arrow' + (prev?'':' off'), href: prev ? '#/level/'+prev.id : '#', 'aria-label':'Previous level'},'‹'),
+        h('h1',null, lv.name), h('a',{class:'arrow' + (next?'':' off'), href: next ? '#/level/'+next.id : '#', 'aria-label':'Next level'},'›')),
+      h('div',{class:'small'}, '#' + lv.position + ' · ' + ({main:'Main List', extended:'Extended List', legacy:'Legacy List'})[section(lv.position, L)]),
+      cred.childNodes.length ? cred : null,
+      lv.quote ? h('div',{class:'quote'}, '“' + lv.quote + '”') : null),
+    vid ? h('div',{class:'video'}, h('iframe',{src:'https://www.youtube-nocookie.com/embed/' + vid, title: lv.name + ' video', allow:'accelerometer; encrypted-media; gyroscope; picture-in-picture', allowfullscreen:true, loading:'lazy'}))
+        : lv.video ? h('p',null, h('a',{href:lv.video, target:'_blank', rel:'noopener noreferrer'},'Watch the verification')) : null,
+    stats.childNodes.length ? stats : null, scores,
+    h('h4',{class:'sec'},'Position History'), h('div',{class:'scroll'}, hist),
+    h('h4',{class:'sec'},'Records'), lv.minPercent && lv.position <= L.main ? h('p',null, lv.records.length + (lv.records.length===1?' record':' records') + '. Progress counts from ' + lv.minPercent + '%.') : null,
+    h('div',{class:'scroll'}, recs));
+  const side = h('aside',null, h('div',{class:'panel'}, h('h2',null,'Beaten it?'), h('p',null,'Send your run with a video and an admin will add it.'),
+    h('p',null, h('a',{href:'#/submit/' + lv.id},'Submit a record for ' + lv.name))));
+  $view.replaceChildren(h('div',{class:'grid'}, main, side));
+  window.scrollTo(0,0);
+}
+
+async function pagePlayers(){
+  navOn('players');
+  const P = await api('/api/players');
+  const body = h('tbody');
+  if (!P.length) body.append(h('tr',null,h('td',{colspan:4, class:'small'},'No approved records yet, so nobody has points.')));
+  for (const p of P){
+    const detail = h('tr',{hidden:true}, h('td',{colspan:4},
+      h('div',{class:'small'}, 'Completed: ', p.completions.length ? p.completions.map(c => '#'+c.position+' '+c.name).join(', ') : 'none'),
+      p.progress.length ? h('div',{class:'small'}, 'Progress: ', p.progress.map(c => c.name+' '+c.percent+'%').join(', ')) : null));
+    body.append(h('tr',null, h('td',null,'#' + p.rank), h('td',null, h('button',{class:'sm', onclick:()=>{detail.hidden=!detail.hidden;}}, p.name)),
+      h('td',null, String(p.completions.length)), h('td',null, fmt(p.score))), detail);
+  }
+  $view.replaceChildren(h('div',{class:'grid'},
+    h('div',{class:'panel'}, h('h2',null,'Players'), h('div',{class:'scroll'}, h('table',{class:'tbl'},
+      h('thead',null,h('tr',null,h('th',null,'Rank'),h('th',null,'Player'),h('th',null,'Completions'),h('th',null,'Score'))), body))),
+    h('aside',null, h('div',{class:'panel'}, h('h2',null,'How it works'), h('p',null,'Players show up here once an admin approves one of their records. Click a name to see their levels.')))));
+}
+
+async function pageSubmit(levelPre){
+  navOn('submit');
+  const L = await api('/api/list');
+  let mode = 'record';
+  const box = h('div');
+  function msg(el, ok, text){ el.className = 'msg ' + (ok?'ok':'err'); el.textContent = text; }
+  function draw(){
+    const out = h('span',{class:'msg', role:'status'});
+    let form;
+    if (mode === 'record'){
+      const sel = h('select',{name:'levelId', id:'rLevel', required:true}, h('option',{value:''},'Choose a level'),
+        L.levels.map(lv => h('option',{value:lv.id, selected: lv.id===levelPre ? true : null}, '#' + lv.position + ' – ' + lv.name)));
+      form = h('form',{class:'f', id:'recForm'},
+        h('label',{class:'w'},'Level', sel),
+        h('label',null,'Player name', h('input',{name:'player', id:'rPlayer', required:true, maxlength:40})),
+        h('label',null,'Percent', h('input',{name:'percent', id:'rPct', type:'number', min:1, max:100, value:100, required:true})),
+        h('label',{class:'w'},'Video link', h('input',{name:'video', id:'rVid', type:'url', placeholder:'https://youtube.com/...', required:true})),
+        h('label',null,'Your name (optional)', h('input',{name:'submitter', id:'rBy', maxlength:40})),
+        h('label',{class:'w'},'Notes for the admin (optional)', h('textarea',{name:'note', id:'rNote', maxlength:300})),
+        h('div',{class:'w row'}, h('button',{class:'go', type:'submit'},'Submit record'), out));
+    } else {
+      const f = (lab, name, attrs, w) => h('label',{class: w?'w':null}, lab, h(attrs && attrs.tag==='textarea'?'textarea':'input', Object.assign({name, id:'l_'+name}, attrs||{}, {tag:null})));
+      form = h('form',{class:'f', id:'lvForm'},
+        f('Level name', 'name', {required:true, maxlength:80}), f('Suggested position', 'suggested', {type:'number', min:1}),
+        f('Creators', 'creators', {maxlength:200}), f('Publisher', 'publisher', {maxlength:80}),
+        f('Verifier', 'verifier', {maxlength:80}), f('Verification video', 'video', {type:'url', required:true, placeholder:'https://youtube.com/...'}),
+        f('Thumbnail image link (optional, the video\'s is used otherwise)', 'thumbnail', {type:'url', placeholder:'https://...'}, true),
+        f('Level ID', 'levelId', {maxlength:20}), f('Level password', 'password', {maxlength:40}),
+        f('Length', 'length', {maxlength:20, placeholder:'2m:45s'}), f('Object count', 'objects', {maxlength:20}),
+        f('Created in', 'createdIn', {maxlength:20, placeholder:'2.2'}), f('List percent (minimum for records)', 'minPercent', {type:'number', min:1, max:100}),
+        f('Song', 'song', {maxlength:160}, true), f('Quote', 'quote', {maxlength:200}, true),
+        f('Your name (optional)', 'submitter', {maxlength:40}), f('Notes for the admin (optional)', 'note', {tag:'textarea', maxlength:300}, true),
+        h('div',{class:'w row'}, h('button',{class:'go', type:'submit'},'Submit level'), out));
+    }
+    form.addEventListener('submit', async e => {
+      e.preventDefault();
+      const data = Object.fromEntries(new FormData(form).entries());
+      try { await api('/api/submit/' + mode, {method:'POST', body:data}); form.reset(); msg(out, true, 'Sent. An admin will check it soon.'); }
+      catch(err){ msg(out, false, err.message); }
+    });
+    box.replaceChildren(h('div',{class:'row', style:'justify-content:center;margin-bottom:16px'},
+      h('button',{class: mode==='record'?'go':null, type:'button', onclick:()=>{mode='record'; draw();}},'Submit a record'),
+      h('button',{class: mode==='level'?'go':null, type:'button', onclick:()=>{mode='level'; draw();}},'Submit a level')), form);
+  }
+  draw();
+  $view.replaceChildren(h('div',{class:'grid'}, h('div',{class:'panel'}, h('h2',null,'Submit'), box),
+    h('aside',null, h('div',{class:'panel'}, h('h2',null,'Before you submit'),
+      h('p',null,'Records need an uncut video of the run. Main list levels accept progress from their list percent; extended and legacy levels need 100%.'),
+      h('p',null,'Level submissions are for extreme dihmons only. Nothing appears on the site until an admin approves it.')))));
+}
+
+// ---- admin
+async function pageAdmin(){
+  navOn('admin');
+  const key = sessionStorage.getItem('dl-admin');
+  if (key) { try { await api('/api/admin/check'); return adminPanel(); } catch(e) { sessionStorage.removeItem('dl-admin'); } }
+  const out = h('span',{class:'msg', role:'status'});
+  const pw = h('input',{type:'password', id:'adminPw', autocomplete:'current-password', required:true});
+  const form = h('form',{class:'f'}, h('label',{class:'w'},'Admin password', pw), h('div',{class:'w row'}, h('button',{class:'go', type:'submit'},'Log in'), out));
+  form.addEventListener('submit', async e => {
+    e.preventDefault(); sessionStorage.setItem('dl-admin', pw.value);
+    try { await api('/api/admin/check'); adminPanel(); } catch(err){ sessionStorage.removeItem('dl-admin'); out.className='msg err'; out.textContent = err.message; }
+  });
+  $view.replaceChildren(h('div',{class:'grid'}, h('div',{class:'panel'}, h('h2',null,'Admin'), form), h('aside')));
+}
+async function adminPanel(){
+  const [subs, L, recs, banned] = await Promise.all([api('/api/admin/submissions'), api('/api/list'), api('/api/admin/records'), api('/api/admin/players')]);
+  const status = h('span',{class:'msg', role:'status'});
+  const say = (ok, t) => { status.className = 'msg ' + (ok?'ok':'err'); status.textContent = t; };
+  const act = async (fn, okText) => { try { await fn(); say(true, okText); adminPanel(); } catch(e){ say(false, e.message); } };
+
+  // submissions
+  const subBox = h('div');
+  if (!subs.length) subBox.append(h('p',null,'No submissions waiting.'));
+  for (const s of subs){
+    const pos = h('input',{type:'number', min:1, value: s.suggested || L.levels.length + 1, style:'width:110px', 'aria-label':'Position'});
+    const kv = h('dl',{class:'kv'});
+    const add = (k, v) => { if (v) kv.append(h('dt',null,k), h('dd',null, /^https:/.test(v) ? h('a',{href:v, target:'_blank', rel:'noopener noreferrer'}, v) : v)); };
+    if (s.type === 'record'){ add('Level', s.levelName); add('Player', s.player); add('Percent', s.percent + '%'); add('Video', s.video); }
+    else { ['creators','publisher','verifier','video','thumbnail','levelId','password','length','objects','createdIn','song','quote','minPercent'].forEach(k => add(k, s[k] != null ? String(s[k]) : '')); }
+    add('Submitted by', s.submitter); add('Note', s.note); add('Date', date(s.date));
+    subBox.append(h('div',{class:'sub'},
+      h('h5',null, h('span',{class:'pill ' + (s.type==='record'?'rec':'lev')}, s.type==='record'?'RECORD':'LEVEL'), ' ', s.type==='record' ? s.player + ' on ' + s.levelName : s.name), kv,
+      h('div',{class:'row'}, s.type==='level' ? h('label',null,'Position', pos) : null,
+        h('button',{class:'go sm', onclick:()=>act(()=>api('/api/admin/submissions/'+s.id+'/approve',{method:'POST', body:{position:pos.value}}),'Approved.')},'Approve'),
+        h('button',{class:'bad sm', onclick:()=>act(()=>api('/api/admin/submissions/'+s.id+'/reject',{method:'POST'}),'Rejected.')},'Reject'))));
+  }
+
+  // level editor
+  const fields = [['name','Name'],['position','Position','number'],['creators','Creators'],['publisher','Publisher'],['verifier','Verifier'],['video','Video link','url'],
+    ['thumbnail','Thumbnail link','url'],['levelId','Level ID'],['password','Password'],['length','Length'],['objects','Object count'],['difficulty','In-game difficulty'],
+    ['createdIn','Created in'],['song','Song'],['quote','Quote'],['minPercent','List percent','number'],['reason','Reason for a move (for position history)']];
+  function levelForm(lv, onDone){
+    const inputs = {};
+    const form = h('form',{class:'f'}, fields.map(([k,lab,type]) => h('label',{class: k==='song'||k==='quote'||k==='reason'?'w':null}, lab,
+      inputs[k] = h('input',{name:k, type:type||'text', value: lv ? (lv[k] != null ? lv[k] : '') : (k==='position' ? L.levels.length+1 : k==='difficulty' ? 'Extreme Demon' : ''), required: k==='name'}))),
+      h('div',{class:'w row'}, h('button',{class:'go', type:'submit'}, lv ? 'Save level' : 'Add level'),
+        lv ? h('button',{class:'bad', type:'button', onclick:()=>{ if (del.dataset.armed){ act(()=>api('/api/admin/levels/'+lv.id,{method:'DELETE'}),'Deleted.'); } else { del.dataset.armed='1'; del.textContent='Click again to delete'; } }}, 'Delete') : null));
+    const del = form.querySelector('button.bad');
+    form.addEventListener('submit', e => { e.preventDefault(); const data = Object.fromEntries(new FormData(form).entries());
+      act(() => lv ? api('/api/admin/levels/'+lv.id,{method:'PUT', body:data}) : api('/api/admin/levels',{method:'POST', body:data}), lv ? 'Saved.' : 'Added.'); });
+    return form;
+  }
+  const levelsBox = h('div');
+  for (const lv of L.levels){
+    const holder = h('div');
+    levelsBox.append(h('div',{class:'lvrow'}, h('div',{class:'row'}, h('b',null,'#' + lv.position + ' – ' + lv.name),
+      h('button',{class:'sm', onclick: async ()=>{ if (holder.childNodes.length){ holder.replaceChildren(); return; } const full = await api('/api/levels/'+lv.id); holder.replaceChildren(levelForm(full)); }},'Edit')), holder));
+  }
+
+  // records + players
+  const recBody = h('tbody', null, recs.map(r => h('tr',null, h('td',null, r.player), h('td',null, r.levelName || '?'), h('td',null, r.percent+'%'),
+    h('td',null, h('a',{href:r.video, target:'_blank', rel:'noopener noreferrer'},'Video')),
+    h('td',null, h('button',{class:'bad sm', onclick:()=>act(()=>api('/api/admin/records/'+r.id,{method:'DELETE'}),'Record removed.')},'Remove')))));
+  const names = [...new Set(recs.map(r => r.player))];
+  const plBody = h('tbody', null, names.map(n => { const b = (banned[n.toLowerCase()]||{}).banned;
+    return h('tr',null, h('td',null,n), h('td',null, b ? 'Hidden from the list' : 'Shown'),
+      h('td',null, h('button',{class:'sm' + (b?'':' bad'), onclick:()=>act(()=>api('/api/admin/players/'+encodeURIComponent(n),{method:'POST', body:{banned:!b}}), b?'Player shown.':'Player hidden.')}, b ? 'Show' : 'Hide'))); }));
+
+  // export / import
+  const file = h('input',{type:'file', accept:'application/json,.json', id:'importFile'});
+  const io = h('div',{class:'stack'},
+    h('div',{class:'row'}, h('button',{class:'go', onclick: async ()=>{ try { const data = await api('/api/admin/export');
+      const a = h('a',{href: URL.createObjectURL(new Blob([JSON.stringify(data,null,1)],{type:'application/json'})), download:'dihmon-list-' + new Date().toISOString().slice(0,10) + '.json'}); document.body.append(a); a.click(); a.remove(); say(true,'Exported.'); } catch(e){ say(false,e.message); } }},'Export JSON')),
+    h('label',null,'Import a JSON export (replaces everything on the site)', file),
+    h('div',{class:'row'}, h('button',{class:'bad', onclick: async ()=>{ const f = file.files[0]; if(!f){ say(false,'Choose a file first.'); return; }
+      try { const data = JSON.parse(await f.text()); await act(()=>api('/api/admin/import',{method:'POST', body:data}),'Imported.'); } catch(e){ say(false,'That file is not valid JSON.'); } }},'Import and replace')));
+
+  $view.replaceChildren(h('div',{class:'grid'},
+    h('div',null,
+      h('div',{class:'panel'}, h('h2',null,'Submissions (' + subs.length + ')'), subBox),
+      h('div',{class:'panel'}, h('h2',null,'Levels'), levelsBox.childNodes.length ? levelsBox : h('p',null,'No levels yet.'), h('h4',{class:'sec'},'Add a level'), levelForm(null)),
+      h('div',{class:'panel'}, h('h2',null,'Records'), h('div',{class:'scroll'}, h('table',{class:'tbl'}, h('thead',null,h('tr',null,h('th',null,'Player'),h('th',null,'Level'),h('th',null,'%'),h('th',null,''),h('th',null,''))), recBody))),
+      h('div',{class:'panel'}, h('h2',null,'Players'), h('p',null,'Hide a player to take them off the leaderboard without deleting their records.'), h('div',{class:'scroll'}, h('table',{class:'tbl'}, plBody)))),
+    h('aside',null, h('div',{class:'panel'}, h('h2',null,'Backup'), io, h('p',null, status)),
+      h('div',{class:'panel'}, h('h2',null,'Session'), h('p',null, h('button',{onclick:()=>{ sessionStorage.removeItem('dl-admin'); pageAdmin(); }},'Log out'))))));
+}
+
+// ------------------------------------------------------------------ router
+async function route(){
+  const parts = location.hash.replace(/^#\/?/,'').split('/');
+  try {
+    if (parts[0] === 'level' && parts[1]) await pageLevel(parts[1]);
+    else if (parts[0] === 'players') await pagePlayers();
+    else if (parts[0] === 'submit') await pageSubmit(parts[1]);
+    else if (parts[0] === 'admin') await pageAdmin();
+    else await pageList(['main','extended','legacy'].includes(parts[0]) ? parts[0] : 'main');
+  } catch(e) {
+    $view.replaceChildren(h('div',{class:'panel empty', style:'margin-top:24px'}, h('b',null,'Something went wrong'), e.message));
+  }
+}
+addEventListener('hashchange', route);
+route();
+
+// ------------------------------------------------------------------ the walls of blue blocks
+function walls(){
+  const W = Math.max(0, (innerWidth - 1300) / 2 + 10);
+  for (const id of ['wl','wr']){
+    const c = document.getElementById(id); c.style.display = W < 30 ? 'none' : 'block'; if (W < 30) continue;
+    const dpr = devicePixelRatio || 1; c.width = W * dpr; c.height = innerHeight * dpr; c.style.width = W + 'px';
+    const g = c.getContext('2d'); g.scale(dpr, dpr);
+    const cols = ['#0e5ea8','#1678c8','#2a90de','#46aef0','#0a4f8e','#3d8cc4'];
+    let seed = id === 'wl' ? 7 : 13; const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+    for (let y = -40; y < innerHeight + 40; y += 26){
+      const reach = W * (0.45 + rnd() * 0.55);
+      for (let k = 0; k < 4; k++){
+        const s = 40 + rnd() * 50, x = rnd() * reach - s * 0.3;
+        g.fillStyle = cols[Math.floor(rnd() * cols.length)];
+        g.fillRect(id === 'wl' ? x : W - x - s, y + rnd() * 20, s, s);
+      }
+    }
+  }
+}
+addEventListener('resize', walls); walls();
+</script>
+</body>
+</html>
