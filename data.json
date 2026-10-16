@@ -110,6 +110,12 @@
      "position": 5,
      "change": -1,
      "reason": "Brizz Circles: added to the list"
+    },
+    {
+     "date": "2026-10-16T21:07:35.577Z",
+     "position": 4,
+     "change": 1,
+     "reason": "Brizz Circles: moved down"
     }
    ],
    "name": "Dihnouement II",
@@ -127,7 +133,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 5
+   "position": 4
   },
   {
    "id": "4",
@@ -170,6 +176,12 @@
      "position": 4,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-16T21:07:35.577Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Moved down"
     }
    ],
    "name": "Brizz Circles",
@@ -187,7 +199,7 @@
    "createdIn": "2.2",
    "song": "~NK~ Fracture",
    "minPercent": 75,
-   "position": 4
+   "position": 5
   }
  ],
  "records": [],
