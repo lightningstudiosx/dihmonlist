@@ -8,6 +8,12 @@
      "position": 1,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-16T03:38:51.887Z",
+     "position": 2,
+     "change": -1,
+     "reason": "Scary Dih Eater 3000: added to the list"
     }
    ],
    "name": "Dih Travel",
@@ -25,10 +31,37 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
+   "position": 2
+  },
+  {
+   "id": "2",
+   "history": [
+    {
+     "date": "2026-10-16T03:38:51.887Z",
+     "position": 1,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Scary Dih Eater 3000",
+   "creators": "Kioul8944",
+   "publisher": "Kioul8944",
+   "verifier": "Kioul8944",
+   "video": "https://www.youtube.com/watch?v=OanJbUK7axM",
+   "thumbnail": "",
+   "quote": "AHH PLZ DONT EAT IT",
+   "levelId": "148143103",
+   "password": "Uncopylocked",
+   "length": "31s (Medium)",
+   "objects": "969",
+   "difficulty": "Extreme Diddy",
+   "createdIn": "2.2",
+   "song": "cYsmix - Eden",
+   "minPercent": 35,
    "position": 1
   }
  ],
  "records": [],
  "players": {},
- "nextId": 2
+ "nextId": 3
 }
