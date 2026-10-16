@@ -14,6 +14,12 @@
      "position": 2,
      "change": -1,
      "reason": "Scary Dih Eater 3000: added to the list"
+    },
+    {
+     "date": "2026-10-16T18:29:23.454Z",
+     "position": 3,
+     "change": -1,
+     "reason": "Dihnouement II: added to the list"
     }
    ],
    "name": "Dih Travel",
@@ -31,7 +37,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 2
+   "position": 3
   },
   {
    "id": "2",
@@ -59,9 +65,36 @@
    "song": "cYsmix - Eden",
    "minPercent": 35,
    "position": 1
+  },
+  {
+   "id": "3",
+   "history": [
+    {
+     "date": "2026-10-16T18:29:23.454Z",
+     "position": 2,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Dihnouement II",
+   "creators": "IceOweni",
+   "publisher": "IceOweni",
+   "verifier": "SethariusT",
+   "video": "https://www.youtube.com/watch?v=TZJ0qyECU-0",
+   "thumbnail": "",
+   "quote": "Plz someone replicate this level and give an ID",
+   "levelId": "Deleted",
+   "password": "Deleted",
+   "length": "~22s (Medium)",
+   "objects": "Unknown",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "Unknown",
+   "minPercent": 30,
+   "position": 2
   }
  ],
  "records": [],
  "players": {},
- "nextId": 3
+ "nextId": 4
 }
