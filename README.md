@@ -1,43 +1,25 @@
 # Dihmon List
 
-A demon list website: Main / Extended / Legacy lists, a page for every level (video, stats, position history, records),
-a player leaderboard, public submissions for records and levels, and an admin page to approve them.
+Runs on GitHub Pages: no server. The list is `data.json`; the admin page edits it for you.
 
-No dependencies. Needs Node.js 18 or newer.
+## Set up (once)
 
-## Run it on your computer
+1. Put `index.html`, `data.json` and this README in your repo (the one behind dihmonlist.kaifun.fun).
+2. index.html is already set to github.com/lightningstudiosx/dihmonlist (branch main). If you rename the repo or branch, change the three lines at the top of the script:
+   `REPO_OWNER` (your GitHub name), `REPO_NAME` (this repo's name), `BRANCH` (usually `main`).
+3. Make sure the repo has Issues turned on (Settings → General → Features → Issues).
+4. Make your admin token: GitHub → Settings → Developer settings → Personal access tokens → Fine-grained tokens →
+   Generate new token. Repository access: only this repo. Permissions: **Contents: Read and write**,
+   **Issues: Read and write**. Copy it.
+5. Go to dihmonlist.kaifun.fun/#/admin and paste the token. It's kept in that browser only. Don't share it:
+   anyone with it can change the list.
 
-    ADMIN_PASSWORD=pick-something-long node server.js
+## How it works
 
-(On Windows PowerShell: `$env:ADMIN_PASSWORD="pick-something-long"; node server.js`)
-
-Then open http://localhost:3000. The admin page is at http://localhost:3000/#/admin.
-
-## Put it online
-
-Any host that runs Node works (Render, Railway, Fly.io, a VPS...):
-
-- Start command: `node server.js`
-- Environment variables:
-  - `ADMIN_PASSWORD` - your admin password (the admin page is switched off without it)
-  - `PORT` - most hosts set this for you
-  - `DATA_FILE` - where to keep the data. Point it at a persistent disk (for example `/data/data.json` on Render
-    with a disk mounted at `/data`). Free plans without a disk forget everything when they restart.
-- Use the host's https address so your admin password isn't sent in the clear.
-
-## Backups
-
-On the admin page, **Export JSON** downloads everything (levels, records, submissions, hidden players).
-**Import and replace** loads one of those files back. Export before big changes.
-
-## How things work
-
-- Anyone can submit a record or a level. Nothing shows up until you approve it on the admin page.
-- Approving a level puts it at the position you choose; everything below moves down, and every level's
-  position history records the change.
-- Editing a level's position (with a reason) moves it and adds history entries.
-- Players appear on the leaderboard once you approve one of their records. Hide a player to take them off it.
-- Points: #1 is worth 350, falling off down the list, and nothing past #150. On the main list (top 75) a record
-  at the level's list percent is worth a tenth of the full score, rising to the full score at 100%. Extended and
-  legacy levels take 100% records only. Change `fullScore` / `recordScore` in server.js to use your own formula.
-- Thumbnails come from the YouTube video, unless a thumbnail image link is given.
+- Visitors submit a record or a level on the Submit page. It opens a GitHub issue with everything filled in;
+  they press "Submit new issue". They need a (free) GitHub account.
+- Your admin page lists those issues. Approve adds the record or level to `data.json` (a commit to the repo)
+  and closes the issue; Reject closes it.
+- You can also add, edit, move (with a reason for the position history) and delete levels, remove records,
+  hide players, and export / import the whole list as JSON.
+- After a change, GitHub Pages takes about a minute to show it on the site.
