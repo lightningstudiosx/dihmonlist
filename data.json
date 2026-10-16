@@ -104,6 +104,12 @@
      "position": 4,
      "change": -1,
      "reason": "Dih Travel: moved up"
+    },
+    {
+     "date": "2026-10-16T20:54:38.891Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Brizz Circles: added to the list"
     }
    ],
    "name": "Dihnouement II",
@@ -121,7 +127,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 4
+   "position": 5
   },
   {
    "id": "4",
@@ -155,9 +161,36 @@
    "song": "KzX - Stalemate",
    "minPercent": 50,
    "position": 1
+  },
+  {
+   "id": "5",
+   "history": [
+    {
+     "date": "2026-10-16T20:54:38.891Z",
+     "position": 4,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Brizz Circles",
+   "creators": "Scariez",
+   "publisher": "Scariez",
+   "verifier": "blackpenguiiin",
+   "video": "https://www.youtube.com/watch?v=zPcVWLvpans",
+   "thumbnail": "",
+   "quote": "LESGOO FREE BRIZZ",
+   "levelId": "130896109",
+   "password": "Uncopylocked",
+   "length": "27s (Short)",
+   "objects": "6450",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "~NK~ Fracture",
+   "minPercent": 75,
+   "position": 4
   }
  ],
  "records": [],
  "players": {},
- "nextId": 5
+ "nextId": 6
 }
