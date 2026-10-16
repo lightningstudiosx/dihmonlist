@@ -1,1 +1,34 @@
-{"levels":[],"records":[],"players":{},"nextId":1}
+{
+ "levels": [
+  {
+   "id": "1",
+   "history": [
+    {
+     "date": "2026-10-16T03:28:31.080Z",
+     "position": 1,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Dih Travel",
+   "creators": "Scythster",
+   "publisher": "Scythster",
+   "verifier": "Scythster",
+   "video": "https://www.youtube.com/shorts/eZi1Cv42ruE",
+   "thumbnail": "https://dihmonlist.kaifun.fun/thumbs/dih-travel-cinematic%20(1).png",
+   "quote": "Mmmm dihhh",
+   "levelId": "145553249",
+   "password": "Uncopylocked",
+   "length": "50 Seconds (Medium)",
+   "objects": "790",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "Stereo Madness",
+   "minPercent": 67,
+   "position": 1
+  }
+ ],
+ "records": [],
+ "players": {},
+ "nextId": 2
+}
