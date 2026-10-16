@@ -53,6 +53,12 @@
      "position": 1,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-16T18:52:44.246Z",
+     "position": 2,
+     "change": -1,
+     "reason": "Grief 2: moved up"
     }
    ],
    "name": "Scary Dih Eater 3000",
@@ -70,7 +76,7 @@
    "createdIn": "2.2",
    "song": "cYsmix - Eden",
    "minPercent": 35,
-   "position": 1
+   "position": 2
   },
   {
    "id": "3",
@@ -113,6 +119,12 @@
      "position": 2,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-16T18:52:44.245Z",
+     "position": 1,
+     "change": 1,
+     "reason": "Moved up"
     }
    ],
    "name": "Grief 2",
@@ -130,7 +142,7 @@
    "createdIn": "2.2",
    "song": "KzX - Stalemate",
    "minPercent": 50,
-   "position": 2
+   "position": 1
   }
  ],
  "records": [],
