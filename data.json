@@ -335,6 +335,12 @@
      "position": 8,
      "change": 5,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:01.758Z",
+     "position": 9,
+     "change": -1,
+     "reason": "Dih Travel: moved up"
     }
    ],
    "name": "Dih Circles",
@@ -352,7 +358,7 @@
    "createdIn": "2.2",
    "song": "Koraii - Oracle",
    "minPercent": 50,
-   "position": 8
+   "position": 9
   },
   {
    "id": "11",
@@ -374,6 +380,12 @@
      "position": 9,
      "change": 5,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:01.758Z",
+     "position": 10,
+     "change": -1,
+     "reason": "Dih Travel: moved up"
     }
    ],
    "name": "DIH",
@@ -391,7 +403,7 @@
    "createdIn": "2.2",
    "song": "F-777 - Sonic Blaster",
    "minPercent": 60,
-   "position": 9
+   "position": 10
   },
   {
    "id": "15",
@@ -407,6 +419,12 @@
      "position": 10,
      "change": -5,
      "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T07:16:01.758Z",
+     "position": 11,
+     "change": -1,
+     "reason": "Dih Travel: moved up"
     }
    ],
    "name": "VeritY",
@@ -424,7 +442,7 @@
    "createdIn": "2.0",
    "song": "TheFatRat - The Calling (feat. Laura Brehm)",
    "minPercent": 50,
-   "position": 10
+   "position": 11
   },
   {
    "id": "1",
@@ -506,6 +524,12 @@
      "position": 11,
      "change": 4,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:01.758Z",
+     "position": 8,
+     "change": 3,
+     "reason": "Moved up"
     }
    ],
    "name": "Dih Travel",
@@ -523,7 +547,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 11
+   "position": 8
   },
   {
    "id": "12",
