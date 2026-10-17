@@ -173,6 +173,12 @@
      "position": 12,
      "change": -5,
      "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T15:14:12.712Z",
+     "position": 11,
+     "change": 1,
+     "reason": "dih adventures: moved down"
     }
    ],
    "name": "DIH",
@@ -190,7 +196,7 @@
    "createdIn": "2.2",
    "song": "F-777 - Sonic Blaster",
    "minPercent": 60,
-   "position": 12
+   "position": 11
   },
   {
    "id": "18",
@@ -704,6 +710,12 @@
      "position": 10,
      "change": 1,
      "reason": "DIH: moved down"
+    },
+    {
+     "date": "2026-10-17T15:14:12.712Z",
+     "position": 12,
+     "change": -2,
+     "reason": "Moved down"
     }
    ],
    "name": "dih adventures",
@@ -721,7 +733,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - Every End...",
    "minPercent": 75,
-   "position": 10
+   "position": 12
   },
   {
    "id": "20",
@@ -737,6 +749,12 @@
      "position": 11,
      "change": 1,
      "reason": "DIH: moved down"
+    },
+    {
+     "date": "2026-10-17T15:14:12.712Z",
+     "position": 10,
+     "change": 1,
+     "reason": "dih adventures: moved down"
     }
    ],
    "name": "Dihnoument",
@@ -754,7 +772,7 @@
    "createdIn": "ColaGDPS",
    "song": "Unknown",
    "minPercent": 35,
-   "position": 11
+   "position": 10
   },
   {
    "id": "6",
