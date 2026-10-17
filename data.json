@@ -86,6 +86,12 @@
      "position": 3,
      "change": 1,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 4,
+     "change": -1,
+     "reason": "DIH: moved up"
     }
    ],
    "name": "Tunnel of Dih",
@@ -103,7 +109,7 @@
    "createdIn": "2.2",
    "song": "Jewelz123 - Silent Hill (Dubstep)",
    "minPercent": 45,
-   "position": 3
+   "position": 4
   },
   {
    "id": "9",
@@ -125,6 +131,12 @@
      "position": 4,
      "change": 3,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 5,
+     "change": -1,
+     "reason": "DIH: moved up"
     }
    ],
    "name": "Dih Fungus",
@@ -142,7 +154,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - At the Speed of Light",
    "minPercent": 40,
-   "position": 4
+   "position": 5
   },
   {
    "id": "10",
@@ -164,6 +176,12 @@
      "position": 5,
      "change": 5,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 6,
+     "change": -1,
+     "reason": "DIH: moved up"
     }
    ],
    "name": "Sakupen Wave Dih",
@@ -181,7 +199,7 @@
    "createdIn": "2.2",
    "song": "MrKoolTrix - Sakupen Hell Yes RMX",
    "minPercent": 55,
-   "position": 5
+   "position": 6
   },
   {
    "id": "2",
@@ -233,6 +251,12 @@
      "position": 6,
      "change": 6,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 7,
+     "change": -1,
+     "reason": "DIH: moved up"
     }
    ],
    "name": "Scary Dih Eater 3000",
@@ -250,7 +274,7 @@
    "createdIn": "2.2",
    "song": "cYsmix - Eden",
    "minPercent": 35,
-   "position": 6
+   "position": 7
   },
   {
    "id": "14",
@@ -266,6 +290,12 @@
      "position": 7,
      "change": -4,
      "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 8,
+     "change": -1,
+     "reason": "DIH: moved up"
     }
    ],
    "name": "Verity Circles",
@@ -283,7 +313,7 @@
    "createdIn": "2.2",
    "song": "czer323 - Extraction",
    "minPercent": 40,
-   "position": 7
+   "position": 8
   },
   {
    "id": "6",
@@ -341,6 +371,12 @@
      "position": 9,
      "change": -1,
      "reason": "Dih Travel: moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 10,
+     "change": -1,
+     "reason": "DIH: moved up"
     }
    ],
    "name": "Dih Circles",
@@ -358,7 +394,7 @@
    "createdIn": "2.2",
    "song": "Koraii - Oracle",
    "minPercent": 50,
-   "position": 9
+   "position": 10
   },
   {
    "id": "11",
@@ -386,6 +422,12 @@
      "position": 10,
      "change": -1,
      "reason": "Dih Travel: moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 3,
+     "change": 7,
+     "reason": "Moved up"
     }
    ],
    "name": "DIH",
@@ -403,7 +445,7 @@
    "createdIn": "2.2",
    "song": "F-777 - Sonic Blaster",
    "minPercent": 60,
-   "position": 10
+   "position": 3
   },
   {
    "id": "15",
@@ -530,6 +572,12 @@
      "position": 8,
      "change": 3,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 9,
+     "change": -1,
+     "reason": "DIH: moved up"
     }
    ],
    "name": "Dih Travel",
@@ -547,7 +595,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 8
+   "position": 9
   },
   {
    "id": "12",
