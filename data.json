@@ -38,6 +38,12 @@
      "position": 4,
      "change": -1,
      "reason": "Dih Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Son 618: added to the list"
     }
    ],
    "name": "Dih Travel",
@@ -55,7 +61,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 4
+   "position": 5
   },
   {
    "id": "2",
@@ -71,6 +77,12 @@
      "position": 2,
      "change": -1,
      "reason": "Grief 2: moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 3,
+     "change": -1,
+     "reason": "Son 618: added to the list"
     }
    ],
    "name": "Scary Dih Eater 3000",
@@ -88,7 +100,7 @@
    "createdIn": "2.2",
    "song": "cYsmix - Eden",
    "minPercent": 35,
-   "position": 2
+   "position": 3
   },
   {
    "id": "3",
@@ -128,6 +140,12 @@
      "position": 5,
      "change": -1,
      "reason": "Dih Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Son 618: added to the list"
     }
    ],
    "name": "Dihnouement II",
@@ -145,7 +163,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 5
+   "position": 6
   },
   {
    "id": "4",
@@ -161,6 +179,12 @@
      "position": 1,
      "change": 1,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 2,
+     "change": -1,
+     "reason": "Son 618: added to the list"
     }
    ],
    "name": "Grief 2",
@@ -178,7 +202,7 @@
    "createdIn": "2.2",
    "song": "KzX - Stalemate",
    "minPercent": 50,
-   "position": 1
+   "position": 2
   },
   {
    "id": "5",
@@ -200,6 +224,12 @@
      "position": 6,
      "change": -1,
      "reason": "Dih Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 7,
+     "change": -1,
+     "reason": "Son 618: added to the list"
     }
    ],
    "name": "Brizz Circles",
@@ -217,7 +247,7 @@
    "createdIn": "2.2",
    "song": "~NK~ Fracture",
    "minPercent": 75,
-   "position": 6
+   "position": 7
   },
   {
    "id": "6",
@@ -233,6 +263,12 @@
      "position": 3,
      "change": 3,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Son 618: added to the list"
     }
    ],
    "name": "Dih Circles",
@@ -250,10 +286,37 @@
    "createdIn": "2.2",
    "song": "Koraii - Oracle",
    "minPercent": 50,
-   "position": 3
+   "position": 4
+  },
+  {
+   "id": "7",
+   "history": [
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 1,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Son 618",
+   "creators": "Arctic, Pooch, CrystalDinocz",
+   "publisher": "Resonance743",
+   "verifier": "CrystalDinocz",
+   "video": "https://www.youtube.com/watch?v=z2WUwI5LbMQ",
+   "thumbnail": "https://i.ytimg.com/vi/z2WUwI5LbMQ/maxresdefault.jpg",
+   "quote": "Watch me beat the Super Top 1 level SON 618 after 3↑↑↑4 attempts 😭🙏",
+   "levelId": "146637156",
+   "password": "Uncopylocked",
+   "length": "1m 13s (Long)",
+   "objects": "29340",
+   "difficulty": "Impossible Dihmon",
+   "createdIn": "2.2",
+   "song": "Djjaner - Sparkler",
+   "minPercent": 50,
+   "position": 1
   }
  ],
  "records": [],
  "players": {},
- "nextId": 7
+ "nextId": 8
 }
