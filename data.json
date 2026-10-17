@@ -1,6 +1,492 @@
 {
  "levels": [
   {
+   "id": "7",
+   "history": [
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 1,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Son 618",
+   "creators": "Arctic, Pooch, CrystalDinocz",
+   "publisher": "Resonance743",
+   "verifier": "CrystalDinocz",
+   "video": "https://www.youtube.com/watch?v=z2WUwI5LbMQ",
+   "thumbnail": "https://i.ytimg.com/vi/z2WUwI5LbMQ/maxresdefault.jpg",
+   "quote": "Watch me beat the Super Top 1 level SON 618 after 3↑↑↑4 attempts 😭🙏",
+   "levelId": "146637156",
+   "password": "Uncopylocked",
+   "length": "1m 13s (Long)",
+   "objects": "29340",
+   "difficulty": "Impossible Dihmon",
+   "createdIn": "2.2",
+   "song": "Djjaner - Sparkler",
+   "minPercent": 50,
+   "position": 1
+  },
+  {
+   "id": "4",
+   "history": [
+    {
+     "date": "2026-10-16T18:52:15.050Z",
+     "position": 2,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-16T18:52:44.245Z",
+     "position": 1,
+     "change": 1,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 2,
+     "change": -1,
+     "reason": "Son 618: added to the list"
+    }
+   ],
+   "name": "Grief 2",
+   "creators": "Mr. Happy Junior",
+   "publisher": "UltraGamerXx",
+   "verifier": "Doggie Jr",
+   "video": "https://www.youtube.com/watch?v=7UP6FhC9wvM",
+   "thumbnail": "https://i.ytimg.com/vi/7UP6FhC9wvM/maxresdefault.jpg",
+   "quote": "I had to remake it to be possible so it might be a little different",
+   "levelId": "150674911",
+   "password": "Uncopylocked (probably)",
+   "length": "2m 46s (XL)",
+   "objects": "189323",
+   "difficulty": "Diddyarchangel Demon",
+   "createdIn": "2.2",
+   "song": "KzX - Stalemate",
+   "minPercent": 50,
+   "position": 2
+  },
+  {
+   "id": "14",
+   "history": [
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 3,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Verity Circles",
+   "creators": "AvisNebula & Xwa0",
+   "publisher": "AvisNebula",
+   "verifier": "AvisNebula",
+   "video": "https://www.youtube.com/watch?v=V_DcUnmh_5Y",
+   "thumbnail": "https://i.ytimg.com/vi/V_DcUnmh_5Y/hqdefault.jpg",
+   "quote": "reuploaded, to make it public :3, made by Xwa0 and me",
+   "levelId": "148765504",
+   "password": "Unknown",
+   "length": "Medium (30-60s)",
+   "objects": "6515",
+   "difficulty": "Hard Demon (est.)",
+   "createdIn": "2.2",
+   "song": "czer323 - Extraction",
+   "minPercent": 40,
+   "position": 3
+  },
+  {
+   "id": "8",
+   "history": [
+    {
+     "date": "2026-10-17T05:00:00.000Z",
+     "position": 3,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Verity Circles: added to the list"
+    }
+   ],
+   "name": "Tunnel of Dih",
+   "creators": "colorazex56",
+   "publisher": "colorazex56",
+   "verifier": "cocoxdxdxd",
+   "video": "https://www.youtube.com/watch?v=HEiLcNLdLIk",
+   "thumbnail": "https://i.ytimg.com/vi/HEiLcNLdLIk/maxresdefault.jpg",
+   "quote": "dih",
+   "levelId": "126526604",
+   "password": "Uncopylocked",
+   "length": "Medium (30-60s)",
+   "objects": "5166",
+   "difficulty": "Extreme Dihmon",
+   "createdIn": "2.2",
+   "song": "Jewelz123 - Silent Hill (Dubstep)",
+   "minPercent": 45,
+   "position": 4
+  },
+  {
+   "id": "15",
+   "history": [
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 5,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "VeritY",
+   "creators": "Serponge",
+   "publisher": "Serponge",
+   "verifier": "Serponge",
+   "video": "https://www.youtube.com/watch?v=p15w9MB2eAc",
+   "thumbnail": "https://i.ytimg.com/vi/p15w9MB2eAc/hqdefault.jpg",
+   "quote": "Dedicated to EricVanWilderman and MERG",
+   "levelId": "18834999",
+   "password": "Unknown",
+   "length": "Long (60-120s)",
+   "objects": "22595",
+   "difficulty": "Medium Demon (Rated 10★, Featured)",
+   "createdIn": "2.0",
+   "song": "TheFatRat - The Calling (feat. Laura Brehm)",
+   "minPercent": 50,
+   "position": 5
+  },
+  {
+   "id": "16",
+   "history": [
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 6,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Verity in GD",
+   "creators": "o0o4484",
+   "publisher": "o0o4484",
+   "verifier": "o0o4484",
+   "video": "https://www.youtube.com/watch?v=INkbEolZdPk",
+   "thumbnail": "https://i.ytimg.com/vi/INkbEolZdPk/hqdefault.jpg",
+   "quote": "What if verity infested Geometry Dash instead :eyes:",
+   "levelId": "149730885",
+   "password": "Unknown",
+   "length": "XL (2m+)",
+   "objects": "57290",
+   "difficulty": "Easy Demon (est.)",
+   "createdIn": "2.2",
+   "song": "chane-of-musik - Its me Its Verity (Remix)",
+   "minPercent": 55,
+   "position": 6
+  },
+  {
+   "id": "9",
+   "history": [
+    {
+     "date": "2026-10-17T05:01:00.000Z",
+     "position": 4,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 7,
+     "change": -3,
+     "reason": "3 new levels added above"
+    }
+   ],
+   "name": "Dih Fungus",
+   "creators": "ZynthFrox",
+   "publisher": "ZynthFrox",
+   "verifier": "Zоинк",
+   "video": "https://www.youtube.com/watch?v=aPO_CRky_fM",
+   "thumbnail": "https://i.ytimg.com/vi/aPO_CRky_fM/maxresdefault.jpg",
+   "quote": "[UPCOMING TOP 1] DIH FUNGUS (Verified by Zоинк)",
+   "levelId": "141029482",
+   "password": "Uncopylocked",
+   "length": "58s (Medium)",
+   "objects": "31400",
+   "difficulty": "Extreme Dihmon",
+   "createdIn": "2.2",
+   "song": "Dimrain47 - At the Speed of Light",
+   "minPercent": 40,
+   "position": 7
+  },
+  {
+   "id": "17",
+   "history": [
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 8,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Its Me Its Verity",
+   "creators": "morgpate",
+   "publisher": "morgpate",
+   "verifier": "morgpate",
+   "video": "https://www.youtube.com/watch?v=NN8gkob9PVA",
+   "thumbnail": "https://i.ytimg.com/vi/NN8gkob9PVA/hqdefault.jpg",
+   "quote": "ask me anything!",
+   "levelId": "145549353",
+   "password": "Unknown",
+   "length": "XL (2m+)",
+   "objects": "14805",
+   "difficulty": "Insane (est. 8★)",
+   "createdIn": "2.2",
+   "song": "iammodus - Engine Start",
+   "minPercent": 60,
+   "position": 8
+  },
+  {
+   "id": "18",
+   "history": [
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 9,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Indestructible Dih",
+   "creators": "swifticat",
+   "publisher": "swifticat",
+   "verifier": "swifticat",
+   "video": "https://www.youtube.com/watch?v=nAhGVTOV7zs",
+   "thumbnail": "https://i.ytimg.com/vi/nAhGVTOV7zs/hqdefault.jpg",
+   "quote": "RAH RAH",
+   "levelId": "129862131",
+   "password": "Unknown",
+   "length": "Medium (30-60s)",
+   "objects": "3076",
+   "difficulty": "Insane (est. 8★)",
+   "createdIn": "2.2",
+   "song": "JordanKyser - Sad Machine (JK Remix)",
+   "minPercent": 60,
+   "position": 9
+  },
+  {
+   "id": "10",
+   "history": [
+    {
+     "date": "2026-10-17T05:01:10.000Z",
+     "position": 5,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 10,
+     "change": -5,
+     "reason": "5 new levels added above"
+    }
+   ],
+   "name": "Sakupen Wave Dih",
+   "creators": "DihEnjoyer",
+   "publisher": "DihEnjoyer",
+   "verifier": "DihEnjoyer",
+   "video": "https://www.youtube.com/watch?v=p7d5BE3OMOU",
+   "thumbnail": "https://i.ytimg.com/vi/p7d5BE3OMOU/maxresdefault.jpg",
+   "quote": "Sakupen Wave Dih 100% // Extreme Demon",
+   "levelId": "134920184",
+   "password": "Uncopylocked",
+   "length": "42s (Medium)",
+   "objects": "18450",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "MrKoolTrix - Sakupen Hell Yes RMX",
+   "minPercent": 55,
+   "position": 10
+  },
+  {
+   "id": "19",
+   "history": [
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 11,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "dih adventures",
+   "creators": "TurbiTune",
+   "publisher": "TurbiTune",
+   "verifier": "TurbiTune",
+   "video": "https://www.youtube.com/watch?v=ot0ZZOjL6N4",
+   "thumbnail": "https://i.ytimg.com/vi/ot0ZZOjL6N4/hqdefault.jpg",
+   "quote": "(No description) - 44k+ downloads, the most played dih level",
+   "levelId": "138956135",
+   "password": "Free to copy",
+   "length": "Platformer",
+   "objects": "265",
+   "difficulty": "Harder (est. 6★, Platformer)",
+   "createdIn": "2.2",
+   "song": "Dimrain47 - Every End...",
+   "minPercent": 75,
+   "position": 11
+  },
+  {
+   "id": "2",
+   "history": [
+    {
+     "date": "2026-10-16T03:38:51.887Z",
+     "position": 1,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-16T18:52:44.245Z",
+     "position": 2,
+     "change": -1,
+     "reason": "Grief 2: moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 3,
+     "change": -1,
+     "reason": "Son 618: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:00:00.000Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Tunnel of Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:00.000Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Dih Fungus: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:10.000Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Sakupen Wave Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 12,
+     "change": -6,
+     "reason": "6 new levels added above"
+    }
+   ],
+   "name": "Scary Dih Eater 3000",
+   "creators": "Kioul8944",
+   "publisher": "Kioul8944",
+   "verifier": "Kioul8944",
+   "video": "https://www.youtube.com/watch?v=OanJbUK7axM",
+   "thumbnail": "https://dihmonlist.kaifun.fun/thumbs/scary-dih-eater-3000.png",
+   "quote": "AHH PLZ DONT EAT IT",
+   "levelId": "148143103",
+   "password": "Uncopylocked",
+   "length": "31s (Medium)",
+   "objects": "969",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "cYsmix - Eden",
+   "minPercent": 35,
+   "position": 12
+  },
+  {
+   "id": "6",
+   "history": [
+    {
+     "date": "2026-10-17T04:43:00.000Z",
+     "position": 6,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T04:49:36.071Z",
+     "position": 3,
+     "change": 3,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Son 618: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:00:00.000Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Tunnel of Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:00.000Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Dih Fungus: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:10.000Z",
+     "position": 7,
+     "change": -1,
+     "reason": "Sakupen Wave Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 13,
+     "change": -6,
+     "reason": "6 new levels added above"
+    }
+   ],
+   "name": "Dih Circles",
+   "creators": "Owme",
+   "publisher": "Owme",
+   "verifier": "Vexur8698",
+   "video": "https://www.youtube.com/watch?v=TyewqvobbQ4",
+   "thumbnail": "https://i.ytimg.com/vi/TyewqvobbQ4/maxresdefault.jpg",
+   "quote": "Don't Infer Hints",
+   "levelId": "122136866",
+   "password": "Uncopylocked",
+   "length": "Long (60-120s)",
+   "objects": "21930",
+   "difficulty": "Hard Demon",
+   "createdIn": "2.2",
+   "song": "Koraii - Oracle",
+   "minPercent": 50,
+   "position": 13
+  },
+  {
+   "id": "11",
+   "history": [
+    {
+     "date": "2026-10-17T05:01:20.000Z",
+     "position": 8,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 14,
+     "change": -6,
+     "reason": "6 new levels added above"
+    }
+   ],
+   "name": "DIH",
+   "creators": "G2W-c8l & More",
+   "publisher": "G2W-c8l",
+   "verifier": "G2W-c8l",
+   "video": "https://www.youtube.com/watch?v=m0gcuUQqSCQ",
+   "thumbnail": "https://i.ytimg.com/vi/m0gcuUQqSCQ/maxresdefault.jpg",
+   "quote": "Join the dih megacollab and decorate a dih!",
+   "levelId": "137581216",
+   "password": "Uncopylocked",
+   "length": "1m 05s (Long)",
+   "objects": "11200",
+   "difficulty": "Hard Demon",
+   "createdIn": "2.2",
+   "song": "F-777 - Sonic Blaster",
+   "minPercent": 60,
+   "position": 14
+  },
+  {
    "id": "1",
    "history": [
     {
@@ -68,81 +554,63 @@
      "position": 9,
      "change": -1,
      "reason": "DIH: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 15,
+     "change": -6,
+     "reason": "6 new levels added above"
     }
    ],
    "name": "Dih Travel",
    "creators": "Scythster",
-   "publisher": "Scythster",
+   "publisher": "slyerv (Scythster)",
    "verifier": "Scythster",
    "video": "https://www.youtube.com/shorts/eZi1Cv42ruE",
    "thumbnail": "https://dihmonlist.kaifun.fun/thumbs/dih-travel.png",
    "quote": "Mmmm dihhh",
    "levelId": "145553249",
    "password": "Uncopylocked",
-   "length": "50 Seconds (Medium)",
+   "length": "Medium (30-60s)",
    "objects": "790",
    "difficulty": "Medium Demon",
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 9
+   "position": 15
   },
   {
-   "id": "2",
+   "id": "12",
    "history": [
     {
-     "date": "2026-10-16T03:38:51.887Z",
-     "position": 1,
+     "date": "2026-10-17T05:01:30.000Z",
+     "position": 10,
      "change": null,
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-16T18:52:44.246Z",
-     "position": 2,
-     "change": -1,
-     "reason": "Grief 2: moved up"
-    },
-    {
-     "date": "2026-10-17T04:57:00.000Z",
-     "position": 3,
-     "change": -1,
-     "reason": "Son 618: added to the list"
-    },
-    {
-     "date": "2026-10-17T05:00:00.000Z",
-     "position": 4,
-     "change": -1,
-     "reason": "Tunnel of Dih: added to the list"
-    },
-    {
-     "date": "2026-10-17T05:01:00.000Z",
-     "position": 5,
-     "change": -1,
-     "reason": "Dih Fungus: added to the list"
-    },
-    {
-     "date": "2026-10-17T05:01:10.000Z",
-     "position": 6,
-     "change": -1,
-     "reason": "Sakupen Wave Dih: added to the list"
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 16,
+     "change": -6,
+     "reason": "6 new levels added above"
     }
    ],
-   "name": "Scary Dih Eater 3000",
-   "creators": "Kioul8944",
-   "publisher": "Kioul8944",
-   "verifier": "Kioul8944",
-   "video": "https://www.youtube.com/watch?v=OanJbUK7axM",
-   "thumbnail": "https://dihmonlist.kaifun.fun/thumbs/scary-dih-eater-3000.png",
-   "quote": "AHH PLZ DONT EAT IT",
-   "levelId": "148143103",
+   "name": "Dih Wave",
+   "creators": "BritishianKing",
+   "publisher": "Yaku497",
+   "verifier": "Sowanchanraksa",
+   "video": "https://www.youtube.com/watch?v=WgBpSkrKmDE",
+   "thumbnail": "https://dihmonlist.kaifun.fun/thumbs/dih-wave.png",
+   "quote": "Made by BritishianKing Verified by me in 57 attempts",
+   "levelId": "116355550",
    "password": "Uncopylocked",
-   "length": "31s (Medium)",
-   "objects": "969",
-   "difficulty": "Insane Demon",
+   "length": "13s (Short)",
+   "objects": "1930",
+   "difficulty": "Medium Demon",
    "createdIn": "2.2",
-   "song": "cYsmix - Eden",
-   "minPercent": 35,
-   "position": 6
+   "song": "yagru - g444444444g",
+   "minPercent": 70,
+   "position": 16
   },
   {
    "id": "3",
@@ -218,6 +686,12 @@
      "position": 11,
      "change": -1,
      "reason": "Dih Wave: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 17,
+     "change": -6,
+     "reason": "6 new levels added above"
     }
    ],
    "name": "Dihnouement II",
@@ -235,46 +709,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 11
-  },
-  {
-   "id": "4",
-   "history": [
-    {
-     "date": "2026-10-16T18:52:15.050Z",
-     "position": 2,
-     "change": null,
-     "reason": "Added to the list"
-    },
-    {
-     "date": "2026-10-16T18:52:44.245Z",
-     "position": 1,
-     "change": 1,
-     "reason": "Moved up"
-    },
-    {
-     "date": "2026-10-17T04:57:00.000Z",
-     "position": 2,
-     "change": -1,
-     "reason": "Son 618: added to the list"
-    }
-   ],
-   "name": "Grief 2",
-   "creators": "Mr. Happy Junior",
-   "publisher": "UltraGamerXx",
-   "verifier": "Doggie Jr",
-   "video": "https://www.youtube.com/watch?v=7UP6FhC9wvM",
-   "thumbnail": "",
-   "quote": "I had to remake it to be possible so it might be a little different",
-   "levelId": "150674911",
-   "password": "Uncopylocked (probably)",
-   "length": "2m 46s (XL)",
-   "objects": "189323",
-   "difficulty": "Diddyarchangel Demon",
-   "createdIn": "2.2",
-   "song": "KzX - Stalemate",
-   "minPercent": 50,
-   "position": 2
+   "position": 17
   },
   {
    "id": "5",
@@ -332,6 +767,12 @@
      "position": 12,
      "change": -1,
      "reason": "Dih Wave: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 18,
+     "change": -6,
+     "reason": "6 new levels added above"
     }
    ],
    "name": "Brizz Circles",
@@ -339,7 +780,7 @@
    "publisher": "Scariez",
    "verifier": "blackpenguiiin",
    "video": "https://www.youtube.com/watch?v=zPcVWLvpans",
-   "thumbnail": "",
+   "thumbnail": "https://i.ytimg.com/vi/zPcVWLvpans/maxresdefault.jpg",
    "quote": "LESGOO FREE BRIZZ",
    "levelId": "130896109",
    "password": "Uncopylocked",
@@ -349,226 +790,7 @@
    "createdIn": "2.2",
    "song": "~NK~ Fracture",
    "minPercent": 75,
-   "position": 12
-  },
-  {
-   "id": "6",
-   "history": [
-    {
-     "date": "2026-10-17T04:43:00.000Z",
-     "position": 6,
-     "change": null,
-     "reason": "Added to the list"
-    },
-    {
-     "date": "2026-10-17T04:49:36.071Z",
-     "position": 3,
-     "change": 3,
-     "reason": "Moved up"
-    },
-    {
-     "date": "2026-10-17T04:57:00.000Z",
-     "position": 4,
-     "change": -1,
-     "reason": "Son 618: added to the list"
-    },
-    {
-     "date": "2026-10-17T05:00:00.000Z",
-     "position": 5,
-     "change": -1,
-     "reason": "Tunnel of Dih: added to the list"
-    },
-    {
-     "date": "2026-10-17T05:01:00.000Z",
-     "position": 6,
-     "change": -1,
-     "reason": "Dih Fungus: added to the list"
-    },
-    {
-     "date": "2026-10-17T05:01:10.000Z",
-     "position": 7,
-     "change": -1,
-     "reason": "Sakupen Wave Dih: added to the list"
-    }
-   ],
-   "name": "Dih Circles",
-   "creators": "Owme",
-   "publisher": "Owme",
-   "verifier": "Vexur8698",
-   "video": "https://www.youtube.com/watch?v=TyewqvobbQ4",
-   "thumbnail": "",
-   "quote": "Don't Infer Hints",
-   "levelId": "122136866",
-   "password": "Uncopylocked",
-   "length": "1m 12s (Long)",
-   "objects": "14200",
-   "difficulty": "Hard Demon",
-   "createdIn": "2.2",
-   "song": "Koraii - Oracle",
-   "minPercent": 50,
-   "position": 7
-  },
-  {
-   "id": "7",
-   "history": [
-    {
-     "date": "2026-10-17T04:57:00.000Z",
-     "position": 1,
-     "change": null,
-     "reason": "Added to the list"
-    }
-   ],
-   "name": "Son 618",
-   "creators": "Arctic, Pooch, CrystalDinocz",
-   "publisher": "Resonance743",
-   "verifier": "CrystalDinocz",
-   "video": "https://www.youtube.com/watch?v=z2WUwI5LbMQ",
-   "thumbnail": "https://i.ytimg.com/vi/z2WUwI5LbMQ/maxresdefault.jpg",
-   "quote": "Watch me beat the Super Top 1 level SON 618 after 3↑↑↑4 attempts 😭🙏",
-   "levelId": "146637156",
-   "password": "Uncopylocked",
-   "length": "1m 13s (Long)",
-   "objects": "29340",
-   "difficulty": "Impossible Dihmon",
-   "createdIn": "2.2",
-   "song": "Djjaner - Sparkler",
-   "minPercent": 50,
-   "position": 1
-  },
-  {
-   "id": "8",
-   "history": [
-    {
-     "date": "2026-10-17T05:00:00.000Z",
-     "position": 3,
-     "change": null,
-     "reason": "Added to the list"
-    }
-   ],
-   "name": "Tunnel of Dih",
-   "creators": "colorazex56",
-   "publisher": "colorazex56",
-   "verifier": "cocoxdxdxd",
-   "video": "https://www.youtube.com/watch?v=HEiLcNLdLIk",
-   "thumbnail": "https://i.ytimg.com/vi/HEiLcNLdLIk/maxresdefault.jpg",
-   "quote": "[TOP 0] TUNNEL OF DIH 💔🥀",
-   "levelId": "126526604",
-   "password": "Uncopylocked",
-   "length": "1m 04s (Long)",
-   "objects": "24800",
-   "difficulty": "Extreme Dihmon",
-   "createdIn": "2.2",
-   "song": "aphotic - Run3",
-   "minPercent": 45,
-   "position": 3
-  },
-  {
-   "id": "9",
-   "history": [
-    {
-     "date": "2026-10-17T05:01:00.000Z",
-     "position": 4,
-     "change": null,
-     "reason": "Added to the list"
-    }
-   ],
-   "name": "Dih Fungus",
-   "creators": "ZynthFrox",
-   "publisher": "ZynthFrox",
-   "verifier": "Zоинк",
-   "video": "https://www.youtube.com/watch?v=aPO_CRky_fM",
-   "thumbnail": "https://i.ytimg.com/vi/aPO_CRky_fM/maxresdefault.jpg",
-   "quote": "[UPCOMING TOP 1] DIH FUNGUS (Verified by Zоинк)",
-   "levelId": "141029482",
-   "password": "Uncopylocked",
-   "length": "58s (Medium)",
-   "objects": "31400",
-   "difficulty": "Extreme Dihmon",
-   "createdIn": "2.2",
-   "song": "Dimrain47 - At the Speed of Light",
-   "minPercent": 40,
-   "position": 4
-  },
-  {
-   "id": "10",
-   "history": [
-    {
-     "date": "2026-10-17T05:01:10.000Z",
-     "position": 5,
-     "change": null,
-     "reason": "Added to the list"
-    }
-   ],
-   "name": "Sakupen Wave Dih",
-   "creators": "DihEnjoyer",
-   "publisher": "DihEnjoyer",
-   "verifier": "DihEnjoyer",
-   "video": "https://www.youtube.com/watch?v=p7d5BE3OMOU",
-   "thumbnail": "https://i.ytimg.com/vi/p7d5BE3OMOU/maxresdefault.jpg",
-   "quote": "Sakupen Wave Dih 100% // Extreme Demon",
-   "levelId": "134920184",
-   "password": "Uncopylocked",
-   "length": "42s (Medium)",
-   "objects": "18450",
-   "difficulty": "Extreme Demon",
-   "createdIn": "2.2",
-   "song": "MrKoolTrix - Sakupen Hell Yes RMX",
-   "minPercent": 55,
-   "position": 5
-  },
-  {
-   "id": "11",
-   "history": [
-    {
-     "date": "2026-10-17T05:01:20.000Z",
-     "position": 8,
-     "change": null,
-     "reason": "Added to the list"
-    }
-   ],
-   "name": "DIH",
-   "creators": "G2W-c8l & More",
-   "publisher": "G2W-c8l",
-   "verifier": "G2W-c8l",
-   "video": "https://www.youtube.com/watch?v=m0gcuUQqSCQ",
-   "thumbnail": "https://i.ytimg.com/vi/m0gcuUQqSCQ/maxresdefault.jpg",
-   "quote": "Join the dih megacollab and decorate a dih!",
-   "levelId": "137581216",
-   "password": "Uncopylocked",
-   "length": "1m 05s (Long)",
-   "objects": "11200",
-   "difficulty": "Hard Demon",
-   "createdIn": "2.2",
-   "song": "F-777 - Sonic Blaster",
-   "minPercent": 60,
-   "position": 8
-  },
-  {
-   "id": "12",
-   "history": [
-    {
-     "date": "2026-10-17T05:01:30.000Z",
-     "position": 10,
-     "change": null,
-     "reason": "Added to the list"
-    }
-   ],
-   "name": "Dih Wave",
-   "creators": "Yaku497",
-   "publisher": "Yaku497",
-   "verifier": "Sowanchanraksa",
-   "video": "https://www.youtube.com/watch?v=WgBpSkrKmDE",
-   "thumbnail": "https://i.ytimg.com/vi/WgBpSkrKmDE/maxresdefault.jpg",
-   "quote": "I enjoy the calm decoration reminds me of Tidal wave a lil bit.",
-   "levelId": "116355550",
-   "password": "Uncopylocked",
-   "length": "13s (Short)",
-   "objects": "4120",
-   "difficulty": "Medium Demon",
-   "createdIn": "2.2",
-   "song": "Shiawase (VIP)",
-   "minPercent": 70,
-   "position": 10
+   "position": 18
   },
   {
    "id": "13",
@@ -578,27 +800,33 @@
      "position": 13,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 19,
+     "change": -6,
+     "reason": "6 new levels added above"
     }
    ],
    "name": "The Dih",
-   "creators": "RandomClips-99",
-   "publisher": "RandomClips-99",
-   "verifier": "RandomClips-99",
+   "creators": "ReallyNiceGuyGM",
+   "publisher": "ReallyNiceGuyGM",
+   "verifier": "ReallyNiceGuyGM",
    "video": "https://www.youtube.com/watch?v=ivr9oFzxA3I",
-   "thumbnail": "https://i.ytimg.com/vi/ivr9oFzxA3I/maxresdefault.jpg",
+   "thumbnail": "https://dihmonlist.kaifun.fun/thumbs/the-dih.png",
    "quote": "The dih by me",
    "levelId": "140193549",
    "password": "Uncopylocked",
-   "length": "24s (Short)",
-   "objects": "2310",
+   "length": "Medium (30-60s)",
+   "objects": "4655",
    "difficulty": "Easy Demon",
    "createdIn": "2.2",
-   "song": "DJVI - Back On Track",
+   "song": "OxygoneOn - surasshu - Eek! (chops remix)",
    "minPercent": 80,
-   "position": 13
+   "position": 19
   }
  ],
  "records": [],
  "players": {},
- "nextId": 14
+ "nextId": 20
 }
