@@ -37,12 +37,6 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-16T18:52:44.245Z",
-     "position": 1,
-     "change": 1,
-     "reason": "Moved up"
-    },
-    {
      "date": "2026-10-17T04:57:00.000Z",
      "position": 2,
      "change": -1,
@@ -70,10 +64,37 @@
    "id": "21",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
+     "date": "2026-10-17T16:00:00.000Z",
      "position": 3,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Unnerfed Dih Circles Unleashed",
+   "creators": "Owme & Friends",
+   "publisher": "Vexur8698",
+   "verifier": "Vexur8698",
+   "video": "https://www.youtube.com/watch?v=m-hzhScK2tQ",
+   "thumbnail": "https://i.ytimg.com/vi/m-hzhScK2tQ/hqdefault.jpg",
+   "quote": "UNNERFED DIH CIRCLES UNLEASED VERIFIED!!!1!!11!111 ID : 147886048",
+   "levelId": "147886048",
+   "password": "Uncopylocked",
+   "length": "1m 18s (Long)",
+   "objects": "28450",
+   "difficulty": "Impossible Dihmon",
+   "createdIn": "2.2",
+   "song": "Koraii - Oracle",
+   "minPercent": 45,
+   "position": 3
+  },
+  {
+   "id": "22",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 4,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "dih after dih",
@@ -82,7 +103,7 @@
    "verifier": "Cub3k4t",
    "video": "https://www.youtube.com/watch?v=KIkyXfjDMds",
    "thumbnail": "https://i.ytimg.com/vi/KIkyXfjDMds/hqdefault.jpg",
-   "quote": "HARDER THAN JOHN WAVE TRIALS?!?!?! - verified the infamous impossible level dih after dih with frame perfect counter",
+   "quote": "HARDER THAN JOHN WAVE TRIALS?!?!?! - verified with frame perfect counter",
    "levelId": "144892014",
    "password": "Uncopylocked",
    "length": "38s (Medium)",
@@ -91,16 +112,43 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - Operation: Evolution",
    "minPercent": 45,
-   "position": 3
+   "position": 4
   },
   {
-   "id": "22",
+   "id": "23",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 4,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 5,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Ultra Dih",
+   "creators": "9RkoRtZaqU0",
+   "publisher": "9RkoRtZaqU0",
+   "verifier": "9RkoRtZaqU0",
+   "video": "https://www.youtube.com/watch?v=9RkoRtZaqU0",
+   "thumbnail": "https://i.ytimg.com/vi/9RkoRtZaqU0/hqdefault.jpg",
+   "quote": "every extreme demon ever - id: 148998837 level name: ultra dih",
+   "levelId": "148998837",
+   "password": "Free to copy",
+   "length": "45s (Medium)",
+   "objects": "16230",
+   "difficulty": "Extreme Dihmon",
+   "createdIn": "2.2",
+   "song": "Creo - Dimension",
+   "minPercent": 45,
+   "position": 5
+  },
+  {
+   "id": "24",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 6,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "Dih Buh Pulse Finale",
@@ -109,7 +157,7 @@
    "verifier": "pikolz-gd (xdBot)",
    "video": "https://www.youtube.com/watch?v=ANk92q6TivU",
    "thumbnail": "https://i.ytimg.com/vi/ANk92q6TivU/hqdefault.jpg",
-   "quote": "SOLO EXTREME DEMON - third part in a series involving a 2-player mode setup for a desynchronized wave",
+   "quote": "SOLO EXTREME DEMON - 2-player mode setup for a desynchronized wave",
    "levelId": "125940318",
    "password": "Unknown",
    "length": "40s (Medium)",
@@ -118,16 +166,16 @@
    "createdIn": "2.2",
    "song": "GDHexhammer - Dark Matter",
    "minPercent": 40,
-   "position": 4
+   "position": 6
   },
   {
-   "id": "23",
+   "id": "25",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 5,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 7,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "Denouement In Hell (DIH)",
@@ -143,9 +191,9 @@
    "objects": "12640",
    "difficulty": "Extreme Challenge / Dihmon",
    "createdIn": "2.2",
-   "song": "Glory",
+   "song": "FyremanMusic - Glory",
    "minPercent": 50,
-   "position": 5
+   "position": 7
   },
   {
    "id": "14",
@@ -157,16 +205,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T07:19:02.375Z",
-     "position": 3,
-     "change": 1,
-     "reason": "Moved up"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 6,
-     "change": -3,
-     "reason": "3 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 8,
+     "change": -5,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Verity Circles",
@@ -184,7 +226,7 @@
    "createdIn": "2.2",
    "song": "czer323 - Extraction",
    "minPercent": 40,
-   "position": 6
+   "position": 8
   },
   {
    "id": "18",
@@ -196,16 +238,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T15:12:27.917Z",
-     "position": 4,
-     "change": 1,
-     "reason": "DIH: moved down"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 7,
-     "change": -3,
-     "reason": "3 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 9,
+     "change": -5,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Indestructible Dih",
@@ -223,7 +259,7 @@
    "createdIn": "2.2",
    "song": "JordanKyser - Sad Machine (JK Remix)",
    "minPercent": 60,
-   "position": 7
+   "position": 9
   },
   {
    "id": "8",
@@ -235,16 +271,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T15:12:27.917Z",
-     "position": 5,
-     "change": 1,
-     "reason": "DIH: moved down"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 8,
-     "change": -3,
-     "reason": "3 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 10,
+     "change": -5,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Tunnel of Dih",
@@ -262,7 +292,7 @@
    "createdIn": "2.2",
    "song": "Jewelz123 - Silent Hill (Dubstep)",
    "minPercent": 45,
-   "position": 8
+   "position": 10
   },
   {
    "id": "9",
@@ -274,16 +304,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T15:12:27.917Z",
-     "position": 6,
-     "change": 1,
-     "reason": "DIH: moved down"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 9,
-     "change": -3,
-     "reason": "3 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 11,
+     "change": -5,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Dih Fungus",
@@ -301,7 +325,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - At the Speed of Light",
    "minPercent": 40,
-   "position": 9
+   "position": 11
   },
   {
    "id": "10",
@@ -313,22 +337,16 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T15:13:15.189Z",
-     "position": 7,
-     "change": 1,
-     "reason": "DIH: moved down"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 10,
-     "change": -3,
-     "reason": "3 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 12,
+     "change": -5,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Sakupen Wave Dih",
    "creators": "DihEnjoyer",
    "publisher": "DihEnjoyer",
-   "verifier": "Hotdoggs",
+   "verifier": "DihEnjoyer",
    "video": "https://www.youtube.com/watch?v=p7d5BE3OMOU",
    "thumbnail": "https://i.ytimg.com/vi/p7d5BE3OMOU/hqdefault.jpg",
    "quote": "Sakupen Wave Dih 100% // Extreme Demon",
@@ -340,16 +358,43 @@
    "createdIn": "2.2",
    "song": "MrKoolTrix - Sakupen Hell Yes RMX",
    "minPercent": 55,
-   "position": 10
+   "position": 12
   },
   {
-   "id": "24",
+   "id": "26",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 11,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 13,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Dih (Diffuse Buff)",
+   "creators": "CarolzaGD & Hinds",
+   "publisher": "CarolzaGD",
+   "verifier": "CarolzaGD (Botted Showcase)",
+   "video": "https://www.youtube.com/watch?v=qCTR3x_TH14",
+   "thumbnail": "https://i.ytimg.com/vi/qCTR3x_TH14/hqdefault.jpg",
+   "quote": "Dih 🥀 I finished this in like 30 mins btw Gameplay by Me [Botted Showcase]",
+   "levelId": "118940215",
+   "password": "Uncopylocked",
+   "length": "1m 14s (Long)",
+   "objects": "26410",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "Cacola - Yellow and Purple",
+   "minPercent": 50,
+   "position": 13
+  },
+  {
+   "id": "27",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 14,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "dih completion",
@@ -367,70 +412,43 @@
    "createdIn": "2.2",
    "song": "F-777 - Ludicrous Speed",
    "minPercent": 55,
-   "position": 11
+   "position": 14
   },
   {
-   "id": "25",
+   "id": "28",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 12,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 15,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
-   "name": "Dih (Pplloopp)",
-   "creators": "Pplloopp-studios",
-   "publisher": "Pplloopp-studios",
-   "verifier": "Pplloopp-studios",
-   "video": "https://www.youtube.com/watch?v=eWO-uPt-z24",
-   "thumbnail": "https://i.ytimg.com/vi/eWO-uPt-z24/hqdefault.jpg",
-   "quote": "Dih #geometrydash (13K+ views viral dih showcase)",
-   "levelId": "148204912",
+   "name": "NotWeirdButStrange (Dih-cord)",
+   "creators": "dki8i_GD",
+   "publisher": "dki8i_GD",
+   "verifier": "dki8i_GD",
+   "video": "https://www.youtube.com/watch?v=5OlEuDHUUpk",
+   "thumbnail": "https://i.ytimg.com/vi/5OlEuDHUUpk/hqdefault.jpg",
+   "quote": "Robtop should def give a rate at some point. ID:149166456 join the discord community dih-cord",
+   "levelId": "149166456",
    "password": "Uncopylocked",
-   "length": "52s (Medium)",
-   "objects": "24110",
+   "length": "1m 22s (Long)",
+   "objects": "42800",
    "difficulty": "Extreme Demon",
    "createdIn": "2.2",
-   "song": "Creo - Sphere",
+   "song": "Creo - Exosphere",
    "minPercent": 50,
-   "position": 12
+   "position": 15
   },
   {
-   "id": "26",
+   "id": "29",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 13,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 16,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
-    }
-   ],
-   "name": "Ocean dih",
-   "creators": "Dingster39",
-   "publisher": "Dingster39",
-   "verifier": "Dingster39",
-   "video": "https://www.youtube.com/shorts/-bqMZeS_ZDQ",
-   "thumbnail": "https://i.ytimg.com/vi/-bqMZeS_ZDQ/hqdefault.jpg",
-   "quote": "Ocean dih🗣️🌊🌊",
-   "levelId": "144109823",
-   "password": "Uncopylocked",
-   "length": "35s (Medium)",
-   "objects": "15300",
-   "difficulty": "Extreme Demon",
-   "createdIn": "2.2",
-   "song": "Allen Ding (ft. Fasion) - Ocean",
-   "minPercent": 55,
-   "position": 13
-  },
-  {
-   "id": "27",
-   "history": [
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 14,
-     "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "dih (Rad Scorpion)",
@@ -444,11 +462,254 @@
    "password": "Uncopylocked",
    "length": "48s (Medium)",
    "objects": "16750",
-   "difficulty": "Insane - Extreme Demon",
+   "difficulty": "Extreme Demon",
    "createdIn": "2.2",
    "song": "Xtrullor - Supernova",
-   "minPercent": 60,
-   "position": 14
+   "minPercent": 55,
+   "position": 16
+  },
+  {
+   "id": "30",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 17,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Shitty Grief (Dih Edition)",
+   "creators": "im_johnathan",
+   "publisher": "im_johnathan",
+   "verifier": "im_johnathan",
+   "video": "https://www.youtube.com/watch?v=iJ1Qj4Yq1hs",
+   "thumbnail": "https://i.ytimg.com/vi/iJ1Qj4Yq1hs/hqdefault.jpg",
+   "quote": "total attempts: 115k+ level difficulty: extreme demon (around zodiac difficulty) #dih",
+   "levelId": "147992013",
+   "password": "Free to copy",
+   "length": "2m 12s (XL)",
+   "objects": "38400",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "KzX - Stalemate (Call Me Maybe Mashup)",
+   "minPercent": 45,
+   "position": 17
+  },
+  {
+   "id": "31",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 18,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Silent Dihstep",
+   "creators": "DihEnjoyer & Sailent",
+   "publisher": "DihEnjoyer",
+   "verifier": "DihEnjoyer",
+   "video": "https://www.youtube.com/watch?v=p7d5BE3OMOU",
+   "thumbnail": "https://i.ytimg.com/vi/p7d5BE3OMOU/hqdefault.jpg",
+   "quote": "Silent Clubstep 8 Jumps of Dih remake",
+   "levelId": "139841205",
+   "password": "Uncopylocked",
+   "length": "1m 25s (Long)",
+   "objects": "21450",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "DJ-Nate - Clubstep",
+   "minPercent": 50,
+   "position": 18
+  },
+  {
+   "id": "32",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 19,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Dihhouse",
+   "creators": "Icedcave & colorazex56",
+   "publisher": "colorazex56",
+   "verifier": "cocoxdxdxd",
+   "video": "https://www.youtube.com/watch?v=HEiLcNLdLIk",
+   "thumbnail": "https://i.ytimg.com/vi/HEiLcNLdLIk/hqdefault.jpg",
+   "quote": "Slaughterhouse river wave but it is pure dih",
+   "levelId": "131209481",
+   "password": "Uncopylocked",
+   "length": "1m 08s (Long)",
+   "objects": "34900",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "crim3s - lost",
+   "minPercent": 50,
+   "position": 19
+  },
+  {
+   "id": "33",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 20,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Tidal Dih",
+   "creators": "Yaku497 & OniLink",
+   "publisher": "Yaku497",
+   "verifier": "Sowanchanraksa",
+   "video": "https://www.youtube.com/watch?v=WgBpSkrKmDE",
+   "thumbnail": "https://i.ytimg.com/vi/WgBpSkrKmDE/hqdefault.jpg",
+   "quote": "Full-length Tidal Wave inspired Dih sequel",
+   "levelId": "124891023",
+   "password": "Uncopylocked",
+   "length": "2m 04s (XL)",
+   "objects": "68400",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "Shiawase (VIP)",
+   "minPercent": 45,
+   "position": 20
+  },
+  {
+   "id": "34",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 21,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Thinking Dih II",
+   "creators": "CairoX & ZynthFrox",
+   "publisher": "ZynthFrox",
+   "verifier": "ZynthFrox",
+   "video": "https://www.youtube.com/watch?v=aPO_CRky_fM",
+   "thumbnail": "https://i.ytimg.com/vi/aPO_CRky_fM/hqdefault.jpg",
+   "quote": "Thinking Space II tight wave choke remastered for Dihmon List",
+   "levelId": "143902114",
+   "password": "Uncopylocked",
+   "length": "1m 19s (Long)",
+   "objects": "39120",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "apoplexy - surface",
+   "minPercent": 50,
+   "position": 21
+  },
+  {
+   "id": "35",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 22,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Acheron Dih",
+   "creators": "swifticat",
+   "publisher": "swifticat",
+   "verifier": "swifticat",
+   "video": "https://www.youtube.com/watch?v=nAhGVTOV7zs",
+   "thumbnail": "https://i.ytimg.com/vi/nAhGVTOV7zs/hqdefault.jpg",
+   "quote": "First jump is a 120Hz frame perfect dih timing",
+   "levelId": "133409182",
+   "password": "Uncopylocked",
+   "length": "1m 06s (Long)",
+   "objects": "27800",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "DJ-Nate - Thermodynamix",
+   "minPercent": 55,
+   "position": 22
+  },
+  {
+   "id": "36",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 23,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Kocmoc Dih Unleashed",
+   "creators": "CrystalDinocz",
+   "publisher": "CrystalDinocz",
+   "verifier": "CrystalDinocz",
+   "video": "https://www.youtube.com/watch?v=z2WUwI5LbMQ",
+   "thumbnail": "https://i.ytimg.com/vi/z2WUwI5LbMQ/hqdefault.jpg",
+   "quote": "KOCMOC wave drop replaced with 2.2 dih triggers",
+   "levelId": "147120934",
+   "password": "Uncopylocked",
+   "length": "1m 32s (Long)",
+   "objects": "54200",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "igens - Kocmoc",
+   "minPercent": 50,
+   "position": 23
+  },
+  {
+   "id": "37",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 24,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Dih Wall",
+   "creators": "UltraGamerXx",
+   "publisher": "UltraGamerXx",
+   "verifier": "Doggie Jr",
+   "video": "https://www.youtube.com/watch?v=7UP6FhC9wvM",
+   "thumbnail": "https://i.ytimg.com/vi/7UP6FhC9wvM/hqdefault.jpg",
+   "quote": "4-minute endurance Flamewall parody level",
+   "levelId": "150112940",
+   "password": "Uncopylocked",
+   "length": "3m 52s (XL)",
+   "objects": "112400",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "Camellia - Flamewall",
+   "minPercent": 45,
+   "position": 24
+  },
+  {
+   "id": "38",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 25,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Ashley Dih Trials",
+   "creators": "Cub3k4t",
+   "publisher": "Cub3k4t",
+   "verifier": "Cub3k4t",
+   "video": "https://www.youtube.com/watch?v=KIkyXfjDMds",
+   "thumbnail": "https://i.ytimg.com/vi/KIkyXfjDMds/hqdefault.jpg",
+   "quote": "Prequel wave trial to dih after dih",
+   "levelId": "142908112",
+   "password": "Uncopylocked",
+   "length": "51s (Medium)",
+   "objects": "18900",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "Waterflame - Glorious Morning",
+   "minPercent": 55,
+   "position": 25
   },
   {
    "id": "1",
@@ -460,23 +721,17 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T15:13:15.189Z",
-     "position": 8,
-     "change": 1,
-     "reason": "DIH: moved down"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 15,
-     "change": -7,
-     "reason": "7 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 26,
+     "change": -18,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Dih Travel",
    "creators": "Scythster",
    "publisher": "slyerv (Scythster)",
    "verifier": "Scythster",
-   "video": "https://www.youtube.com/shorts/eZi1Cv42ruE",
+   "video": "https://www.youtube.com/watch?v=OanJbUK7axM",
    "thumbnail": "https://dihmonlist.kaifun.fun/thumbs/dih-travel.png",
    "quote": "Mmmm dihhh",
    "levelId": "145553249",
@@ -487,7 +742,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 15
+   "position": 26
   },
   {
    "id": "2",
@@ -499,16 +754,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T15:13:15.189Z",
-     "position": 9,
-     "change": 1,
-     "reason": "DIH: moved down"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 16,
-     "change": -7,
-     "reason": "7 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 27,
+     "change": -18,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Scary Dih Eater 3000",
@@ -526,7 +775,7 @@
    "createdIn": "2.2",
    "song": "cYsmix - Eden",
    "minPercent": 35,
-   "position": 16
+   "position": 27
   },
   {
    "id": "20",
@@ -538,16 +787,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T15:14:12.712Z",
-     "position": 10,
-     "change": 1,
-     "reason": "dih adventures: moved down"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 17,
-     "change": -7,
-     "reason": "7 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 28,
+     "change": -18,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Dihnoument",
@@ -565,16 +808,16 @@
    "createdIn": "ColaGDPS",
    "song": "Unknown",
    "minPercent": 35,
-   "position": 17
+   "position": 28
   },
   {
-   "id": "28",
+   "id": "39",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 18,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 29,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "dih verified",
@@ -592,19 +835,19 @@
    "createdIn": "2.2",
    "song": "Waterflame - Stalker",
    "minPercent": 60,
-   "position": 18
+   "position": 29
   },
   {
-   "id": "29",
+   "id": "40",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 19,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 30,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
-   "name": "Dih Circles WIP",
+   "name": "Dih Circles WIP #3",
    "creators": "voidedx89",
    "publisher": "voidedx89",
    "verifier": "voidedx89",
@@ -619,16 +862,16 @@
    "createdIn": "2.2",
    "song": "Rukkus - Nine Circles",
    "minPercent": 50,
-   "position": 19
+   "position": 30
   },
   {
-   "id": "30",
+   "id": "41",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 20,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 31,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "Dih experiment",
@@ -646,7 +889,304 @@
    "createdIn": "2.2",
    "song": "ParagonX9 - Chaoz Fantasy",
    "minPercent": 60,
-   "position": 20
+   "position": 31
+  },
+  {
+   "id": "42",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 32,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "wing dih landscape",
+   "creators": "TwistyTweek",
+   "publisher": "TwistyTweek",
+   "verifier": "TwistyTweek",
+   "video": "https://www.youtube.com/watch?v=x848AFIlU68",
+   "thumbnail": "https://i.ytimg.com/vi/x848AFIlU68/hqdefault.jpg",
+   "quote": "wing dih landscape - Windy Landscape buff parody",
+   "levelId": "117294018",
+   "password": "Uncopylocked",
+   "length": "1m 28s (Long)",
+   "objects": "23400",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "TheFatRat - Windfall",
+   "minPercent": 55,
+   "position": 32
+  },
+  {
+   "id": "43",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 33,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "7 dynamics by dih",
+   "creators": "dih",
+   "publisher": "dih",
+   "verifier": "dih",
+   "video": "https://www.youtube.com/watch?v=vvL4bC_4KaQ",
+   "thumbnail": "https://i.ytimg.com/vi/vvL4bC_4KaQ/hqdefault.jpg",
+   "quote": "7 dynamics by dih - decorated this entire thing in only two days",
+   "levelId": "109482193",
+   "password": "Free to copy",
+   "length": "1m 12s (Long)",
+   "objects": "19850",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "DJ-Nate - Thermodynamix",
+   "minPercent": 55,
+   "position": 33
+  },
+  {
+   "id": "44",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 34,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Dih Buh Pulse II",
+   "creators": "pikolz-gd",
+   "publisher": "pikolz-gd",
+   "verifier": "pikolz-gd",
+   "video": "https://www.youtube.com/watch?v=ANk92q6TivU",
+   "thumbnail": "https://i.ytimg.com/vi/ANk92q6TivU/hqdefault.jpg",
+   "quote": "Second installment in the 2P desync wave Dih Buh Pulse trilogy",
+   "levelId": "121409821",
+   "password": "Uncopylocked",
+   "length": "36s (Medium)",
+   "objects": "14200",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "GDHexhammer - Dark Matter",
+   "minPercent": 55,
+   "position": 34
+  },
+  {
+   "id": "45",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 35,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Dihbath",
+   "creators": "G2W-c8l",
+   "publisher": "G2W-c8l",
+   "verifier": "G2W-c8l",
+   "video": "https://www.youtube.com/watch?v=m0gcuUQqSCQ",
+   "thumbnail": "https://i.ytimg.com/vi/m0gcuUQqSCQ/hqdefault.jpg",
+   "quote": "Bloodbath Michigun ufo and straightfly remade with dih structures",
+   "levelId": "136901248",
+   "password": "Uncopylocked",
+   "length": "1m 45s (Long)",
+   "objects": "24600",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "Dimrain47 - At the Speed of Light",
+   "minPercent": 55,
+   "position": 35
+  },
+  {
+   "id": "46",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 36,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Supersonic Dih",
+   "creators": "Xploitzzz & ZenthicAlpha",
+   "publisher": "Xploitzzz",
+   "verifier": "Xploitzzz",
+   "video": "https://www.youtube.com/watch?v=U6qEcsYZb7w",
+   "thumbnail": "https://i.ytimg.com/vi/U6qEcsYZb7w/hqdefault.jpg",
+   "quote": "Dual ball memory and gboy transition buffed into Dih challenge",
+   "levelId": "134890129",
+   "password": "Uncopylocked",
+   "length": "1m 31s (Long)",
+   "objects": "19400",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "F-777 - Ludicrous Speed",
+   "minPercent": 60,
+   "position": 36
+  },
+  {
+   "id": "47",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 37,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Acu Dih",
+   "creators": "neigefeu & AvisNebula",
+   "publisher": "AvisNebula",
+   "verifier": "AvisNebula",
+   "video": "https://www.youtube.com/watch?v=V_DcUnmh_5Y",
+   "thumbnail": "https://i.ytimg.com/vi/V_DcUnmh_5Y/hqdefault.jpg",
+   "quote": "Entry extreme/insane sync layout with 2.2 triggers",
+   "levelId": "146019283",
+   "password": "Uncopylocked",
+   "length": "1m 08s (Long)",
+   "objects": "31200",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "Creo - Epilogue",
+   "minPercent": 60,
+   "position": 37
+  },
+  {
+   "id": "48",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 38,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Polterdih",
+   "creators": "Andromeda & Owme",
+   "publisher": "Owme",
+   "verifier": "Vexur8698",
+   "video": "https://www.youtube.com/watch?v=TyewqvobbQ4",
+   "thumbnail": "https://i.ytimg.com/vi/TyewqvobbQ4/hqdefault.jpg",
+   "quote": "Poltergeist first wave gap tightened with Dih Circles deco",
+   "levelId": "128940122",
+   "password": "Uncopylocked",
+   "length": "1m 15s (Long)",
+   "objects": "16700",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "Rukkus - Poltergeist",
+   "minPercent": 60,
+   "position": 38
+  },
+  {
+   "id": "49",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 39,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Catadihsm",
+   "creators": "Ggb0y & Kioul8944",
+   "publisher": "Kioul8944",
+   "verifier": "Kioul8944",
+   "video": "https://www.youtube.com/watch?v=OanJbUK7axM",
+   "thumbnail": "https://i.ytimg.com/vi/OanJbUK7axM/hqdefault.jpg",
+   "quote": "First wave of Cataclysm remade into a Dih challenge",
+   "levelId": "141920384",
+   "password": "Uncopylocked",
+   "length": "1m 05s (Long)",
+   "objects": "15300",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "Dimrain47 - At the Speed of Light",
+   "minPercent": 60,
+   "position": 39
+  },
+  {
+   "id": "50",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 40,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "DihropoliX",
+   "creators": "Zobros & TheronDaGreat",
+   "publisher": "TheronDaGreat",
+   "verifier": "TheronDaGreat",
+   "video": "https://www.youtube.com/watch?v=B469eng_8AA",
+   "thumbnail": "https://i.ytimg.com/vi/B469eng_8AA/hqdefault.jpg",
+   "quote": "Slow timing cube and ball chokepoints inspired by Acropolis",
+   "levelId": "139102948",
+   "password": "Uncopylocked",
+   "length": "1m 04s (Long)",
+   "objects": "14100",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "Waterflame - Time Machine",
+   "minPercent": 60,
+   "position": 40
+  },
+  {
+   "id": "51",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 41,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "8o Dih",
+   "creators": "Zobros & kyleGMD",
+   "publisher": "kyleGMD",
+   "verifier": "kyleGMD",
+   "video": "https://www.youtube.com/watch?v=QoDhmoAWFvM",
+   "thumbnail": "https://i.ytimg.com/vi/QoDhmoAWFvM/hqdefault.jpg",
+   "quote": "Cube spam pre-drop into tight UFO and ship passages",
+   "levelId": "144102938",
+   "password": "Uncopylocked",
+   "length": "1m 12s (Long)",
+   "objects": "12400",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "Etzer - 8o",
+   "minPercent": 65,
+   "position": 41
+  },
+  {
+   "id": "52",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 42,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Hi Dih",
+   "creators": "KrmaL &CarolzaGD",
+   "publisher": "CarolzaGD",
+   "verifier": "CarolzaGD",
+   "video": "https://www.youtube.com/watch?v=qCTR3x_TH14",
+   "thumbnail": "https://i.ytimg.com/vi/qCTR3x_TH14/hqdefault.jpg",
+   "quote": "Unbalanced KrmaL-style ship and final wave corridor",
+   "levelId": "127401928",
+   "password": "Uncopylocked",
+   "length": "1m 18s (Long)",
+   "objects": "18200",
+   "difficulty": "Insane Demon",
+   "createdIn": "2.2",
+   "song": "Miami Hotline Vol. 3",
+   "minPercent": 60,
+   "position": 42
   },
   {
    "id": "11",
@@ -658,16 +1198,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T15:14:12.712Z",
-     "position": 11,
-     "change": 1,
-     "reason": "dih adventures: moved down"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 21,
-     "change": -10,
-     "reason": "10 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 43,
+     "change": -32,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "DIH",
@@ -685,7 +1219,7 @@
    "createdIn": "2.2",
    "song": "F-777 - Sonic Blaster",
    "minPercent": 60,
-   "position": 21
+   "position": 43
   },
   {
    "id": "19",
@@ -697,16 +1231,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T15:14:12.712Z",
-     "position": 12,
-     "change": -2,
-     "reason": "Moved down"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 22,
-     "change": -10,
-     "reason": "10 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 44,
+     "change": -32,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "dih adventures",
@@ -724,7 +1252,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - Every End...",
    "minPercent": 75,
-   "position": 22
+   "position": 44
   },
   {
    "id": "6",
@@ -736,16 +1264,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T08:30:00.000Z",
-     "position": 13,
-     "change": -1,
-     "reason": "Dihnoument: added to the list"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 23,
-     "change": -10,
-     "reason": "10 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 45,
+     "change": -32,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Dih Circles",
@@ -763,16 +1285,16 @@
    "createdIn": "2.2",
    "song": "Koraii - Oracle",
    "minPercent": 50,
-   "position": 23
+   "position": 45
   },
   {
-   "id": "31",
+   "id": "53",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 24,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 46,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "Dih Dih Dih Fruit",
@@ -790,16 +1312,43 @@
    "createdIn": "2.2",
    "song": "Pegboard Nerds - Razor Sharp",
    "minPercent": 60,
-   "position": 24
+   "position": 46
   },
   {
-   "id": "32",
+   "id": "54",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 25,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 47,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Veiny Ahh Dih 2",
+   "creators": "GDBrowser Community",
+   "publisher": "GDBrowser",
+   "verifier": "Sowanchanraksa",
+   "video": "https://www.youtube.com/watch?v=WgBpSkrKmDE",
+   "thumbnail": "https://i.ytimg.com/vi/WgBpSkrKmDE/hqdefault.jpg",
+   "quote": "Veiny Ahh Dih 2 - ID: 115586470 - Stars Requested: 10 (Demon)",
+   "levelId": "115586470",
+   "password": "Free to copy",
+   "length": "32s (Medium)",
+   "objects": "562",
+   "difficulty": "Hard Demon",
+   "createdIn": "2.2",
+   "song": "Stereo Madness",
+   "minPercent": 65,
+   "position": 47
+  },
+  {
+   "id": "55",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 48,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "geometry dih",
@@ -817,7 +1366,88 @@
    "createdIn": "2.2",
    "song": "DJVI - Back On Track",
    "minPercent": 65,
-   "position": 25
+   "position": 48
+  },
+  {
+   "id": "56",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 49,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Future Dih",
+   "creators": "JonathanGD & GDefior",
+   "publisher": "GDefior",
+   "verifier": "GDefior",
+   "video": "https://www.youtube.com/watch?v=3Jjv701XPWo",
+   "thumbnail": "https://i.ytimg.com/vi/3Jjv701XPWo/hqdefault.jpg",
+   "quote": "XL endurance Hard Demon with a 99% 3-spike dih chokepoint",
+   "levelId": "135019284",
+   "password": "Uncopylocked",
+   "length": "3m 10s (XL)",
+   "objects": "49200",
+   "difficulty": "Hard Demon",
+   "createdIn": "2.2",
+   "song": "LemKuuja - What's a Future Funk?",
+   "minPercent": 60,
+   "position": 49
+  },
+  {
+   "id": "57",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 50,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Jawbreaker Dih",
+   "creators": "ZenthicAlpha & voidedx89",
+   "publisher": "voidedx89",
+   "verifier": "voidedx89",
+   "video": "https://www.youtube.com/watch?v=c9Bc-rihhZw",
+   "thumbnail": "https://i.ytimg.com/vi/c9Bc-rihhZw/hqdefault.jpg",
+   "quote": "Blue Nine Circles wave remake with gravity portal spam",
+   "levelId": "143019284",
+   "password": "Uncopylocked",
+   "length": "1m 06s (Long)",
+   "objects": "16800",
+   "difficulty": "Hard Demon",
+   "createdIn": "2.2",
+   "song": "Rukkus - Jawbreaker",
+   "minPercent": 65,
+   "position": 50
+  },
+  {
+   "id": "58",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 51,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Dih Temple",
+   "creators": "Michigun & TurbiTune",
+   "publisher": "TurbiTune",
+   "verifier": "TurbiTune",
+   "video": "https://www.youtube.com/watch?v=ot0ZZOjL6N4",
+   "thumbnail": "https://i.ytimg.com/vi/ot0ZZOjL6N4/hqdefault.jpg",
+   "quote": "Triple spike temple tribute with 2.2 dih timings",
+   "levelId": "139401923",
+   "password": "Uncopylocked",
+   "length": "1m 14s (Long)",
+   "objects": "14900",
+   "difficulty": "Hard Demon",
+   "createdIn": "2.2",
+   "song": "Waterflame - Haunted Woods",
+   "minPercent": 65,
+   "position": 51
   },
   {
    "id": "15",
@@ -829,16 +1459,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T08:30:00.000Z",
-     "position": 14,
-     "change": -1,
-     "reason": "Dihnoument: added to the list"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 26,
-     "change": -12,
-     "reason": "12 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 52,
+     "change": -38,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "VeritY",
@@ -856,7 +1480,7 @@
    "createdIn": "2.0",
    "song": "TheFatRat - The Calling (feat. Laura Brehm)",
    "minPercent": 50,
-   "position": 26
+   "position": 52
   },
   {
    "id": "12",
@@ -868,16 +1492,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T08:30:00.000Z",
-     "position": 15,
-     "change": -1,
-     "reason": "Dihnoument: added to the list"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 27,
-     "change": -12,
-     "reason": "12 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 53,
+     "change": -38,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Dih Wave",
@@ -895,7 +1513,7 @@
    "createdIn": "2.2",
    "song": "yagru - g444444444g",
    "minPercent": 70,
-   "position": 27
+   "position": 53
   },
   {
    "id": "3",
@@ -907,16 +1525,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T08:30:00.000Z",
-     "position": 16,
-     "change": -1,
-     "reason": "Dihnoument: added to the list"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 28,
-     "change": -12,
-     "reason": "12 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 54,
+     "change": -38,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Dihnouement II",
@@ -934,16 +1546,16 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 28
+   "position": 54
   },
   {
-   "id": "33",
+   "id": "59",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 29,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 55,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "geometry dih II",
@@ -961,16 +1573,16 @@
    "createdIn": "2.2",
    "song": "Waterflame - Jumper",
    "minPercent": 65,
-   "position": 29
+   "position": 55
   },
   {
-   "id": "34",
+   "id": "60",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 30,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 56,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "MY DIH (Masterpiece)",
@@ -988,61 +1600,115 @@
    "createdIn": "2.2",
    "song": "DJVI - Dry Out",
    "minPercent": 65,
-   "position": 30
+   "position": 56
   },
   {
-   "id": "35",
+   "id": "61",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 31,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 57,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
-   "name": "dih layout",
-   "creators": "DUCKYBLUEFIREFEDORA",
-   "publisher": "DUCKYBLUEFIREFEDORA",
-   "verifier": "DUCKYBLUEFIREFEDORA",
-   "video": "https://www.youtube.com/shorts/KfPF11jjM4w",
-   "thumbnail": "https://i.ytimg.com/vi/KfPF11jjM4w/hqdefault.jpg",
-   "quote": "dih layout",
-   "levelId": "149501293",
-   "password": "Uncopylocked",
-   "length": "29s (Short)",
-   "objects": "3410",
+   "name": "Buddy Ohhh (MY DIH)",
+   "creators": "MY DIH",
+   "publisher": "MY DIH",
+   "verifier": "MY DIH",
+   "video": "https://www.youtube.com/watch?v=ZAXORI9oJ24",
+   "thumbnail": "https://i.ytimg.com/vi/ZAXORI9oJ24/hqdefault.jpg",
+   "quote": "Level name: buddy ohhh pls sub it took long. MY DIH.",
+   "levelId": "148545072",
+   "password": "Free to copy",
+   "length": "1m 15s (Long)",
+   "objects": "13400",
    "difficulty": "Medium Demon",
    "createdIn": "2.2",
-   "song": "Bossfight - Milky Ways",
-   "minPercent": 70,
-   "position": 31
+   "song": "EnV - RPM",
+   "minPercent": 65,
+   "position": 57
   },
   {
-   "id": "36",
+   "id": "62",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 32,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 58,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
-   "name": "geometry dih (Pixel Void)",
-   "creators": "BoBo_GD",
-   "publisher": "BoBo_GD",
-   "verifier": "BoBo_GD",
-   "video": "https://www.youtube.com/shorts/mOz03gSLfNc",
-   "thumbnail": "https://i.ytimg.com/vi/mOz03gSLfNc/hqdefault.jpg",
-   "quote": "geometry dih 😭✌️ Search 'geometry dash pixel void'",
-   "levelId": "146201948",
-   "password": "Free to copy",
-   "length": "36s (Medium)",
-   "objects": "7890",
-   "difficulty": "Easy - Medium Demon",
+   "name": "B Dih",
+   "creators": "Motleyorc & ScorchVx",
+   "publisher": "Evan_Bomber",
+   "verifier": "Evan_Bomber",
+   "video": "https://www.youtube.com/watch?v=gwW1kC1qXLs",
+   "thumbnail": "https://i.ytimg.com/vi/gwW1kC1qXLs/hqdefault.jpg",
+   "quote": "Bee bossfight Medium Demon remixed with 2.2 dih projectiles",
+   "levelId": "137901245",
+   "password": "Uncopylocked",
+   "length": "1m 02s (Long)",
+   "objects": "29400",
+   "difficulty": "Medium Demon",
    "createdIn": "2.2",
-   "song": "MDK - Press Start",
+   "song": "Schtiffles - Beep Beep",
    "minPercent": 70,
-   "position": 32
+   "position": 58
+  },
+  {
+   "id": "63",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 59,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Skeletal Dihnanigans",
+   "creators": "o0o4484",
+   "publisher": "o0o4484",
+   "verifier": "o0o4484",
+   "video": "https://www.youtube.com/watch?v=INkbEolZdPk",
+   "thumbnail": "https://i.ytimg.com/vi/INkbEolZdPk/hqdefault.jpg",
+   "quote": "Spooky 2.2 camera trigger Medium Demon",
+   "levelId": "148201934",
+   "password": "Uncopylocked",
+   "length": "1m 20s (Long)",
+   "objects": "34100",
+   "difficulty": "Medium Demon",
+   "createdIn": "2.2",
+   "song": "cYsmix - Spooky",
+   "minPercent": 70,
+   "position": 59
+  },
+  {
+   "id": "64",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 60,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Ultra Diholence",
+   "creators": "Xender Game & dki8i_GD",
+   "publisher": "dki8i_GD",
+   "verifier": "dki8i_GD",
+   "video": "https://www.youtube.com/watch?v=5OlEuDHUUpk",
+   "thumbnail": "https://i.ytimg.com/vi/5OlEuDHUUpk/hqdefault.jpg",
+   "quote": "Dual bossfight Medium Demon from the dih-cord showcase series",
+   "levelId": "147890123",
+   "password": "Uncopylocked",
+   "length": "1m 38s (Long)",
+   "objects": "58900",
+   "difficulty": "Medium Demon",
+   "createdIn": "2.2",
+   "song": "Xtrullor - Earthsplitter",
+   "minPercent": 70,
+   "position": 60
   },
   {
    "id": "16",
@@ -1054,16 +1720,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T08:30:00.000Z",
-     "position": 17,
-     "change": -1,
-     "reason": "Dihnoument: added to the list"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 33,
-     "change": -16,
-     "reason": "16 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 61,
+     "change": -44,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Verity in GD",
@@ -1081,16 +1741,16 @@
    "createdIn": "2.2",
    "song": "chane-of-musik - Its me Its Verity (Remix)",
    "minPercent": 55,
-   "position": 33
+   "position": 61
   },
   {
-   "id": "37",
+   "id": "65",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 34,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 62,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "geometry dih 🥀",
@@ -1108,7 +1768,7 @@
    "createdIn": "2.2",
    "song": "RobTop - Dash",
    "minPercent": 70,
-   "position": 34
+   "position": 62
   },
   {
    "id": "5",
@@ -1120,16 +1780,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T08:30:00.000Z",
-     "position": 18,
-     "change": -1,
-     "reason": "Dihnoument: added to the list"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 35,
-     "change": -17,
-     "reason": "17 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 63,
+     "change": -45,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Brizz Circles",
@@ -1147,16 +1801,16 @@
    "createdIn": "2.2",
    "song": "~NK~ Fracture",
    "minPercent": 75,
-   "position": 35
+   "position": 63
   },
   {
-   "id": "38",
+   "id": "66",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 36,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 64,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
    "name": "Dih level",
@@ -1174,7 +1828,34 @@
    "createdIn": "2.2",
    "song": "DJ-Nate - Theory of Everything",
    "minPercent": 75,
-   "position": 36
+   "position": 64
+  },
+  {
+   "id": "67",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 65,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "dih (1.9 GDPS)",
+   "creators": "1.9 GDPS Creator",
+   "publisher": "1.9 GDPS",
+   "verifier": "RandomClips-99",
+   "video": "https://www.youtube.com/watch?v=ivr9oFzxA3I",
+   "thumbnail": "https://i.ytimg.com/vi/ivr9oFzxA3I/hqdefault.jpg",
+   "quote": "Analyzing level... dih. 202 objects. Low Detail Mode. 1.9 GDPS ID: 304622",
+   "levelId": "304622 (1.9 GDPS)",
+   "password": "Free to copy",
+   "length": "29s (Short)",
+   "objects": "202",
+   "difficulty": "Easy Demon",
+   "createdIn": "1.9 GDPS",
+   "song": "DJ-Nate - Clubstep",
+   "minPercent": 75,
+   "position": 65
   },
   {
    "id": "13",
@@ -1186,16 +1867,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T08:30:00.000Z",
-     "position": 19,
-     "change": -1,
-     "reason": "Dihnoument: added to the list"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 37,
-     "change": -18,
-     "reason": "18 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 66,
+     "change": -47,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "The Dih",
@@ -1213,34 +1888,142 @@
    "createdIn": "2.2",
    "song": "OxygoneOn - surasshu - Eek! (chops remix)",
    "minPercent": 80,
-   "position": 37
+   "position": 66
   },
   {
-   "id": "39",
+   "id": "68",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 38,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 67,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
-   "name": "geometery dih",
-   "creators": "EZ8y51aJvX0",
-   "publisher": "EZ8y51aJvX0",
-   "verifier": "EZ8y51aJvX0",
-   "video": "https://www.youtube.com/shorts/EZ8y51aJvX0",
-   "thumbnail": "https://i.ytimg.com/vi/EZ8y51aJvX0/hqdefault.jpg",
-   "quote": "geometery dih #ytshorts #geometrydash",
-   "levelId": "143910284",
+   "name": "Decode Dih",
+   "creators": "Rek3dge & Scariez",
+   "publisher": "Scariez",
+   "verifier": "blackpenguiiin",
+   "video": "https://www.youtube.com/watch?v=zPcVWLvpans",
+   "thumbnail": "https://i.ytimg.com/vi/zPcVWLvpans/hqdefault.jpg",
+   "quote": "At 100% speed, does this look possible to you?",
+   "levelId": "133890124",
    "password": "Uncopylocked",
-   "length": "25s (Short)",
-   "objects": "3190",
-   "difficulty": "Easy Demon (est.)",
+   "length": "1m 18s (Long)",
+   "objects": "12300",
+   "difficulty": "Easy Demon",
    "createdIn": "2.2",
-   "song": "MDK - Geometry Dash Official Theme Song",
+   "song": "Waterflame - Endgame",
+   "minPercent": 75,
+   "position": 67
+  },
+  {
+   "id": "69",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 68,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "iSpyWithMyLittleDih",
+   "creators": "Voxicat & morgpate",
+   "publisher": "morgpate",
+   "verifier": "morgpate",
+   "video": "https://www.youtube.com/watch?v=NN8gkob9PVA",
+   "thumbnail": "https://i.ytimg.com/vi/NN8gkob9PVA/hqdefault.jpg",
+   "quote": "Flashing eye bossfight replaced with 2.2 dih shader effects",
+   "levelId": "144901238",
+   "password": "Uncopylocked",
+   "length": "1m 05s (Long)",
+   "objects": "28900",
+   "difficulty": "Easy Demon",
+   "createdIn": "2.2",
+   "song": " Tanger - BIKE",
    "minPercent": 80,
-   "position": 38
+   "position": 68
+  },
+  {
+   "id": "70",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 69,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Change of Dih",
+   "creators": "Bli & SubToNomanation",
+   "publisher": "SubToNomanation",
+   "verifier": "SubToNomanation",
+   "video": "https://www.youtube.com/watch?v=5OlEuDHUUpk",
+   "thumbnail": "https://i.ytimg.com/vi/5OlEuDHUUpk/hqdefault.jpg",
+   "quote": "Optimized 2.2 multi-theme Easy Demon Dih tribute",
+   "levelId": "141029384",
+   "password": "Uncopylocked",
+   "length": "2m 15s (XL)",
+   "objects": "39400",
+   "difficulty": "Easy Demon",
+   "createdIn": "2.2",
+   "song": "odysee - Change of Scene",
+   "minPercent": 75,
+   "position": 69
+  },
+  {
+   "id": "71",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 70,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Clubdih",
+   "creators": "SScoldan",
+   "publisher": "SScoldan",
+   "verifier": "SScoldan",
+   "video": "https://www.youtube.com/watch?v=U6qEcsYZb7w",
+   "thumbnail": "https://i.ytimg.com/vi/U6qEcsYZb7w/hqdefault.jpg",
+   "quote": "After 3,417 attempts and cursed RNG I finally beat Clubdih",
+   "levelId": "129048123",
+   "password": "Uncopylocked",
+   "length": "1m 30s (Long)",
+   "objects": "14800",
+   "difficulty": "Easy Demon",
+   "createdIn": "2.2",
+   "song": "DJ-Nate - Clubstep",
+   "minPercent": 80,
+   "position": 70
+  },
+  {
+   "id": "72",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 71,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Dih Mixed",
+   "creators": "RealOggY & ExpertisingGD",
+   "publisher": "ExpertisingGD",
+   "verifier": "ExpertisingGD",
+   "video": "https://www.youtube.com/watch?v=Rccfe5F2BDw",
+   "thumbnail": "https://i.ytimg.com/vi/Rccfe5F2BDw/hqdefault.jpg",
+   "quote": "A demon with a lot of fakes and tricky dih gameplay",
+   "levelId": "142019384",
+   "password": "Uncopylocked",
+   "length": "1m 02s (Long)",
+   "objects": "7420",
+   "difficulty": "Easy Demon",
+   "createdIn": "2.2",
+   "song": "DJVI - Dry Out",
+   "minPercent": 80,
+   "position": 71
   },
   {
    "id": "17",
@@ -1252,16 +2035,10 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T08:30:00.000Z",
-     "position": 20,
-     "change": -1,
-     "reason": "Dihnoument: added to the list"
-    },
-    {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 39,
-     "change": -19,
-     "reason": "19 new levels added above"
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 72,
+     "change": -52,
+     "reason": "Adjusted in 75-level expansion"
     }
    ],
    "name": "Its Me Its Verity",
@@ -1279,37 +2056,91 @@
    "createdIn": "2.2",
    "song": "iammodus - Engine Start",
    "minPercent": 60,
-   "position": 39
+   "position": 72
   },
   {
-   "id": "40",
+   "id": "73",
    "history": [
     {
-     "date": "2026-10-17T15:30:00.000Z",
-     "position": 40,
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 73,
      "change": null,
-     "reason": "Added to the list (20-level expansion)"
+     "reason": "Added to the list (75-level expansion)"
     }
    ],
-   "name": "song for my dih",
-   "creators": "rengoku-i7y",
-   "publisher": "rengoku-i7y",
-   "verifier": "rengoku-i7y",
-   "video": "https://www.youtube.com/shorts/Eu63bCgcBrw",
-   "thumbnail": "https://i.ytimg.com/vi/Eu63bCgcBrw/hqdefault.jpg",
-   "quote": "song for my dih | geometry dash 2.2",
-   "levelId": "150492817",
+   "name": "Dih Locked",
+   "creators": "RobTop & JokemonTX",
+   "publisher": "JokemonTX",
+   "verifier": "JokemonTX",
+   "video": "https://www.youtube.com/watch?v=MuRZbK7Bt8k",
+   "thumbnail": "https://i.ytimg.com/vi/MuRZbK7Bt8k/hqdefault.jpg",
+   "quote": "Deadlocked dual wave and memory ship converted to Dih layout",
+   "levelId": "146890123",
    "password": "Uncopylocked",
-   "length": "21s (Short)",
-   "objects": "2450",
+   "length": "1m 39s (Long)",
+   "objects": "19300",
+   "difficulty": "Insane (9★)",
+   "createdIn": "2.2",
+   "song": "F-777 - Deadlocked",
+   "minPercent": 80,
+   "position": 73
+  },
+  {
+   "id": "74",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 74,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "Dih Theory",
+   "creators": "Finrex01",
+   "publisher": "Finrex01",
+   "verifier": "Finrex01",
+   "video": "https://www.youtube.com/watch?v=HkrQcTPaWZc",
+   "thumbnail": "https://i.ytimg.com/vi/HkrQcTPaWZc/hqdefault.jpg",
+   "quote": "geometry dih layout preview and sync test",
+   "levelId": "138102934",
+   "password": "Uncopylocked",
+   "length": "47s (Medium)",
+   "objects": "6800",
    "difficulty": "Insane (8★)",
    "createdIn": "2.2",
-   "song": "Waterflame - Time Machine",
+   "song": "DJ-Nate - Theory of Everything 2",
    "minPercent": 80,
-   "position": 40
+   "position": 74
+  },
+  {
+   "id": "75",
+   "history": [
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 75,
+     "change": null,
+     "reason": "Added to the list (75-level expansion)"
+    }
+   ],
+   "name": "First Dih Level",
+   "creators": "RandomClips-99",
+   "publisher": "RandomClips-99",
+   "verifier": "RandomClips-99",
+   "video": "https://www.youtube.com/watch?v=ivr9oFzxA3I",
+   "thumbnail": "https://i.ytimg.com/vi/ivr9oFzxA3I/hqdefault.jpg",
+   "quote": "First level by me (Geometry dash) ID: 140097281 - prequel to The Dih",
+   "levelId": "140097281",
+   "password": "Free to copy",
+   "length": "1m 48s (Long)",
+   "objects": "3890",
+   "difficulty": "Insane (8★)",
+   "createdIn": "2.2",
+   "song": "DJVI - Base After Base",
+   "minPercent": 85,
+   "position": 75
   }
  ],
  "records": [],
  "players": {},
- "nextId": 41
+ "nextId": 76
 }
