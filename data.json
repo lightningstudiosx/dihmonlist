@@ -200,6 +200,12 @@
      "position": 7,
      "change": -1,
      "reason": "Verity Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T15:09:30.777Z",
+     "position": 8,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
     }
    ],
    "name": "Sakupen Wave Dih",
@@ -217,7 +223,7 @@
    "createdIn": "2.2",
    "song": "MrKoolTrix - Sakupen Hell Yes RMX",
    "minPercent": 55,
-   "position": 7
+   "position": 8
   },
   {
    "id": "2",
@@ -1121,6 +1127,12 @@
      "position": 8,
      "change": 10,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T15:09:30.777Z",
+     "position": 7,
+     "change": 1,
+     "reason": "Moved up"
     }
    ],
    "name": "Indestructible Dih",
@@ -1138,7 +1150,7 @@
    "createdIn": "2.2",
    "song": "JordanKyser - Sad Machine (JK Remix)",
    "minPercent": 60,
-   "position": 8
+   "position": 7
   },
   {
    "id": "19",
