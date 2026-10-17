@@ -200,9 +200,36 @@
    "song": "~NK~ Fracture",
    "minPercent": 75,
    "position": 5
+  },
+  {
+   "id": "6",
+   "history": [
+    {
+     "date": "2026-10-17T04:43:00.000Z",
+     "position": 6,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Dih Circles",
+   "creators": "Owme",
+   "publisher": "Owme",
+   "verifier": "Vexur8698",
+   "video": "https://www.youtube.com/watch?v=TyewqvobbQ4",
+   "thumbnail": "",
+   "quote": "Don't Infer Hints",
+   "levelId": "122136866",
+   "password": "Uncopylocked",
+   "length": "1m 12s (Long)",
+   "objects": "14200",
+   "difficulty": "Extreme Demon",
+   "createdIn": "2.2",
+   "song": "Koraii - Oracle",
+   "minPercent": 50,
+   "position": 6
   }
  ],
  "records": [],
  "players": {},
- "nextId": 6
+ "nextId": 7
 }
