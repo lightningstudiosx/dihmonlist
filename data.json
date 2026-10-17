@@ -293,6 +293,12 @@
      "position": 9,
      "change": -1,
      "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T15:09:37.155Z",
+     "position": 10,
+     "change": -1,
+     "reason": "Dih Travel: moved up"
     }
    ],
    "name": "Scary Dih Eater 3000",
@@ -310,7 +316,7 @@
    "createdIn": "2.2",
    "song": "cYsmix - Eden",
    "minPercent": 35,
-   "position": 9
+   "position": 10
   },
   {
    "id": "14",
@@ -680,6 +686,12 @@
      "position": 10,
      "change": 1,
      "reason": "dih adventures: moved down"
+    },
+    {
+     "date": "2026-10-17T15:09:37.155Z",
+     "position": 9,
+     "change": 1,
+     "reason": "Moved up"
     }
    ],
    "name": "Dih Travel",
@@ -697,7 +709,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 10
+   "position": 9
   },
   {
    "id": "12",
