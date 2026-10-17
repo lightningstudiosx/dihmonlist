@@ -92,6 +92,12 @@
      "position": 4,
      "change": -1,
      "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:55.913Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Verity Circles: moved up"
     }
    ],
    "name": "Tunnel of Dih",
@@ -109,7 +115,7 @@
    "createdIn": "2.2",
    "song": "Jewelz123 - Silent Hill (Dubstep)",
    "minPercent": 45,
-   "position": 4
+   "position": 5
   },
   {
    "id": "9",
@@ -137,6 +143,12 @@
      "position": 5,
      "change": -1,
      "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:55.913Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Verity Circles: moved up"
     }
    ],
    "name": "Dih Fungus",
@@ -154,7 +166,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - At the Speed of Light",
    "minPercent": 40,
-   "position": 5
+   "position": 6
   },
   {
    "id": "10",
@@ -182,6 +194,12 @@
      "position": 6,
      "change": -1,
      "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:55.913Z",
+     "position": 7,
+     "change": -1,
+     "reason": "Verity Circles: moved up"
     }
    ],
    "name": "Sakupen Wave Dih",
@@ -199,7 +217,7 @@
    "createdIn": "2.2",
    "song": "MrKoolTrix - Sakupen Hell Yes RMX",
    "minPercent": 55,
-   "position": 6
+   "position": 7
   },
   {
    "id": "2",
@@ -314,6 +332,12 @@
      "position": 7,
      "change": 1,
      "reason": "Scary Dih Eater 3000: moved down"
+    },
+    {
+     "date": "2026-10-17T07:18:55.913Z",
+     "position": 4,
+     "change": 3,
+     "reason": "Moved up"
     }
    ],
    "name": "Verity Circles",
@@ -331,7 +355,7 @@
    "createdIn": "2.2",
    "song": "czer323 - Extraction",
    "minPercent": 40,
-   "position": 7
+   "position": 4
   },
   {
    "id": "6",
