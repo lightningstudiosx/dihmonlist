@@ -257,6 +257,12 @@
      "position": 7,
      "change": -1,
      "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:56.307Z",
+     "position": 8,
+     "change": -1,
+     "reason": "Moved down"
     }
    ],
    "name": "Scary Dih Eater 3000",
@@ -274,7 +280,7 @@
    "createdIn": "2.2",
    "song": "cYsmix - Eden",
    "minPercent": 35,
-   "position": 7
+   "position": 8
   },
   {
    "id": "14",
@@ -296,6 +302,12 @@
      "position": 8,
      "change": -1,
      "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:56.307Z",
+     "position": 7,
+     "change": 1,
+     "reason": "Scary Dih Eater 3000: moved down"
     }
    ],
    "name": "Verity Circles",
@@ -313,7 +325,7 @@
    "createdIn": "2.2",
    "song": "czer323 - Extraction",
    "minPercent": 40,
-   "position": 8
+   "position": 7
   },
   {
    "id": "6",
