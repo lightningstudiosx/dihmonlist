@@ -161,6 +161,12 @@
      "position": 4,
      "change": -1,
      "reason": "Verity Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T15:12:27.917Z",
+     "position": 7,
+     "change": -3,
+     "reason": "Moved down"
     }
    ],
    "name": "DIH",
@@ -178,7 +184,7 @@
    "createdIn": "2.2",
    "song": "F-777 - Sonic Blaster",
    "minPercent": 60,
-   "position": 4
+   "position": 7
   },
   {
    "id": "18",
@@ -206,6 +212,12 @@
      "position": 5,
      "change": 3,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T15:12:27.917Z",
+     "position": 4,
+     "change": 1,
+     "reason": "DIH: moved down"
     }
    ],
    "name": "Indestructible Dih",
@@ -223,7 +235,7 @@
    "createdIn": "2.2",
    "song": "JordanKyser - Sad Machine (JK Remix)",
    "minPercent": 60,
-   "position": 5
+   "position": 4
   },
   {
    "id": "8",
@@ -263,6 +275,12 @@
      "position": 6,
      "change": -1,
      "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T15:12:27.917Z",
+     "position": 5,
+     "change": 1,
+     "reason": "DIH: moved down"
     }
    ],
    "name": "Tunnel of Dih",
@@ -280,7 +298,7 @@
    "createdIn": "2.2",
    "song": "Jewelz123 - Silent Hill (Dubstep)",
    "minPercent": 45,
-   "position": 6
+   "position": 5
   },
   {
    "id": "9",
@@ -320,6 +338,12 @@
      "position": 7,
      "change": -1,
      "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T15:12:27.917Z",
+     "position": 6,
+     "change": 1,
+     "reason": "DIH: moved down"
     }
    ],
    "name": "Dih Fungus",
@@ -337,7 +361,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - At the Speed of Light",
    "minPercent": 40,
-   "position": 7
+   "position": 6
   },
   {
    "id": "10",
