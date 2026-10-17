@@ -668,6 +668,12 @@
      "position": 11,
      "change": -1,
      "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T07:21:17.738Z",
+     "position": 10,
+     "change": 1,
+     "reason": "dih adventures: moved down"
     }
    ],
    "name": "Dih Travel",
@@ -685,7 +691,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 11
+   "position": 10
   },
   {
    "id": "12",
@@ -1154,6 +1160,12 @@
      "position": 10,
      "change": 9,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:21:17.738Z",
+     "position": 11,
+     "change": -1,
+     "reason": "Moved down"
     }
    ],
    "name": "dih adventures",
@@ -1171,7 +1183,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - Every End...",
    "minPercent": 75,
-   "position": 10
+   "position": 11
   }
  ],
  "records": [],
