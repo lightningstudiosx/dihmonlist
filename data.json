@@ -37,6 +37,12 @@
      "reason": "Added to the list"
     },
     {
+     "date": "2026-10-16T18:52:44.245Z",
+     "position": 1,
+     "change": 1,
+     "reason": "Moved up"
+    },
+    {
      "date": "2026-10-17T04:57:00.000Z",
      "position": 2,
      "change": -1,
@@ -61,141 +67,6 @@
    "position": 2
   },
   {
-   "id": "21",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 3,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "Unnerfed Dih Circles Unleashed",
-   "creators": "Owme & Vexur8698",
-   "publisher": "Vexur8698",
-   "verifier": "Vexur8698",
-   "video": "https://www.youtube.com/watch?v=m-hzhScK2tQ",
-   "thumbnail": "https://i.ytimg.com/vi/m-hzhScK2tQ/hqdefault.jpg",
-   "quote": "UNNERFED DIH CIRCLES UNLEASED VERIFIED!!!1!!11!111 ID : 147886048",
-   "levelId": "147886048",
-   "password": "Uncopylocked",
-   "length": "1m 18s (Long)",
-   "objects": "21930+",
-   "difficulty": "Impossible Dihmon",
-   "createdIn": "2.2",
-   "song": "Koraii - Oracle",
-   "minPercent": 45,
-   "position": 3
-  },
-  {
-   "id": "22",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 4,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "dih after dih",
-   "creators": "Cub3k4t",
-   "publisher": "Cub3k4t",
-   "verifier": "Cub3k4t",
-   "video": "https://www.youtube.com/watch?v=KIkyXfjDMds",
-   "thumbnail": "https://i.ytimg.com/vi/KIkyXfjDMds/hqdefault.jpg",
-   "quote": "HARDER THAN JOHN WAVE TRIALS?!?!?! - verified with frame perfect counter",
-   "levelId": "Unknown",
-   "password": "Unknown",
-   "length": "Medium (30-60s)",
-   "objects": "Unknown",
-   "difficulty": "Impossible Dihmon",
-   "createdIn": "2.2",
-   "song": "Unknown",
-   "minPercent": 45,
-   "position": 4
-  },
-  {
-   "id": "23",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 5,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "Ultra Dih",
-   "creators": "Community Creator",
-   "publisher": "Community Creator",
-   "verifier": "Community Verifier",
-   "video": "https://www.youtube.com/watch?v=9RkoRtZaqU0",
-   "thumbnail": "https://i.ytimg.com/vi/9RkoRtZaqU0/hqdefault.jpg",
-   "quote": "every extreme demon ever - id: 148998837 level name: ultra dih",
-   "levelId": "148998837",
-   "password": "Free to copy",
-   "length": "Medium (30-60s)",
-   "objects": "Unknown",
-   "difficulty": "Extreme Dihmon",
-   "createdIn": "2.2",
-   "song": "Unknown",
-   "minPercent": 45,
-   "position": 5
-  },
-  {
-   "id": "24",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 6,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "Dih Buh Pulse Finale",
-   "creators": "pikolz-gd",
-   "publisher": "pikolz-gd",
-   "verifier": "pikolz-gd (xdBot)",
-   "video": "https://www.youtube.com/watch?v=ANk92q6TivU",
-   "thumbnail": "https://i.ytimg.com/vi/ANk92q6TivU/hqdefault.jpg",
-   "quote": "SOLO EXTREME DEMON - third part in a series involving a 2-player mode setup for a desynchronized wave",
-   "levelId": "Unknown",
-   "password": "Unknown",
-   "length": "Medium (30-60s)",
-   "objects": "Unknown",
-   "difficulty": "Extreme Dihmon (2P Desync)",
-   "createdIn": "2.2",
-   "song": "GDHexhammer - Dark Matter",
-   "minPercent": 40,
-   "position": 6
-  },
-  {
-   "id": "25",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 7,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "Denouement In Hell (DIH)",
-   "creators": "bekon & Synactive GD",
-   "publisher": "Synactive GD",
-   "verifier": "iLaniakea",
-   "video": "https://www.youtube.com/watch?v=GbEYZYqcqIE",
-   "thumbnail": "https://i.ytimg.com/vi/GbEYZYqcqIE/hqdefault.jpg",
-   "quote": "Congrats on beating Dih 🎉🎉 Enjoyment: denouement/100",
-   "levelId": "132775208",
-   "password": "Free to copy",
-   "length": "Short (28s)",
-   "objects": "Unknown",
-   "difficulty": "Extreme Challenge / Dihmon",
-   "createdIn": "2.2",
-   "song": "Glory",
-   "minPercent": 50,
-   "position": 7
-  },
-  {
    "id": "14",
    "history": [
     {
@@ -205,10 +76,34 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 7,
+     "change": -4,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
      "position": 8,
-     "change": -5,
-     "reason": "5 real levels added above"
+     "change": -1,
+     "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:56.307Z",
+     "position": 7,
+     "change": 1,
+     "reason": "Scary Dih Eater 3000: moved down"
+    },
+    {
+     "date": "2026-10-17T07:18:55.913Z",
+     "position": 4,
+     "change": 3,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:19:02.375Z",
+     "position": 3,
+     "change": 1,
+     "reason": "Moved up"
     }
    ],
    "name": "Verity Circles",
@@ -226,7 +121,7 @@
    "createdIn": "2.2",
    "song": "czer323 - Extraction",
    "minPercent": 40,
-   "position": 8
+   "position": 3
   },
   {
    "id": "18",
@@ -238,10 +133,28 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 9,
-     "change": -5,
-     "reason": "5 real levels added above"
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 18,
+     "change": -9,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 8,
+     "change": 10,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T09:00:00.000Z",
+     "position": 5,
+     "change": 3,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T15:12:27.917Z",
+     "position": 4,
+     "change": 1,
+     "reason": "DIH: moved down"
     }
    ],
    "name": "Indestructible Dih",
@@ -259,7 +172,7 @@
    "createdIn": "2.2",
    "song": "JordanKyser - Sad Machine (JK Remix)",
    "minPercent": 60,
-   "position": 9
+   "position": 4
   },
   {
    "id": "8",
@@ -271,10 +184,40 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 10,
-     "change": -5,
-     "reason": "5 real levels added above"
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Verity Circles: added to the list"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 3,
+     "change": 1,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 4,
+     "change": -1,
+     "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:55.913Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Verity Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T09:00:00.000Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T15:12:27.917Z",
+     "position": 5,
+     "change": 1,
+     "reason": "DIH: moved down"
     }
    ],
    "name": "Tunnel of Dih",
@@ -292,7 +235,7 @@
    "createdIn": "2.2",
    "song": "Jewelz123 - Silent Hill (Dubstep)",
    "minPercent": 45,
-   "position": 10
+   "position": 5
   },
   {
    "id": "9",
@@ -304,10 +247,40 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 11,
-     "change": -5,
-     "reason": "5 real levels added above"
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 7,
+     "change": -3,
+     "reason": "3 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 4,
+     "change": 3,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 5,
+     "change": -1,
+     "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:55.913Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Verity Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T09:00:00.000Z",
+     "position": 7,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T15:12:27.917Z",
+     "position": 6,
+     "change": 1,
+     "reason": "DIH: moved down"
     }
    ],
    "name": "Dih Fungus",
@@ -325,7 +298,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - At the Speed of Light",
    "minPercent": 40,
-   "position": 11
+   "position": 6
   },
   {
    "id": "10",
@@ -337,10 +310,40 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 12,
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 10,
      "change": -5,
-     "reason": "5 real levels added above"
+     "reason": "5 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 5,
+     "change": 5,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 6,
+     "change": -1,
+     "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:55.913Z",
+     "position": 7,
+     "change": -1,
+     "reason": "Verity Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T09:00:00.000Z",
+     "position": 8,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T15:13:15.189Z",
+     "position": 7,
+     "change": 1,
+     "reason": "DIH: moved down"
     }
    ],
    "name": "Sakupen Wave Dih",
@@ -358,142 +361,169 @@
    "createdIn": "2.2",
    "song": "MrKoolTrix - Sakupen Hell Yes RMX",
    "minPercent": 55,
-   "position": 12
+   "position": 7
   },
   {
-   "id": "26",
+   "id": "21",
    "history": [
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 13,
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 8,
      "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
+     "reason": "Added to the list"
     }
    ],
-   "name": "Dih (Diffuse Buff)",
-   "creators": "CarolzaGD & Hinds",
-   "publisher": "CarolzaGD",
-   "verifier": "CarolzaGD (Botted Showcase)",
-   "video": "https://www.youtube.com/watch?v=qCTR3x_TH14",
-   "thumbnail": "https://i.ytimg.com/vi/qCTR3x_TH14/hqdefault.jpg",
-   "quote": "Dih 🥀 I finished this in like 30 mins btw Gameplay by Me [Botted Showcase]",
-   "levelId": "Unknown",
-   "password": "Unknown",
-   "length": "Long (60-120s)",
-   "objects": "Unknown",
-   "difficulty": "Extreme Demon",
-   "createdIn": "2.2",
-   "song": "Cacola - Yellow and Purple",
-   "minPercent": 50,
-   "position": 13
-  },
-  {
-   "id": "27",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 14,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "dih completion",
-   "creators": "gringleman",
-   "publisher": "gringleman",
-   "verifier": "FoldedTwo",
-   "video": "https://www.youtube.com/watch?v=6u8hm9TACdo",
-   "thumbnail": "https://i.ytimg.com/vi/6u8hm9TACdo/hqdefault.jpg",
-   "quote": "119842226 ouch ask @gringleman for proof 😭",
-   "levelId": "119842226",
-   "password": "Free to copy",
-   "length": "Short",
-   "objects": "Unknown",
-   "difficulty": "Extreme Challenge / Demon",
-   "createdIn": "2.2",
-   "song": "Unknown",
-   "minPercent": 55,
-   "position": 14
-  },
-  {
-   "id": "28",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 15,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "NotWeirdButStrange (Dih-cord)",
-   "creators": "dki8i_GD",
-   "publisher": "dki8i_GD",
-   "verifier": "dki8i_GD",
-   "video": "https://www.youtube.com/watch?v=5OlEuDHUUpk",
-   "thumbnail": "https://i.ytimg.com/vi/5OlEuDHUUpk/hqdefault.jpg",
-   "quote": "Robtop should def give a rate at some point. ID:149166456 join the discord community dih-cord",
-   "levelId": "149166456",
-   "password": "Unknown",
-   "length": "Long (60-120s)",
-   "objects": "Unknown",
-   "difficulty": "Extreme Demon (est.)",
-   "createdIn": "2.2",
-   "song": "Unknown",
-   "minPercent": 50,
-   "position": 15
-  },
-  {
-   "id": "29",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 16,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "dih (Rad Scorpion)",
-   "creators": "Rad Scorpion GD",
-   "publisher": "Rad Scorpion GD",
-   "verifier": "Rad Scorpion GD",
-   "video": "https://www.youtube.com/watch?v=sikAdDaXjgA",
-   "thumbnail": "https://i.ytimg.com/vi/sikAdDaXjgA/hqdefault.jpg",
-   "quote": "Making An Upcoming Top Demon, But I'm The Verifier!",
-   "levelId": "Unknown",
-   "password": "Unknown",
-   "length": "Medium (30-60s)",
-   "objects": "Unknown",
-   "difficulty": "Extreme Demon",
-   "createdIn": "2.2",
-   "song": "Unknown",
-   "minPercent": 55,
-   "position": 16
-  },
-  {
-   "id": "30",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 17,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "Shitty Grief (#dih)",
-   "creators": "im_johnathan",
-   "publisher": "im_johnathan",
-   "verifier": "im_johnathan",
-   "video": "https://www.youtube.com/watch?v=iJ1Qj4Yq1hs",
-   "thumbnail": "https://i.ytimg.com/vi/iJ1Qj4Yq1hs/hqdefault.jpg",
-   "quote": "total attempts: 115k+ level difficulty: extreme demon (around zodiac difficulty) #dih",
-   "levelId": "Unknown",
+   "name": "Dih Buh Pulse Finale",
+   "creators": "pikolz!!!",
+   "publisher": "pikolz!!!",
+   "verifier": "Unverified (beta preview)",
+   "video": "https://www.youtube.com/watch?v=ANk92q6TivU",
+   "thumbnail": "https://i.ytimg.com/vi/ANk92q6TivU/hqdefault.jpg",
+   "quote": "SOLO EXTREME DEMON - Dih Buh Pulse Finale (beta 2)",
+   "levelId": "Unreleased (beta, not on main servers)",
    "password": "Unknown",
    "length": "XL (2m+)",
    "objects": "Unknown",
    "difficulty": "Extreme Demon",
    "createdIn": "2.2",
-   "song": "KzX - Stalemate (Call Me Maybe Mashup)",
+   "song": "GDHexhammer - Dark Matter",
+   "minPercent": 40,
+   "position": 8
+  },
+  {
+   "id": "25",
+   "history": [
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 9,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Denouement In Hell",
+   "creators": "bekon (BaconGra) & Synactive GD",
+   "publisher": "BaconGra",
+   "verifier": "Laniakea",
+   "video": "https://www.youtube.com/watch?v=GbEYZYqcqIE",
+   "thumbnail": "https://i.ytimg.com/vi/GbEYZYqcqIE/hqdefault.jpg",
+   "quote": "Welcome to the HELL. 27 Frame Perfects on 60fps",
+   "levelId": "132775208",
+   "password": "Unknown",
+   "length": "Long (60-120s)",
+   "objects": "25774",
+   "difficulty": "Extreme Demon (est.)",
+   "createdIn": "2.2",
+   "song": "FyremanMusic - Glory",
+   "minPercent": 40,
+   "position": 9
+  },
+  {
+   "id": "26",
+   "history": [
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 10,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "dih after dih",
+   "creators": "K4T^3",
+   "publisher": "K4T^3",
+   "verifier": "K4T^3",
+   "video": "https://www.youtube.com/watch?v=KIkyXfjDMds",
+   "thumbnail": "https://i.ytimg.com/vi/KIkyXfjDMds/hqdefault.jpg",
+   "quote": "HARDER THAN JOHN WAVE TRIALS?!?!?! - \"dih after dih\" VERIFIED with frame perfect counter",
+   "levelId": "Unknown",
+   "password": "Unknown",
+   "length": "Unknown",
+   "objects": "Unknown",
+   "difficulty": "Extreme Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Unknown",
+   "minPercent": 40,
+   "position": 10
+  },
+  {
+   "id": "27",
+   "history": [
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 11,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Shitty Grief",
+   "creators": "Unknown (many copies exist)",
+   "publisher": "Unknown",
+   "verifier": "im johnathan",
+   "video": "https://www.youtube.com/watch?v=iJ1Qj4Yq1hs",
+   "thumbnail": "https://i.ytimg.com/vi/iJ1Qj4Yq1hs/hqdefault.jpg",
+   "quote": "SHITTY GRIEF IN 2 RUNS // 115k+ ATTEMPTS",
+   "levelId": "Unknown",
+   "password": "Unknown",
+   "length": "XL (2m+)",
+   "objects": "Unknown",
+   "difficulty": "Extreme Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Unknown",
    "minPercent": 45,
-   "position": 17
+   "position": 11
+  },
+  {
+   "id": "36",
+   "history": [
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 12,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Unnerfed Dih Circles Unleashed",
+   "creators": "THEandyaiv & friends",
+   "publisher": "THEandyaiv",
+   "verifier": "THEandyaiv",
+   "video": "https://www.youtube.com/watch?v=m-hzhScK2tQ",
+   "thumbnail": "https://i.ytimg.com/vi/m-hzhScK2tQ/hqdefault.jpg",
+   "quote": "UNNERFED DIH CIRCLES UNLEASED VERIFIED!!!1!!11!111",
+   "levelId": "147886048",
+   "password": "Unknown",
+   "length": "Unknown",
+   "objects": "Unknown",
+   "difficulty": "Extreme Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Unknown",
+   "minPercent": 40,
+   "position": 12
+  },
+  {
+   "id": "37",
+   "history": [
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 13,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Ultra Dih",
+   "creators": "Thebusman",
+   "publisher": "Thebusman",
+   "verifier": "Thebusman",
+   "video": "https://www.youtube.com/watch?v=9RkoRtZaqU0",
+   "thumbnail": "https://i.ytimg.com/vi/9RkoRtZaqU0/hqdefault.jpg",
+   "quote": "every extreme demon ever",
+   "levelId": "148998837",
+   "password": "Unknown",
+   "length": "Unknown",
+   "objects": "Unknown",
+   "difficulty": "Extreme Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Unknown",
+   "minPercent": 40,
+   "position": 13
   },
   {
    "id": "1",
@@ -505,10 +535,154 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 18,
-     "change": -10,
-     "reason": "10 real levels added above"
+     "date": "2026-10-16T03:38:51.887Z",
+     "position": 2,
+     "change": -1,
+     "reason": "Scary Dih Eater 3000: added to the list"
+    },
+    {
+     "date": "2026-10-16T18:29:23.454Z",
+     "position": 3,
+     "change": -1,
+     "reason": "Dihnouement II: added to the list"
+    },
+    {
+     "date": "2026-10-16T18:52:15.050Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Grief 2: added to the list"
+    },
+    {
+     "date": "2026-10-16T20:50:27.317Z",
+     "position": 3,
+     "change": 1,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T04:49:36.071Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Dih Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Son 618: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:00:00.000Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Tunnel of Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:00.000Z",
+     "position": 7,
+     "change": -1,
+     "reason": "Dih Fungus: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:10.000Z",
+     "position": 8,
+     "change": -1,
+     "reason": "Sakupen Wave Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:20.000Z",
+     "position": 9,
+     "change": -1,
+     "reason": "DIH: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 15,
+     "change": -6,
+     "reason": "6 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 11,
+     "change": 4,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:01.758Z",
+     "position": 8,
+     "change": 3,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 9,
+     "change": -1,
+     "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 10,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 11,
+     "change": -1,
+     "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T08:00:00.000Z",
+     "position": 10,
+     "change": 1,
+     "reason": "dih adventures: moved down"
+    },
+    {
+     "date": "2026-10-17T09:00:10.000Z",
+     "position": 9,
+     "change": 1,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T15:13:15.189Z",
+     "position": 8,
+     "change": 1,
+     "reason": "DIH: moved down"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 9,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 10,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 11,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 12,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 13,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 14,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
     }
    ],
    "name": "Dih Travel",
@@ -526,7 +700,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 18
+   "position": 14
   },
   {
    "id": "2",
@@ -538,10 +712,112 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 19,
-     "change": -10,
-     "reason": "10 real levels added above"
+     "date": "2026-10-16T18:52:44.245Z",
+     "position": 2,
+     "change": -1,
+     "reason": "Grief 2: moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 3,
+     "change": -1,
+     "reason": "Son 618: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:00:00.000Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Tunnel of Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:00.000Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Dih Fungus: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:10.000Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Sakupen Wave Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 12,
+     "change": -6,
+     "reason": "6 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 6,
+     "change": 6,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 7,
+     "change": -1,
+     "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:56.307Z",
+     "position": 8,
+     "change": -1,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 9,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T09:00:10.000Z",
+     "position": 10,
+     "change": -1,
+     "reason": "Dih Travel: moved up"
+    },
+    {
+     "date": "2026-10-17T15:13:15.189Z",
+     "position": 9,
+     "change": 1,
+     "reason": "DIH: moved down"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 10,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 11,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 12,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 13,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 14,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
     }
    ],
    "name": "Scary Dih Eater 3000",
@@ -559,130 +835,145 @@
    "createdIn": "2.2",
    "song": "cYsmix - Eden",
    "minPercent": 35,
-   "position": 19
+   "position": 15
   },
   {
-   "id": "20",
+   "id": "28",
    "history": [
     {
-     "date": "2026-10-17T08:30:00.000Z",
-     "position": 12,
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 14,
      "change": null,
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 20,
-     "change": -10,
-     "reason": "10 real levels added above"
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
     }
    ],
-   "name": "Dihnoument",
-   "creators": "TheronDaGreat",
-   "publisher": "TheronDaGreat",
-   "verifier": "TheronDaGreat",
-   "video": "https://www.youtube.com/watch?v=B469eng_8AA",
-   "thumbnail": "https://i.ytimg.com/vi/B469eng_8AA/hqdefault.jpg",
-   "quote": "Insane demon 300 attempts or smth",
-   "levelId": "ColaGDPS (not on main servers)",
+   "name": "NotWeirdButStrange",
+   "creators": "joy115135",
+   "publisher": "joy115135",
+   "verifier": "joy115135",
+   "video": "https://www.youtube.com/watch?v=5OlEuDHUUpk",
+   "thumbnail": "https://i.ytimg.com/vi/5OlEuDHUUpk/hqdefault.jpg",
+   "quote": "Solo level made in \"1-2 months\" that pays tribute to lespainsaucho.",
+   "levelId": "149166456",
+   "password": "Free to copy",
+   "length": "Long (60-120s)",
+   "objects": "25277",
+   "difficulty": "Insane Demon (est.)",
+   "createdIn": "2.2",
+   "song": "cYsmix - Peer Gynt",
+   "minPercent": 50,
+   "position": 16
+  },
+  {
+   "id": "29",
+   "history": [
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 15,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    }
+   ],
+   "name": "Dih Circles WIP #3",
+   "creators": "VoidYT",
+   "publisher": "VoidYT",
+   "verifier": "Unverified (WIP)",
+   "video": "https://www.youtube.com/watch?v=c9Bc-rihhZw",
+   "thumbnail": "https://i.ytimg.com/vi/c9Bc-rihhZw/hqdefault.jpg",
+   "quote": "Dih Circles WIP Showcase #3",
+   "levelId": "Unreleased (WIP)",
    "password": "Unknown",
    "length": "Unknown",
    "objects": "Unknown",
-   "difficulty": "Insane Demon",
-   "createdIn": "ColaGDPS",
+   "difficulty": "Insane Demon (est.)",
+   "createdIn": "2.2",
    "song": "Unknown",
-   "minPercent": 35,
-   "position": 20
+   "minPercent": 50,
+   "position": 17
+  },
+  {
+   "id": "30",
+   "history": [
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 16,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    }
+   ],
+   "name": "Dih experiment",
+   "creators": "Geometry dash guy",
+   "publisher": "Geometry dash guy",
+   "verifier": "Geometry dash guy",
+   "video": "https://www.youtube.com/watch?v=McKUfy4o_7k",
+   "thumbnail": "https://i.ytimg.com/vi/McKUfy4o_7k/hqdefault.jpg",
+   "quote": "Dih experiment + wave challenges stream (send me some wave challenges!)",
+   "levelId": "Unknown",
+   "password": "Unknown",
+   "length": "Unknown",
+   "objects": "Unknown",
+   "difficulty": "Insane Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Unknown",
+   "minPercent": 55,
+   "position": 18
   },
   {
    "id": "31",
    "history": [
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 21,
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 17,
      "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "dih verified",
-   "creators": "kyleGMD",
-   "publisher": "kyleGMD",
-   "verifier": "kyleGMD",
-   "video": "https://www.youtube.com/watch?v=QoDhmoAWFvM",
-   "thumbnail": "https://i.ytimg.com/vi/QoDhmoAWFvM/hqdefault.jpg",
-   "quote": "the deco is kinda bad lowkey but DEAL WITH IT anyways id:145644540",
-   "levelId": "145644540",
-   "password": "Uncopylocked",
-   "length": "Medium (30-60s)",
-   "objects": "Unknown",
-   "difficulty": "Insane Demon",
-   "createdIn": "2.2",
-   "song": "Unknown",
-   "minPercent": 60,
-   "position": 21
-  },
-  {
-   "id": "32",
-   "history": [
+     "reason": "Added to the list"
+    },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 22,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "Dih Circles WIP #3",
-   "creators": "voidedx89",
-   "publisher": "voidedx89",
-   "verifier": "voidedx89",
-   "video": "https://www.youtube.com/watch?v=c9Bc-rihhZw",
-   "thumbnail": "https://i.ytimg.com/vi/c9Bc-rihhZw/hqdefault.jpg",
-   "quote": "Dih Circles WIP Showcase #3 (Geometry Dash)",
-   "levelId": "Unreleased / WIP",
-   "password": "Unknown",
-   "length": "Long (60-120s)",
-   "objects": "Unknown",
-   "difficulty": "Insane Demon",
-   "createdIn": "2.2",
-   "song": "Rukkus - Nine Circles",
-   "minPercent": 50,
-   "position": 22
-  },
-  {
-   "id": "33",
-   "history": [
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 23,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "Dih experiment",
-   "creators": "Geometrydashguy1",
-   "publisher": "Geometrydashguy1",
-   "verifier": "Geometrydashguy1",
-   "video": "https://www.youtube.com/watch?v=McKUfy4o_7k",
-   "thumbnail": "https://i.ytimg.com/vi/McKUfy4o_7k/hqdefault.jpg",
-   "quote": "Dih experiment + wave challenges stream",
-   "levelId": "Unknown",
-   "password": "Unknown",
-   "length": "Medium (30-60s)",
-   "objects": "Unknown",
-   "difficulty": "Insane Demon",
-   "createdIn": "2.2",
-   "song": "Unknown",
-   "minPercent": 60,
-   "position": 23
-  },
-  {
-   "id": "34",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 24,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
     }
    ],
    "name": "wing dih landscape",
@@ -691,43 +982,109 @@
    "verifier": "TwistyTweek",
    "video": "https://www.youtube.com/watch?v=x848AFIlU68",
    "thumbnail": "https://i.ytimg.com/vi/x848AFIlU68/hqdefault.jpg",
-   "quote": "wing dih landscape",
+   "quote": "wing dih🥀 landscape",
    "levelId": "Unknown",
    "password": "Unknown",
-   "length": "Long (60-120s)",
+   "length": "Unknown",
    "objects": "Unknown",
-   "difficulty": "Insane Demon",
+   "difficulty": "Insane Demon (est.)",
    "createdIn": "2.2",
-   "song": "TheFatRat - Windfall",
+   "song": "Unknown",
    "minPercent": 55,
-   "position": 24
+   "position": 19
   },
   {
-   "id": "35",
+   "id": "32",
    "history": [
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 25,
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 18,
      "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
     }
    ],
-   "name": "7 dynamics by dih",
-   "creators": "dih",
-   "publisher": "dih",
-   "verifier": "dih",
-   "video": "https://www.youtube.com/watch?v=vvL4bC_4KaQ",
-   "thumbnail": "https://i.ytimg.com/vi/vvL4bC_4KaQ/hqdefault.jpg",
-   "quote": "7 dynamics by dih - decorated this entire thing in only two days",
+   "name": "DIH (M4DEM4X)",
+   "creators": "M4DEM4X",
+   "publisher": "M4DEM4X",
+   "verifier": "kyleblus (KyleGD)",
+   "video": "https://www.youtube.com/watch?v=QoDhmoAWFvM",
+   "thumbnail": "https://i.ytimg.com/vi/QoDhmoAWFvM/hqdefault.jpg",
+   "quote": "u must die verified by kyleblus",
+   "levelId": "145644540",
+   "password": "Free to copy",
+   "length": "Short (10-30s)",
+   "objects": "640",
+   "difficulty": "Insane Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Rukkus - Nine Circles",
+   "minPercent": 55,
+   "position": 20
+  },
+  {
+   "id": "38",
+   "history": [
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 21,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "dih completion",
+   "creators": "Unknown",
+   "publisher": "Unknown",
+   "verifier": "FoldedTwo",
+   "video": "https://www.youtube.com/watch?v=6u8hm9TACdo",
+   "thumbnail": "https://i.ytimg.com/vi/6u8hm9TACdo/hqdefault.jpg",
+   "quote": "ouch, ask @gringleman for proof",
    "levelId": "Unknown",
    "password": "Unknown",
-   "length": "Long (60-120s)",
+   "length": "Unknown",
    "objects": "Unknown",
-   "difficulty": "Insane Demon",
+   "difficulty": "Insane Demon (est.)",
    "createdIn": "2.2",
-   "song": "DJ-Nate - Thermodynamix",
+   "song": "Unknown",
    "minPercent": 55,
-   "position": 25
+   "position": 21
+  },
+  {
+   "id": "39",
+   "history": [
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 22,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "dih (unisandal)",
+   "creators": "unisandal",
+   "publisher": "unisandal",
+   "verifier": "unisandal",
+   "video": "https://www.youtube.com/watch?v=sikAdDaXjgA",
+   "thumbnail": "https://i.ytimg.com/vi/sikAdDaXjgA/hqdefault.jpg",
+   "quote": "dih 😂😂",
+   "levelId": "Unknown",
+   "password": "Unknown",
+   "length": "Unknown",
+   "objects": "Unknown",
+   "difficulty": "Insane Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Unknown",
+   "minPercent": 55,
+   "position": 22
   },
   {
    "id": "11",
@@ -739,10 +1096,148 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 26,
-     "change": -15,
-     "reason": "15 real levels added above"
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 14,
+     "change": -6,
+     "reason": "6 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 9,
+     "change": 5,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:01.758Z",
+     "position": 10,
+     "change": -1,
+     "reason": "Dih Travel: moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 3,
+     "change": 7,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:19:02.375Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Verity Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T15:12:27.917Z",
+     "position": 7,
+     "change": -3,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T15:13:15.189Z",
+     "position": 12,
+     "change": -5,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T15:14:12.712Z",
+     "position": 11,
+     "change": 1,
+     "reason": "dih adventures: moved down"
+    },
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 10,
+     "change": 1,
+     "reason": "Dihnoument: moved up"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 11,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 12,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 13,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 14,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 23,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "DIH",
@@ -760,7 +1255,7 @@
    "createdIn": "2.2",
    "song": "F-777 - Sonic Blaster",
    "minPercent": 60,
-   "position": 26
+   "position": 23
   },
   {
    "id": "19",
@@ -772,10 +1267,130 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 27,
-     "change": -15,
-     "reason": "15 real levels added above"
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 19,
+     "change": -8,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 10,
+     "change": 9,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T08:00:00.000Z",
+     "position": 11,
+     "change": -1,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T15:13:15.189Z",
+     "position": 10,
+     "change": 1,
+     "reason": "DIH: moved down"
+    },
+    {
+     "date": "2026-10-17T15:14:12.712Z",
+     "position": 12,
+     "change": -2,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 11,
+     "change": 1,
+     "reason": "Dihnoument: moved up"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 12,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 13,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 14,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 24,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "dih adventures",
@@ -793,7 +1408,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - Every End...",
    "minPercent": 75,
-   "position": 27
+   "position": 24
   },
   {
    "id": "6",
@@ -805,10 +1420,172 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 28,
-     "change": -15,
-     "reason": "15 real levels added above"
+     "date": "2026-10-17T04:49:36.071Z",
+     "position": 3,
+     "change": 3,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Son 618: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:00:00.000Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Tunnel of Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:00.000Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Dih Fungus: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:10.000Z",
+     "position": 7,
+     "change": -1,
+     "reason": "Sakupen Wave Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 13,
+     "change": -6,
+     "reason": "6 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 8,
+     "change": 5,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:01.758Z",
+     "position": 9,
+     "change": -1,
+     "reason": "Dih Travel: moved up"
+    },
+    {
+     "date": "2026-10-17T07:16:21.237Z",
+     "position": 10,
+     "change": -1,
+     "reason": "DIH: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 11,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 12,
+     "change": -1,
+     "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T08:30:00.000Z",
+     "position": 13,
+     "change": -1,
+     "reason": "Dihnoument: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 12,
+     "change": 1,
+     "reason": "Dihnoument: moved up"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 13,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 14,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 25,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "Dih Circles",
@@ -826,61 +1603,553 @@
    "createdIn": "2.2",
    "song": "Koraii - Oracle",
    "minPercent": 50,
+   "position": 25
+  },
+  {
+   "id": "20",
+   "history": [
+    {
+     "date": "2026-10-17T08:30:00.000Z",
+     "position": 12,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T15:13:15.189Z",
+     "position": 11,
+     "change": 1,
+     "reason": "DIH: moved down"
+    },
+    {
+     "date": "2026-10-17T15:14:12.712Z",
+     "position": 10,
+     "change": 1,
+     "reason": "dih adventures: moved down"
+    },
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 14,
+     "change": -4,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "DIH LOCKED: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Conical Dihpression: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:30.000Z",
+     "position": 14,
+     "change": 3,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 26,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
+    }
+   ],
+   "name": "Dihnoument",
+   "creators": "TheronDaGreat",
+   "publisher": "TheronDaGreat",
+   "verifier": "TheronDaGreat",
+   "video": "https://www.youtube.com/watch?v=B469eng_8AA",
+   "thumbnail": "https://i.ytimg.com/vi/B469eng_8AA/hqdefault.jpg",
+   "quote": "Insane demon 300 attempts or smth",
+   "levelId": "ColaGDPS (not on main servers)",
+   "password": "Unknown",
+   "length": "Unknown",
+   "objects": "Unknown",
+   "difficulty": "Hard Demon",
+   "createdIn": "ColaGDPS",
+   "song": "Unknown",
+   "minPercent": 50,
+   "position": 26
+  },
+  {
+   "id": "22",
+   "history": [
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 14,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:30.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "Dihnoument: moved up"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 27,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
+    }
+   ],
+   "name": "DIH LOCKED",
+   "creators": "SolarwalkerGD",
+   "publisher": "SolarwalkerGD",
+   "verifier": "SolarwalkerGD",
+   "video": "https://www.youtube.com/watch?v=tgvQYPqxYzk",
+   "thumbnail": "https://i.ytimg.com/vi/tgvQYPqxYzk/hqdefault.jpg",
+   "quote": "for deadlocked gaming nya~",
+   "levelId": "130960474",
+   "password": "Free to copy",
+   "length": "Medium (30-60s)",
+   "objects": "6279",
+   "difficulty": "Hard Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Panda Eyes - Colorblind",
+   "minPercent": 55,
+   "position": 27
+  },
+  {
+   "id": "23",
+   "history": [
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 15,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:30.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Dihnoument: moved up"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 28,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
+    }
+   ],
+   "name": "Conical Dihpression",
+   "creators": "Unknown",
+   "publisher": "Unknown",
+   "verifier": "Pythrox",
+   "video": "https://www.youtube.com/watch?v=zoWAa2jii5I",
+   "thumbnail": "https://i.ytimg.com/vi/zoWAa2jii5I/hqdefault.jpg",
+   "quote": "level is not bad i got really unluck with it died at the red part 50-85 60 times so it was not that fun for me",
+   "levelId": "Unknown",
+   "password": "Unknown",
+   "length": "XL (2m+)",
+   "objects": "Unknown",
+   "difficulty": "Hard Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Unknown",
+   "minPercent": 55,
    "position": 28
   },
   {
-   "id": "36",
+   "id": "33",
    "history": [
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 29,
+     "date": "2026-10-17T17:08:00.000Z",
+     "position": 25,
      "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 29,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "Dih Dih Dih Fruit",
-   "creators": "Evan_Bomber",
-   "publisher": "Evan_Bomber",
-   "verifier": "Evan_Bomber",
+   "creators": "Evan Bomber",
+   "publisher": "Evan Bomber",
+   "verifier": "Unverified (layout)",
    "video": "https://www.youtube.com/watch?v=gwW1kC1qXLs",
    "thumbnail": "https://i.ytimg.com/vi/gwW1kC1qXLs/hqdefault.jpg",
-   "quote": "Dih Dih Dih Fruit (layout) - Geometry dash level im working on :D",
-   "levelId": "Unknown",
+   "quote": "Dih Dih Dih Fruit (layout)",
+   "levelId": "Unreleased (layout)",
    "password": "Unknown",
-   "length": "Medium (30-60s)",
+   "length": "Unknown",
    "objects": "Unknown",
-   "difficulty": "Hard Demon",
+   "difficulty": "Hard Demon (est.)",
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 60,
    "position": 29
   },
   {
-   "id": "37",
+   "id": "34",
    "history": [
     {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 30,
+     "date": "2026-10-17T17:09:00.000Z",
+     "position": 26,
      "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 31,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 30,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "geometry dih",
-   "creators": "GDnobrain",
-   "publisher": "GDnobrain",
-   "verifier": "GDnobrain",
+   "creators": "GD nobrain",
+   "publisher": "GD nobrain",
+   "verifier": "GD nobrain",
    "video": "https://www.youtube.com/watch?v=3Jjv701XPWo",
    "thumbnail": "https://i.ytimg.com/vi/3Jjv701XPWo/hqdefault.jpg",
-   "quote": "#geometry dash #gd #gdnobrain",
+   "quote": "geometry dih",
    "levelId": "Unknown",
    "password": "Unknown",
-   "length": "Long (60-120s)",
+   "length": "Unknown",
    "objects": "Unknown",
-   "difficulty": "Hard Demon",
+   "difficulty": "Hard Demon (est.)",
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 65,
    "position": 30
+  },
+  {
+   "id": "41",
+   "history": [
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 32,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 31,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
+    }
+   ],
+   "name": "Dih (CarolzaGD showcase)",
+   "creators": "Unknown",
+   "publisher": "Unknown",
+   "verifier": "CarolzaGD (botted showcase)",
+   "video": "https://www.youtube.com/watch?v=qCTR3x_TH14",
+   "thumbnail": "https://i.ytimg.com/vi/qCTR3x_TH14/hqdefault.jpg",
+   "quote": "Dih 🥀 by someone who talks to kids - I finished this in like 30 mins btw",
+   "levelId": "Unknown",
+   "password": "Unknown",
+   "length": "Unknown",
+   "objects": "Unknown",
+   "difficulty": "Hard Demon",
+   "createdIn": "2.2",
+   "song": "Cacola - Yellow and Purple",
+   "minPercent": 60,
+   "position": 31
   },
   {
    "id": "15",
@@ -892,10 +2161,166 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 10,
+     "change": -5,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T07:16:01.758Z",
+     "position": 11,
+     "change": -1,
+     "reason": "Dih Travel: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 12,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 13,
+     "change": -1,
+     "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T08:30:00.000Z",
+     "position": 14,
+     "change": -1,
+     "reason": "Dihnoument: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:00:00.000Z",
+     "position": 13,
+     "change": 1,
+     "reason": "Dihnoument: moved up"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 14,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "DIH LOCKED: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Conical Dihpression: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:30.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Dihnoument: moved up"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T17:08:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "Dih Dih Dih Fruit: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:09:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "geometry dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
      "position": 31,
-     "change": -17,
-     "reason": "17 real levels added above"
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 32,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 33,
+     "change": -1,
+     "reason": "Dih (CarolzaGD showcase): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 32,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "VeritY",
@@ -913,7 +2338,7 @@
    "createdIn": "2.0",
    "song": "TheFatRat - The Calling (feat. Laura Brehm)",
    "minPercent": 50,
-   "position": 31
+   "position": 32
   },
   {
    "id": "12",
@@ -925,10 +2350,154 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 16,
+     "change": -6,
+     "reason": "6 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 12,
+     "change": 4,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 13,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 14,
+     "change": -1,
+     "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T08:30:00.000Z",
+     "position": 15,
+     "change": -1,
+     "reason": "Dihnoument: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "DIH LOCKED: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Conical Dihpression: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T17:08:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "Dih Dih Dih Fruit: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:09:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "geometry dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 31,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
      "position": 32,
-     "change": -17,
-     "reason": "17 real levels added above"
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 33,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 34,
+     "change": -1,
+     "reason": "Dih (CarolzaGD showcase): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 33,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "Dih Wave",
@@ -946,7 +2515,7 @@
    "createdIn": "2.2",
    "song": "yagru - g444444444g",
    "minPercent": 70,
-   "position": 32
+   "position": 33
   },
   {
    "id": "3",
@@ -958,10 +2527,220 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
+     "date": "2026-10-16T18:52:15.050Z",
+     "position": 3,
+     "change": -1,
+     "reason": "Grief 2: added to the list"
+    },
+    {
+     "date": "2026-10-16T20:50:27.317Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Dih Travel: moved up"
+    },
+    {
+     "date": "2026-10-16T20:54:38.891Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Brizz Circles: added to the list"
+    },
+    {
+     "date": "2026-10-16T21:07:35.577Z",
+     "position": 4,
+     "change": 1,
+     "reason": "Brizz Circles: moved down"
+    },
+    {
+     "date": "2026-10-17T04:49:36.071Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Dih Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Son 618: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:00:00.000Z",
+     "position": 7,
+     "change": -1,
+     "reason": "Tunnel of Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:00.000Z",
+     "position": 8,
+     "change": -1,
+     "reason": "Dih Fungus: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:10.000Z",
+     "position": 9,
+     "change": -1,
+     "reason": "Sakupen Wave Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:20.000Z",
+     "position": 10,
+     "change": -1,
+     "reason": "DIH: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:30.000Z",
+     "position": 11,
+     "change": -1,
+     "reason": "Dih Wave: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 17,
+     "change": -6,
+     "reason": "6 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 13,
+     "change": 4,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 14,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 15,
+     "change": -1,
+     "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T08:30:00.000Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Dihnoument: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "DIH LOCKED: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "Conical Dihpression: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T17:08:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "Dih Dih Dih Fruit: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:09:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "geometry dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 31,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 32,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
      "position": 33,
-     "change": -17,
-     "reason": "17 real levels added above"
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 34,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 35,
+     "change": -1,
+     "reason": "Dih (CarolzaGD showcase): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 34,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "Dihnouement II",
@@ -979,7 +2758,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 33
+   "position": 34
   },
   {
    "id": "16",
@@ -991,10 +2770,148 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 14,
+     "change": -8,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 15,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 16,
+     "change": -1,
+     "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T08:30:00.000Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Dihnoument: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "DIH LOCKED: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "Conical Dihpression: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T17:08:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "Dih Dih Dih Fruit: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:09:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "geometry dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 31,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 32,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 33,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
      "position": 34,
-     "change": -17,
-     "reason": "17 real levels added above"
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 35,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 36,
+     "change": -1,
+     "reason": "Dih (CarolzaGD showcase): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 35,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "Verity in GD",
@@ -1012,33 +2929,6 @@
    "createdIn": "2.2",
    "song": "chane-of-musik - Its me Its Verity (Remix)",
    "minPercent": 55,
-   "position": 34
-  },
-  {
-   "id": "38",
-   "history": [
-    {
-     "date": "2026-10-17T16:30:00.000Z",
-     "position": 35,
-     "change": null,
-     "reason": "Added to the list (Verified Real Expansion)"
-    }
-   ],
-   "name": "Dih level",
-   "creators": "JokemonTX",
-   "publisher": "JokemonTX",
-   "verifier": "JokemonTX",
-   "video": "https://www.youtube.com/watch?v=MuRZbK7Bt8k",
-   "thumbnail": "https://i.ytimg.com/vi/MuRZbK7Bt8k/hqdefault.jpg",
-   "quote": "Plz subscribe - Dih level",
-   "levelId": "Unknown",
-   "password": "Unknown",
-   "length": "Medium (30-60s)",
-   "objects": "Unknown",
-   "difficulty": "Easy Demon",
-   "createdIn": "2.2",
-   "song": "DJ-Nate - Theory of Everything",
-   "minPercent": 75,
    "position": 35
   },
   {
@@ -1051,10 +2941,202 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
+     "date": "2026-10-16T21:07:35.577Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T04:49:36.071Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Dih Circles: moved up"
+    },
+    {
+     "date": "2026-10-17T04:57:00.000Z",
+     "position": 7,
+     "change": -1,
+     "reason": "Son 618: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:00:00.000Z",
+     "position": 8,
+     "change": -1,
+     "reason": "Tunnel of Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:00.000Z",
+     "position": 9,
+     "change": -1,
+     "reason": "Dih Fungus: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:10.000Z",
+     "position": 10,
+     "change": -1,
+     "reason": "Sakupen Wave Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:20.000Z",
+     "position": 11,
+     "change": -1,
+     "reason": "DIH: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:01:30.000Z",
+     "position": 12,
+     "change": -1,
+     "reason": "Dih Wave: added to the list"
+    },
+    {
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 18,
+     "change": -6,
+     "reason": "6 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 15,
+     "change": 3,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 16,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 17,
+     "change": -1,
+     "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T08:30:00.000Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Dihnoument: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "DIH LOCKED: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "Conical Dihpression: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T17:08:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "Dih Dih Dih Fruit: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:09:00.000Z",
+     "position": 31,
+     "change": -1,
+     "reason": "geometry dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 32,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 33,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 34,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 35,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
      "position": 36,
-     "change": -18,
-     "reason": "18 real levels added above"
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 37,
+     "change": -1,
+     "reason": "Dih (CarolzaGD showcase): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 36,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "Brizz Circles",
@@ -1084,10 +3166,154 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
+     "date": "2026-10-17T05:05:00.000Z",
+     "position": 19,
+     "change": -6,
+     "reason": "6 new levels added above"
+    },
+    {
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 16,
+     "change": 3,
+     "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 17,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 18,
+     "change": -1,
+     "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T08:30:00.000Z",
+     "position": 19,
+     "change": -1,
+     "reason": "Dihnoument: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "DIH LOCKED: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "Conical Dihpression: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T17:08:00.000Z",
+     "position": 31,
+     "change": -1,
+     "reason": "Dih Dih Dih Fruit: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:09:00.000Z",
+     "position": 32,
+     "change": -1,
+     "reason": "geometry dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 33,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 34,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 35,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 36,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
      "position": 37,
-     "change": -18,
-     "reason": "18 real levels added above"
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 38,
+     "change": -1,
+     "reason": "Dih (CarolzaGD showcase): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 37,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "The Dih",
@@ -1108,6 +3334,204 @@
    "position": 37
   },
   {
+   "id": "24",
+   "history": [
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 23,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 31,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T17:08:00.000Z",
+     "position": 32,
+     "change": -1,
+     "reason": "Dih Dih Dih Fruit: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:09:00.000Z",
+     "position": 33,
+     "change": -1,
+     "reason": "geometry dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 34,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 35,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 36,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 37,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 38,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 39,
+     "change": -1,
+     "reason": "Dih (CarolzaGD showcase): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 38,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
+    }
+   ],
+   "name": "Theory of Dih",
+   "creators": "jacobite2",
+   "publisher": "jacobite2",
+   "verifier": "jacobite2",
+   "video": "https://www.youtube.com/watch?v=97w0NCU-QD8",
+   "thumbnail": "https://i.ytimg.com/vi/97w0NCU-QD8/hqdefault.jpg",
+   "quote": "cool level rate it easy demon (big d*h at the end)",
+   "levelId": "125277965",
+   "password": "Free to copy",
+   "length": "Long (60-120s)",
+   "objects": "2586",
+   "difficulty": "Easy Demon (est.)",
+   "createdIn": "2.2",
+   "song": "DJVI - Theory of Everything",
+   "minPercent": 60,
+   "position": 38
+  },
+  {
+   "id": "35",
+   "history": [
+    {
+     "date": "2026-10-17T17:10:00.000Z",
+     "position": 34,
+     "change": null,
+     "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 35,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 36,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
+     "position": 37,
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 38,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 39,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 40,
+     "change": -1,
+     "reason": "Dih (CarolzaGD showcase): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 39,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
+    }
+   ],
+   "name": "Dih level",
+   "creators": "JokemonTX2",
+   "publisher": "JokemonTX2",
+   "verifier": "JokemonTX2",
+   "video": "https://www.youtube.com/watch?v=MuRZbK7Bt8k",
+   "thumbnail": "https://i.ytimg.com/vi/MuRZbK7Bt8k/hqdefault.jpg",
+   "quote": "Dih level",
+   "levelId": "Unknown",
+   "password": "Unknown",
+   "length": "Unknown",
+   "objects": "Unknown",
+   "difficulty": "Easy Demon (est.)",
+   "createdIn": "2.2",
+   "song": "Unknown",
+   "minPercent": 75,
+   "position": 39
+  },
+  {
    "id": "17",
    "history": [
     {
@@ -1117,10 +3541,160 @@
      "reason": "Added to the list"
     },
     {
-     "date": "2026-10-17T16:30:00.000Z",
+     "date": "2026-10-17T06:30:00.000Z",
+     "position": 17,
+     "change": -9,
+     "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T07:18:07.668Z",
+     "position": 18,
+     "change": -1,
+     "reason": "Indestructible Dih: moved up"
+    },
+    {
+     "date": "2026-10-17T07:18:12.439Z",
+     "position": 19,
+     "change": -1,
+     "reason": "dih adventures: moved up"
+    },
+    {
+     "date": "2026-10-17T08:30:00.000Z",
+     "position": 20,
+     "change": -1,
+     "reason": "Dihnoument: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 21,
+     "change": -1,
+     "reason": "Dih Buh Pulse Finale: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 22,
+     "change": -1,
+     "reason": "DIH LOCKED: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 23,
+     "change": -1,
+     "reason": "Conical Dihpression: added to the list"
+    },
+    {
+     "date": "2026-10-17T16:10:00.000Z",
+     "position": 24,
+     "change": -1,
+     "reason": "Theory of Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:00:00.000Z",
+     "position": 25,
+     "change": -1,
+     "reason": "Denouement In Hell: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:01:00.000Z",
+     "position": 26,
+     "change": -1,
+     "reason": "dih after dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:02:00.000Z",
+     "position": 27,
+     "change": -1,
+     "reason": "Shitty Grief: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:03:00.000Z",
+     "position": 28,
+     "change": -1,
+     "reason": "NotWeirdButStrange: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:04:00.000Z",
+     "position": 29,
+     "change": -1,
+     "reason": "Dih Circles WIP #3: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:05:00.000Z",
+     "position": 30,
+     "change": -1,
+     "reason": "Dih experiment: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:06:00.000Z",
+     "position": 31,
+     "change": -1,
+     "reason": "wing dih landscape: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:07:00.000Z",
+     "position": 32,
+     "change": -1,
+     "reason": "DIH (M4DEM4X): added to the list"
+    },
+    {
+     "date": "2026-10-17T17:08:00.000Z",
+     "position": 33,
+     "change": -1,
+     "reason": "Dih Dih Dih Fruit: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:09:00.000Z",
+     "position": 34,
+     "change": -1,
+     "reason": "geometry dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T17:10:00.000Z",
+     "position": 35,
+     "change": -1,
+     "reason": "Dih level: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:00:00.000Z",
+     "position": 36,
+     "change": -1,
+     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:01:00.000Z",
+     "position": 37,
+     "change": -1,
+     "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:02:00.000Z",
      "position": 38,
-     "change": -18,
-     "reason": "18 real levels added above"
+     "change": -1,
+     "reason": "dih completion: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:03:00.000Z",
+     "position": 39,
+     "change": -1,
+     "reason": "dih (unisandal): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:04:00.000Z",
+     "position": 40,
+     "change": -1,
+     "reason": "7 dynamics by dih: added to the list"
+    },
+    {
+     "date": "2026-10-17T18:05:00.000Z",
+     "position": 41,
+     "change": -1,
+     "reason": "Dih (CarolzaGD showcase): added to the list"
+    },
+    {
+     "date": "2026-10-17T18:30:00.000Z",
+     "position": 40,
+     "change": 1,
+     "reason": "7 dynamics by dih: removed from the list"
     }
    ],
    "name": "Its Me Its Verity",
@@ -1138,10 +3712,10 @@
    "createdIn": "2.2",
    "song": "iammodus - Engine Start",
    "minPercent": 60,
-   "position": 38
+   "position": 40
   }
  ],
  "records": [],
  "players": {},
- "nextId": 39
+ "nextId": 42
 }
