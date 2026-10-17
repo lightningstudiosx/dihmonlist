@@ -32,6 +32,12 @@
      "position": 3,
      "change": 1,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-10-17T04:49:36.071Z",
+     "position": 4,
+     "change": -1,
+     "reason": "Dih Circles: moved up"
     }
    ],
    "name": "Dih Travel",
@@ -49,7 +55,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 3
+   "position": 4
   },
   {
    "id": "2",
@@ -116,6 +122,12 @@
      "position": 4,
      "change": 1,
      "reason": "Brizz Circles: moved down"
+    },
+    {
+     "date": "2026-10-17T04:49:36.071Z",
+     "position": 5,
+     "change": -1,
+     "reason": "Dih Circles: moved up"
     }
    ],
    "name": "Dihnouement II",
@@ -133,7 +145,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 4
+   "position": 5
   },
   {
    "id": "4",
@@ -182,6 +194,12 @@
      "position": 5,
      "change": -1,
      "reason": "Moved down"
+    },
+    {
+     "date": "2026-10-17T04:49:36.071Z",
+     "position": 6,
+     "change": -1,
+     "reason": "Dih Circles: moved up"
     }
    ],
    "name": "Brizz Circles",
@@ -199,7 +217,7 @@
    "createdIn": "2.2",
    "song": "~NK~ Fracture",
    "minPercent": 75,
-   "position": 5
+   "position": 6
   },
   {
    "id": "6",
@@ -209,6 +227,12 @@
      "position": 6,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-10-17T04:49:36.071Z",
+     "position": 3,
+     "change": 3,
+     "reason": "Moved up"
     }
    ],
    "name": "Dih Circles",
@@ -226,7 +250,7 @@
    "createdIn": "2.2",
    "song": "Koraii - Oracle",
    "minPercent": 50,
-   "position": 6
+   "position": 3
   }
  ],
  "records": [],
