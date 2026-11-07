@@ -4136,6 +4136,12 @@
      "position": 37,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:16.856Z",
+     "position": 38,
+     "change": -1,
+     "reason": "Dihnouement: moved up"
     }
    ],
    "name": "Dih level",
@@ -4153,7 +4159,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 75,
-   "position": 37
+   "position": 38
   },
   {
    "id": "17",
@@ -4355,6 +4361,12 @@
      "position": 38,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:16.856Z",
+     "position": 39,
+     "change": -1,
+     "reason": "Dihnouement: moved up"
     }
    ],
    "name": "Its Me Its Verity",
@@ -4372,7 +4384,7 @@
    "createdIn": "2.2",
    "song": "iammodus - Engine Start",
    "minPercent": 60,
-   "position": 38
+   "position": 39
   },
   {
    "id": "42",
@@ -4394,6 +4406,12 @@
      "position": 39,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:16.856Z",
+     "position": 37,
+     "change": 2,
+     "reason": "Moved up"
     }
    ],
    "name": "Dihnouement",
@@ -4411,7 +4429,7 @@
    "createdIn": "2.2",
    "song": "FyremanMusic - Glory",
    "minPercent": 60,
-   "position": 39
+   "position": 37
   },
   {
    "id": "43",
