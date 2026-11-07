@@ -3185,6 +3185,12 @@
      "position": 32,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 33,
+     "change": -1,
+     "reason": "Dihpression: moved up"
     }
    ],
    "name": "Dihnouement II",
@@ -3202,7 +3208,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 32
+   "position": 33
   },
   {
    "id": "16",
@@ -3392,6 +3398,12 @@
      "position": 33,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 34,
+     "change": -1,
+     "reason": "Dihpression: moved up"
     }
    ],
    "name": "Verity in GD",
@@ -3409,7 +3421,7 @@
    "createdIn": "2.2",
    "song": "chane-of-musik - Its me Its Verity (Remix)",
    "minPercent": 55,
-   "position": 33
+   "position": 34
   },
   {
    "id": "5",
@@ -3653,6 +3665,12 @@
      "position": 34,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 35,
+     "change": -1,
+     "reason": "Dihpression: moved up"
     }
    ],
    "name": "Brizz Circles",
@@ -3670,7 +3688,7 @@
    "createdIn": "2.2",
    "song": "~NK~ Fracture",
    "minPercent": 75,
-   "position": 34
+   "position": 35
   },
   {
    "id": "13",
@@ -3866,6 +3884,12 @@
      "position": 35,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 36,
+     "change": -1,
+     "reason": "Dihpression: moved up"
     }
    ],
    "name": "The Dih",
@@ -3883,7 +3907,7 @@
    "createdIn": "2.2",
    "song": "OxygoneOn - surasshu - Eek! (chops remix)",
    "minPercent": 80,
-   "position": 35
+   "position": 36
   },
   {
    "id": "24",
@@ -4031,6 +4055,12 @@
      "position": 36,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 37,
+     "change": -1,
+     "reason": "Dihpression: moved up"
     }
    ],
    "name": "Theory of Dih",
@@ -4048,7 +4078,7 @@
    "createdIn": "2.2",
    "song": "DJVI - Theory of Everything",
    "minPercent": 60,
-   "position": 36
+   "position": 37
   },
   {
    "id": "35",
@@ -4142,6 +4172,12 @@
      "position": 38,
      "change": -1,
      "reason": "Dihnouement: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 39,
+     "change": -1,
+     "reason": "Dihpression: moved up"
     }
    ],
    "name": "Dih level",
@@ -4159,7 +4195,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 75,
-   "position": 38
+   "position": 39
   },
   {
    "id": "17",
@@ -4367,6 +4403,12 @@
      "position": 39,
      "change": -1,
      "reason": "Dihnouement: moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 40,
+     "change": -1,
+     "reason": "Dihpression: moved up"
     }
    ],
    "name": "Its Me Its Verity",
@@ -4384,7 +4426,7 @@
    "createdIn": "2.2",
    "song": "iammodus - Engine Start",
    "minPercent": 60,
-   "position": 39
+   "position": 40
   },
   {
    "id": "42",
@@ -4412,6 +4454,12 @@
      "position": 37,
      "change": 2,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 38,
+     "change": -1,
+     "reason": "Dihpression: moved up"
     }
    ],
    "name": "Dihnouement",
@@ -4429,7 +4477,7 @@
    "createdIn": "2.2",
    "song": "FyremanMusic - Glory",
    "minPercent": 60,
-   "position": 37
+   "position": 38
   },
   {
    "id": "43",
@@ -4517,6 +4565,12 @@
      "position": 40,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 41,
+     "change": -1,
+     "reason": "Dihpression: moved up"
     }
    ],
    "name": "Dihman Adventures",
@@ -4534,7 +4588,7 @@
    "createdIn": "2.2",
    "song": "Electroman Adventures",
    "minPercent": 60,
-   "position": 40
+   "position": 41
   },
   {
    "id": "46",
@@ -4544,6 +4598,12 @@
      "position": 41,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-11-07T02:25:29.105Z",
+     "position": 32,
+     "change": 9,
+     "reason": "Moved up"
     }
    ],
    "name": "Dihpression",
@@ -4561,7 +4621,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 60,
-   "position": 41
+   "position": 32
   }
  ],
  "records": [],
