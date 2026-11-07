@@ -47,6 +47,12 @@
      "position": 2,
      "change": -1,
      "reason": "Son 618: added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:45.000Z",
+     "position": 3,
+     "change": -1,
+     "reason": "dih after dih: moved up"
     }
    ],
    "name": "Grief 2",
@@ -64,7 +70,7 @@
    "createdIn": "2.2",
    "song": "KzX - Stalemate",
    "minPercent": 50,
-   "position": 2
+   "position": 3
   },
   {
    "id": "14",
@@ -104,6 +110,12 @@
      "position": 3,
      "change": 1,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-11-05T01:20:45.000Z",
+     "position": 4,
+     "change": -1,
+     "reason": "dih after dih: moved up"
     }
    ],
    "name": "Verity Circles",
@@ -121,7 +133,7 @@
    "createdIn": "2.2",
    "song": "czer323 - Extraction",
    "minPercent": 40,
-   "position": 3
+   "position": 4
   },
   {
    "id": "18",
@@ -167,6 +179,12 @@
      "position": 7,
      "change": -2,
      "reason": "Moved down"
+    },
+    {
+     "date": "2026-11-05T01:20:45.000Z",
+     "position": 8,
+     "change": -1,
+     "reason": "dih after dih: moved up"
     }
    ],
    "name": "Indestructible Dih",
@@ -184,7 +202,7 @@
    "createdIn": "2.2",
    "song": "JordanKyser - Sad Machine (JK Remix)",
    "minPercent": 60,
-   "position": 7
+   "position": 8
   },
   {
    "id": "8",
@@ -242,6 +260,12 @@
      "position": 5,
      "change": 1,
      "reason": "Indestructible Dih: moved down"
+    },
+    {
+     "date": "2026-11-05T01:20:45.000Z",
+     "position": 6,
+     "change": -1,
+     "reason": "dih after dih: moved up"
     }
    ],
    "name": "Tunnel of Dih",
@@ -259,7 +283,7 @@
    "createdIn": "2.2",
    "song": "Jewelz123 - Silent Hill (Dubstep)",
    "minPercent": 45,
-   "position": 5
+   "position": 6
   },
   {
    "id": "9",
@@ -317,6 +341,12 @@
      "position": 6,
      "change": 1,
      "reason": "Indestructible Dih: moved down"
+    },
+    {
+     "date": "2026-11-05T01:20:45.000Z",
+     "position": 7,
+     "change": -1,
+     "reason": "dih after dih: moved up"
     }
    ],
    "name": "Dih Fungus",
@@ -334,76 +364,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - At the Speed of Light",
    "minPercent": 40,
-   "position": 6
-  },
-  {
-   "id": "10",
-   "history": [
-    {
-     "date": "2026-10-17T05:01:10.000Z",
-     "position": 5,
-     "change": null,
-     "reason": "Added to the list"
-    },
-    {
-     "date": "2026-10-17T05:05:00.000Z",
-     "position": 10,
-     "change": -5,
-     "reason": "5 new levels added above"
-    },
-    {
-     "date": "2026-10-17T06:30:00.000Z",
-     "position": 5,
-     "change": 5,
-     "reason": "Moved up"
-    },
-    {
-     "date": "2026-10-17T07:16:21.237Z",
-     "position": 6,
-     "change": -1,
-     "reason": "DIH: moved up"
-    },
-    {
-     "date": "2026-10-17T07:18:55.913Z",
-     "position": 7,
-     "change": -1,
-     "reason": "Verity Circles: moved up"
-    },
-    {
-     "date": "2026-10-17T09:00:00.000Z",
-     "position": 8,
-     "change": -1,
-     "reason": "Indestructible Dih: moved up"
-    },
-    {
-     "date": "2026-10-17T15:13:15.189Z",
-     "position": 7,
-     "change": 1,
-     "reason": "DIH: moved down"
-    },
-    {
-     "date": "2026-10-18T23:35:45.529Z",
-     "position": 8,
-     "change": -1,
-     "reason": "Denouement In Hell: moved up"
-    }
-   ],
-   "name": "Sakupen Wave Dih",
-   "creators": "DihEnjoyer",
-   "publisher": "DihEnjoyer",
-   "verifier": "DihEnjoyer",
-   "video": "https://www.youtube.com/watch?v=p7d5BE3OMOU",
-   "thumbnail": "https://i.ytimg.com/vi/p7d5BE3OMOU/hqdefault.jpg",
-   "quote": "Sakupen Wave Dih 100% // Extreme Demon",
-   "levelId": "134920184",
-   "password": "Uncopylocked",
-   "length": "42s (Medium)",
-   "objects": "18450",
-   "difficulty": "Extreme Demon",
-   "createdIn": "2.2",
-   "song": "MrKoolTrix - Sakupen Hell Yes RMX",
-   "minPercent": 55,
-   "position": 8
+   "position": 7
   },
   {
    "id": "21",
@@ -419,6 +380,18 @@
      "position": 9,
      "change": -1,
      "reason": "Denouement In Hell: moved up"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 8,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:45.000Z",
+     "position": 9,
+     "change": -1,
+     "reason": "dih after dih: moved up"
     }
    ],
    "name": "Dih Buh Pulse Finale",
@@ -452,6 +425,12 @@
      "position": 4,
      "change": 5,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-11-05T01:20:45.000Z",
+     "position": 5,
+     "change": -1,
+     "reason": "dih after dih: moved up"
     }
    ],
    "name": "Denouement In Hell",
@@ -469,7 +448,7 @@
    "createdIn": "2.2",
    "song": "FyremanMusic - Glory",
    "minPercent": 40,
-   "position": 4
+   "position": 5
   },
   {
    "id": "26",
@@ -479,6 +458,18 @@
      "position": 10,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 9,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:45.000Z",
+     "position": 2,
+     "change": 7,
+     "reason": "Moved up"
     }
    ],
    "name": "dih after dih",
@@ -496,34 +487,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 40,
-   "position": 10
-  },
-  {
-   "id": "27",
-   "history": [
-    {
-     "date": "2026-10-17T17:02:00.000Z",
-     "position": 11,
-     "change": null,
-     "reason": "Added to the list"
-    }
-   ],
-   "name": "Shitty Grief",
-   "creators": "Unknown (many copies exist)",
-   "publisher": "Unknown",
-   "verifier": "im johnathan",
-   "video": "https://www.youtube.com/watch?v=iJ1Qj4Yq1hs",
-   "thumbnail": "https://i.ytimg.com/vi/iJ1Qj4Yq1hs/hqdefault.jpg",
-   "quote": "SHITTY GRIEF IN 2 RUNS // 115k+ ATTEMPTS",
-   "levelId": "Unknown",
-   "password": "Unknown",
-   "length": "XL (2m+)",
-   "objects": "Unknown",
-   "difficulty": "Extreme Demon (est.)",
-   "createdIn": "2.2",
-   "song": "Unknown",
-   "minPercent": 45,
-   "position": 11
+   "position": 2
   },
   {
    "id": "36",
@@ -533,6 +497,18 @@
      "position": 12,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 11,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 10,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
     }
    ],
    "name": "Unnerfed Dih Circles Unleashed",
@@ -550,7 +526,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 40,
-   "position": 12
+   "position": 10
   },
   {
    "id": "37",
@@ -560,6 +536,18 @@
      "position": 13,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 12,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 11,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
     }
    ],
    "name": "Ultra Dih",
@@ -577,7 +565,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 40,
-   "position": 13
+   "position": 11
   },
   {
    "id": "1",
@@ -737,6 +725,18 @@
      "position": 14,
      "change": -1,
      "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 13,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 12,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
     }
    ],
    "name": "Dih Travel",
@@ -754,7 +754,7 @@
    "createdIn": "2.2",
    "song": "Stereo Madness",
    "minPercent": 67,
-   "position": 14
+   "position": 12
   },
   {
    "id": "2",
@@ -872,6 +872,18 @@
      "position": 15,
      "change": -1,
      "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 14,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 13,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
     }
    ],
    "name": "Scary Dih Eater 3000",
@@ -889,46 +901,7 @@
    "createdIn": "2.2",
    "song": "cYsmix - Eden",
    "minPercent": 35,
-   "position": 15
-  },
-  {
-   "id": "28",
-   "history": [
-    {
-     "date": "2026-10-17T17:03:00.000Z",
-     "position": 14,
-     "change": null,
-     "reason": "Added to the list"
-    },
-    {
-     "date": "2026-10-17T18:00:00.000Z",
-     "position": 15,
-     "change": -1,
-     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
-    },
-    {
-     "date": "2026-10-17T18:01:00.000Z",
-     "position": 16,
-     "change": -1,
-     "reason": "Ultra Dih: added to the list"
-    }
-   ],
-   "name": "NotWeirdButStrange",
-   "creators": "joy115135",
-   "publisher": "joy115135",
-   "verifier": "joy115135",
-   "video": "https://www.youtube.com/watch?v=5OlEuDHUUpk",
-   "thumbnail": "https://i.ytimg.com/vi/5OlEuDHUUpk/hqdefault.jpg",
-   "quote": "Solo level made in \"1-2 months\" that pays tribute to lespainsaucho.",
-   "levelId": "149166456",
-   "password": "Free to copy",
-   "length": "Long (60-120s)",
-   "objects": "25277",
-   "difficulty": "Insane Demon (est.)",
-   "createdIn": "2.2",
-   "song": "cYsmix - Peer Gynt",
-   "minPercent": 50,
-   "position": 16
+   "position": 13
   },
   {
    "id": "29",
@@ -950,6 +923,24 @@
      "position": 17,
      "change": -1,
      "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 16,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 15,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 14,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
     }
    ],
    "name": "Dih Circles WIP #3",
@@ -967,7 +958,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 50,
-   "position": 17
+   "position": 14
   },
   {
    "id": "30",
@@ -989,6 +980,24 @@
      "position": 18,
      "change": -1,
      "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 17,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 16,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 15,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
     }
    ],
    "name": "Dih experiment",
@@ -1006,46 +1015,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 55,
-   "position": 18
-  },
-  {
-   "id": "31",
-   "history": [
-    {
-     "date": "2026-10-17T17:06:00.000Z",
-     "position": 17,
-     "change": null,
-     "reason": "Added to the list"
-    },
-    {
-     "date": "2026-10-17T18:00:00.000Z",
-     "position": 18,
-     "change": -1,
-     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
-    },
-    {
-     "date": "2026-10-17T18:01:00.000Z",
-     "position": 19,
-     "change": -1,
-     "reason": "Ultra Dih: added to the list"
-    }
-   ],
-   "name": "wing dih landscape",
-   "creators": "TwistyTweek",
-   "publisher": "TwistyTweek",
-   "verifier": "TwistyTweek",
-   "video": "https://www.youtube.com/watch?v=x848AFIlU68",
-   "thumbnail": "https://i.ytimg.com/vi/x848AFIlU68/hqdefault.jpg",
-   "quote": "wing dih🥀 landscape",
-   "levelId": "Unknown",
-   "password": "Unknown",
-   "length": "Unknown",
-   "objects": "Unknown",
-   "difficulty": "Insane Demon (est.)",
-   "createdIn": "2.2",
-   "song": "Unknown",
-   "minPercent": 55,
-   "position": 19
+   "position": 15
   },
   {
    "id": "32",
@@ -1067,6 +1037,30 @@
      "position": 20,
      "change": -1,
      "reason": "Ultra Dih: added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 19,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 18,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 17,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 16,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "DIH (M4DEM4X)",
@@ -1084,7 +1078,7 @@
    "createdIn": "2.2",
    "song": "Rukkus - Nine Circles",
    "minPercent": 55,
-   "position": 20
+   "position": 16
   },
   {
    "id": "38",
@@ -1094,6 +1088,30 @@
      "position": 21,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 20,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 19,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 18,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 17,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "dih completion",
@@ -1111,7 +1129,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 55,
-   "position": 21
+   "position": 17
   },
   {
    "id": "39",
@@ -1121,6 +1139,30 @@
      "position": 22,
      "change": null,
      "reason": "Added to the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 21,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 20,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 19,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 18,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "dih (unisandal)",
@@ -1138,7 +1180,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 55,
-   "position": 22
+   "position": 18
   },
   {
    "id": "11",
@@ -1292,6 +1334,30 @@
      "position": 23,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 22,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 21,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 20,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 19,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "DIH",
@@ -1309,7 +1375,7 @@
    "createdIn": "2.2",
    "song": "F-777 - Sonic Blaster",
    "minPercent": 60,
-   "position": 23
+   "position": 19
   },
   {
    "id": "19",
@@ -1445,6 +1511,30 @@
      "position": 24,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 23,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 22,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 21,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 20,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "dih adventures",
@@ -1462,7 +1552,7 @@
    "createdIn": "2.2",
    "song": "Dimrain47 - Every End...",
    "minPercent": 75,
-   "position": 24
+   "position": 20
   },
   {
    "id": "6",
@@ -1640,6 +1730,30 @@
      "position": 25,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 24,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 23,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 22,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 21,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Dih Circles",
@@ -1657,7 +1771,7 @@
    "createdIn": "2.2",
    "song": "Koraii - Oracle",
    "minPercent": 50,
-   "position": 25
+   "position": 21
   },
   {
    "id": "20",
@@ -1793,6 +1907,30 @@
      "position": 26,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 25,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 24,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 23,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 22,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Dihnoument",
@@ -1810,7 +1948,7 @@
    "createdIn": "ColaGDPS",
    "song": "Unknown",
    "minPercent": 50,
-   "position": 26
+   "position": 22
   },
   {
    "id": "22",
@@ -1910,6 +2048,30 @@
      "position": 27,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 26,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 25,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 24,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 23,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "DIH LOCKED",
@@ -1927,7 +2089,7 @@
    "createdIn": "2.2",
    "song": "Panda Eyes - Colorblind",
    "minPercent": 55,
-   "position": 27
+   "position": 23
   },
   {
    "id": "23",
@@ -2027,6 +2189,30 @@
      "position": 28,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 27,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 26,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 25,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 24,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Conical Dihpression",
@@ -2044,7 +2230,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 55,
-   "position": 28
+   "position": 24
   },
   {
    "id": "33",
@@ -2090,6 +2276,30 @@
      "position": 29,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 28,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 27,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 26,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 25,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Dih Dih Dih Fruit",
@@ -2107,7 +2317,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 60,
-   "position": 29
+   "position": 25
   },
   {
    "id": "34",
@@ -2153,6 +2363,30 @@
      "position": 30,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 29,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 28,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 27,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 26,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "geometry dih",
@@ -2170,7 +2404,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 65,
-   "position": 30
+   "position": 26
   },
   {
    "id": "41",
@@ -2186,6 +2420,30 @@
      "position": 31,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 30,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 29,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 28,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 27,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Dih (CarolzaGD showcase)",
@@ -2203,7 +2461,7 @@
    "createdIn": "2.2",
    "song": "Cacola - Yellow and Purple",
    "minPercent": 60,
-   "position": 31
+   "position": 27
   },
   {
    "id": "15",
@@ -2375,6 +2633,30 @@
      "position": 32,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 31,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 30,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 29,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 28,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "VeritY",
@@ -2392,7 +2674,7 @@
    "createdIn": "2.0",
    "song": "TheFatRat - The Calling (feat. Laura Brehm)",
    "minPercent": 50,
-   "position": 32
+   "position": 28
   },
   {
    "id": "12",
@@ -2552,6 +2834,30 @@
      "position": 33,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 32,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 31,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 30,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 29,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Dih Wave",
@@ -2569,7 +2875,7 @@
    "createdIn": "2.2",
    "song": "yagru - g444444444g",
    "minPercent": 70,
-   "position": 33
+   "position": 29
   },
   {
    "id": "3",
@@ -2795,6 +3101,30 @@
      "position": 34,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 33,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 32,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 31,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 30,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Dihnouement II",
@@ -2812,7 +3142,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 34
+   "position": 30
   },
   {
    "id": "16",
@@ -2966,6 +3296,30 @@
      "position": 35,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 34,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 33,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 32,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 31,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Verity in GD",
@@ -2983,7 +3337,7 @@
    "createdIn": "2.2",
    "song": "chane-of-musik - Its me Its Verity (Remix)",
    "minPercent": 55,
-   "position": 35
+   "position": 31
   },
   {
    "id": "5",
@@ -3191,6 +3545,30 @@
      "position": 36,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 35,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 34,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 33,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 32,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Brizz Circles",
@@ -3208,7 +3586,7 @@
    "createdIn": "2.2",
    "song": "~NK~ Fracture",
    "minPercent": 75,
-   "position": 36
+   "position": 32
   },
   {
    "id": "13",
@@ -3368,6 +3746,30 @@
      "position": 37,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 36,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 35,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 34,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 33,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "The Dih",
@@ -3385,7 +3787,7 @@
    "createdIn": "2.2",
    "song": "OxygoneOn - surasshu - Eek! (chops remix)",
    "minPercent": 80,
-   "position": 37
+   "position": 33
   },
   {
    "id": "24",
@@ -3497,6 +3899,30 @@
      "position": 38,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 37,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 36,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 35,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 34,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Theory of Dih",
@@ -3514,7 +3940,7 @@
    "createdIn": "2.2",
    "song": "DJVI - Theory of Everything",
    "minPercent": 60,
-   "position": 38
+   "position": 34
   },
   {
    "id": "35",
@@ -3566,6 +3992,30 @@
      "position": 39,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 38,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 37,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 36,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 35,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Dih level",
@@ -3583,7 +4033,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 75,
-   "position": 39
+   "position": 35
   },
   {
    "id": "17",
@@ -3749,6 +4199,30 @@
      "position": 40,
      "change": 1,
      "reason": "7 dynamics by dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:41.000Z",
+     "position": 39,
+     "change": 1,
+     "reason": "Sakupen Wave Dih: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:42.000Z",
+     "position": 38,
+     "change": 1,
+     "reason": "Shitty Grief: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:43.000Z",
+     "position": 37,
+     "change": 1,
+     "reason": "NotWeirdButStrange: removed from the list"
+    },
+    {
+     "date": "2026-11-05T01:20:44.000Z",
+     "position": 36,
+     "change": 1,
+     "reason": "wing dih landscape: removed from the list"
     }
    ],
    "name": "Its Me Its Verity",
@@ -3766,10 +4240,145 @@
    "createdIn": "2.2",
    "song": "iammodus - Engine Start",
    "minPercent": 60,
+   "position": 36
+  },
+  {
+   "id": "42",
+   "history": [
+    {
+     "date": "2026-11-05T01:29:39.000Z",
+     "position": 37,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Dihnouement",
+   "creators": "whatisgoing125",
+   "publisher": "whatisgoing125",
+   "verifier": "whatisgoing125",
+   "video": "https://www.youtube.com/watch?v=OQlybiqF89M",
+   "thumbnail": "https://i.ytimg.com/vi/OQlybiqF89M/hqdefault.jpg",
+   "quote": "(filler) Dihnouement 100% by whatisgoing125",
+   "levelId": "132819849",
+   "password": "Unknown",
+   "length": "Long (60-120s)",
+   "objects": "10694",
+   "difficulty": "Insane (est.)",
+   "createdIn": "2.2",
+   "song": "FyremanMusic - Glory",
+   "minPercent": 60,
+   "position": 37
+  },
+  {
+   "id": "43",
+   "history": [
+    {
+     "date": "2026-11-05T01:29:40.000Z",
+     "position": 38,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Twogwei",
+   "creators": "Golden",
+   "publisher": "Golden",
+   "verifier": "Golden",
+   "video": "https://www.youtube.com/watch?v=AkntAT2wpc4",
+   "thumbnail": "https://i.ytimg.com/vi/AkntAT2wpc4/hqdefault.jpg",
+   "quote": "The WORST Joke Level Of ALL TIME... (Twogwei 100%)",
+   "levelId": "67733222",
+   "password": "Unknown",
+   "length": "Long (60-120s)",
+   "objects": "18489",
+   "difficulty": "Insane (est.)",
+   "createdIn": "2.1",
+   "song": "TheFatRat - Never Be Alone",
+   "minPercent": 60,
+   "position": 38
+  },
+  {
+   "id": "44",
+   "history": [
+    {
+     "date": "2026-11-05T01:29:41.000Z",
+     "position": 39,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "dihscapes",
+   "creators": "St4er",
+   "publisher": "St4er",
+   "verifier": "St4er",
+   "video": "https://www.youtube.com/watch?v=pmS68utVcMs",
+   "thumbnail": "https://i.ytimg.com/vi/pmS68utVcMs/hqdefault.jpg",
+   "quote": "Dihscapes 100%",
+   "levelId": "130883869",
+   "password": "Unknown",
+   "length": "Short (10-30s)",
+   "objects": "7244",
+   "difficulty": "Insane (est.)",
+   "createdIn": "2.2",
+   "song": "Creo - Flow",
+   "minPercent": 75,
+   "position": 39
+  },
+  {
+   "id": "45",
+   "history": [
+    {
+     "date": "2026-11-05T01:29:42.000Z",
+     "position": 40,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Dihman Adventures",
+   "creators": "ranvijaybalbir",
+   "publisher": "ranvijaybalbir",
+   "verifier": "ranvijaybalbir",
+   "video": "https://www.youtube.com/watch?v=fYZh4mdAuaE",
+   "thumbnail": "https://i.ytimg.com/vi/fYZh4mdAuaE/hqdefault.jpg",
+   "quote": "Dihman adventures",
+   "levelId": "132022962",
+   "password": "Unknown",
+   "length": "XL (2m+)",
+   "objects": "3412",
+   "difficulty": "Harder (est.)",
+   "createdIn": "2.2",
+   "song": "Electroman Adventures",
+   "minPercent": 60,
    "position": 40
+  },
+  {
+   "id": "46",
+   "history": [
+    {
+     "date": "2026-11-05T01:29:43.000Z",
+     "position": 41,
+     "change": null,
+     "reason": "Added to the list"
+    }
+   ],
+   "name": "Dihpression",
+   "creators": "Plutovski",
+   "publisher": "Plutovski",
+   "verifier": "Unverified (being verified)",
+   "video": "https://www.youtube.com/watch?v=9fsJG8CVsqg",
+   "thumbnail": "https://i.ytimg.com/vi/9fsJG8CVsqg/hqdefault.jpg",
+   "quote": "[Showcase] Dihpression by Plutovski (me) (2nd Update)",
+   "levelId": "Unreleased (WIP)",
+   "password": "Unknown",
+   "length": "Unknown",
+   "objects": "Unknown",
+   "difficulty": "Unknown (WIP)",
+   "createdIn": "2.2",
+   "song": "Unknown",
+   "minPercent": 60,
+   "position": 41
   }
  ],
  "records": [],
  "players": {},
- "nextId": 42
+ "nextId": 47
 }
