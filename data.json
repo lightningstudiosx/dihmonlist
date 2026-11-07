@@ -2300,6 +2300,12 @@
      "position": 25,
      "change": 1,
      "reason": "wing dih landscape: removed from the list"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 26,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Dih Dih Dih Fruit",
@@ -2317,7 +2323,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 60,
-   "position": 25
+   "position": 26
   },
   {
    "id": "34",
@@ -2387,6 +2393,12 @@
      "position": 26,
      "change": 1,
      "reason": "wing dih landscape: removed from the list"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 27,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "geometry dih",
@@ -2404,7 +2416,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 65,
-   "position": 26
+   "position": 27
   },
   {
    "id": "41",
@@ -2450,6 +2462,12 @@
      "position": 28,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 29,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Dih (CarolzaGD showcase)",
@@ -2467,7 +2485,7 @@
    "createdIn": "2.2",
    "song": "Cacola - Yellow and Purple",
    "minPercent": 60,
-   "position": 28
+   "position": 29
   },
   {
    "id": "15",
@@ -2669,6 +2687,12 @@
      "position": 29,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 30,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "VeritY",
@@ -2686,7 +2710,7 @@
    "createdIn": "2.0",
    "song": "TheFatRat - The Calling (feat. Laura Brehm)",
    "minPercent": 50,
-   "position": 29
+   "position": 30
   },
   {
    "id": "12",
@@ -2876,6 +2900,12 @@
      "position": 30,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 31,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Dih Wave",
@@ -2893,7 +2923,7 @@
    "createdIn": "2.2",
    "song": "yagru - g444444444g",
    "minPercent": 70,
-   "position": 30
+   "position": 31
   },
   {
    "id": "3",
@@ -3149,6 +3179,12 @@
      "position": 31,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 32,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Dihnouement II",
@@ -3166,7 +3202,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 31
+   "position": 32
   },
   {
    "id": "16",
@@ -3350,6 +3386,12 @@
      "position": 32,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 33,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Verity in GD",
@@ -3367,7 +3409,7 @@
    "createdIn": "2.2",
    "song": "chane-of-musik - Its me Its Verity (Remix)",
    "minPercent": 55,
-   "position": 32
+   "position": 33
   },
   {
    "id": "5",
@@ -3605,6 +3647,12 @@
      "position": 33,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 34,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Brizz Circles",
@@ -3622,7 +3670,7 @@
    "createdIn": "2.2",
    "song": "~NK~ Fracture",
    "minPercent": 75,
-   "position": 33
+   "position": 34
   },
   {
    "id": "13",
@@ -3812,6 +3860,12 @@
      "position": 34,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 35,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "The Dih",
@@ -3829,7 +3883,7 @@
    "createdIn": "2.2",
    "song": "OxygoneOn - surasshu - Eek! (chops remix)",
    "minPercent": 80,
-   "position": 34
+   "position": 35
   },
   {
    "id": "24",
@@ -3971,6 +4025,12 @@
      "position": 35,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 36,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Theory of Dih",
@@ -3988,7 +4048,7 @@
    "createdIn": "2.2",
    "song": "DJVI - Theory of Everything",
    "minPercent": 60,
-   "position": 35
+   "position": 36
   },
   {
    "id": "35",
@@ -4070,6 +4130,12 @@
      "position": 36,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 37,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Dih level",
@@ -4087,7 +4153,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 75,
-   "position": 36
+   "position": 37
   },
   {
    "id": "17",
@@ -4283,6 +4349,12 @@
      "position": 37,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 38,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Its Me Its Verity",
@@ -4300,7 +4372,7 @@
    "createdIn": "2.2",
    "song": "iammodus - Engine Start",
    "minPercent": 60,
-   "position": 37
+   "position": 38
   },
   {
    "id": "42",
@@ -4316,6 +4388,12 @@
      "position": 38,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 39,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "Dihnouement",
@@ -4333,7 +4411,7 @@
    "createdIn": "2.2",
    "song": "FyremanMusic - Glory",
    "minPercent": 60,
-   "position": 38
+   "position": 39
   },
   {
    "id": "43",
@@ -4349,6 +4427,12 @@
      "position": 39,
      "change": -1,
      "reason": "dihscapes: moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 25,
+     "change": 14,
+     "reason": "Moved up"
     }
    ],
    "name": "Twogwei",
@@ -4366,7 +4450,7 @@
    "createdIn": "2.1",
    "song": "TheFatRat - Never Be Alone",
    "minPercent": 60,
-   "position": 39
+   "position": 25
   },
   {
    "id": "44",
@@ -4382,6 +4466,12 @@
      "position": 27,
      "change": 12,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-11-07T02:24:33.480Z",
+     "position": 28,
+     "change": -1,
+     "reason": "Twogwei: moved up"
     }
    ],
    "name": "dihscapes",
@@ -4399,7 +4489,7 @@
    "createdIn": "2.2",
    "song": "Creo - Flow",
    "minPercent": 75,
-   "position": 27
+   "position": 28
   },
   {
    "id": "45",
