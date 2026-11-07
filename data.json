@@ -1951,147 +1951,6 @@
    "position": 22
   },
   {
-   "id": "22",
-   "history": [
-    {
-     "date": "2026-10-17T16:10:00.000Z",
-     "position": 14,
-     "change": null,
-     "reason": "Added to the list"
-    },
-    {
-     "date": "2026-10-17T16:10:30.000Z",
-     "position": 15,
-     "change": -1,
-     "reason": "Dihnoument: moved up"
-    },
-    {
-     "date": "2026-10-17T17:00:00.000Z",
-     "position": 16,
-     "change": -1,
-     "reason": "Denouement In Hell: added to the list"
-    },
-    {
-     "date": "2026-10-17T17:01:00.000Z",
-     "position": 17,
-     "change": -1,
-     "reason": "dih after dih: added to the list"
-    },
-    {
-     "date": "2026-10-17T17:02:00.000Z",
-     "position": 18,
-     "change": -1,
-     "reason": "Shitty Grief: added to the list"
-    },
-    {
-     "date": "2026-10-17T17:03:00.000Z",
-     "position": 19,
-     "change": -1,
-     "reason": "NotWeirdButStrange: added to the list"
-    },
-    {
-     "date": "2026-10-17T17:04:00.000Z",
-     "position": 20,
-     "change": -1,
-     "reason": "Dih Circles WIP #3: added to the list"
-    },
-    {
-     "date": "2026-10-17T17:05:00.000Z",
-     "position": 21,
-     "change": -1,
-     "reason": "Dih experiment: added to the list"
-    },
-    {
-     "date": "2026-10-17T17:06:00.000Z",
-     "position": 22,
-     "change": -1,
-     "reason": "wing dih landscape: added to the list"
-    },
-    {
-     "date": "2026-10-17T17:07:00.000Z",
-     "position": 23,
-     "change": -1,
-     "reason": "DIH (M4DEM4X): added to the list"
-    },
-    {
-     "date": "2026-10-17T18:00:00.000Z",
-     "position": 24,
-     "change": -1,
-     "reason": "Unnerfed Dih Circles Unleashed: added to the list"
-    },
-    {
-     "date": "2026-10-17T18:01:00.000Z",
-     "position": 25,
-     "change": -1,
-     "reason": "Ultra Dih: added to the list"
-    },
-    {
-     "date": "2026-10-17T18:02:00.000Z",
-     "position": 26,
-     "change": -1,
-     "reason": "dih completion: added to the list"
-    },
-    {
-     "date": "2026-10-17T18:03:00.000Z",
-     "position": 27,
-     "change": -1,
-     "reason": "dih (unisandal): added to the list"
-    },
-    {
-     "date": "2026-10-17T18:04:00.000Z",
-     "position": 28,
-     "change": -1,
-     "reason": "7 dynamics by dih: added to the list"
-    },
-    {
-     "date": "2026-10-17T18:30:00.000Z",
-     "position": 27,
-     "change": 1,
-     "reason": "7 dynamics by dih: removed from the list"
-    },
-    {
-     "date": "2026-11-05T01:20:41.000Z",
-     "position": 26,
-     "change": 1,
-     "reason": "Sakupen Wave Dih: removed from the list"
-    },
-    {
-     "date": "2026-11-05T01:20:42.000Z",
-     "position": 25,
-     "change": 1,
-     "reason": "Shitty Grief: removed from the list"
-    },
-    {
-     "date": "2026-11-05T01:20:43.000Z",
-     "position": 24,
-     "change": 1,
-     "reason": "NotWeirdButStrange: removed from the list"
-    },
-    {
-     "date": "2026-11-05T01:20:44.000Z",
-     "position": 23,
-     "change": 1,
-     "reason": "wing dih landscape: removed from the list"
-    }
-   ],
-   "name": "DIH LOCKED",
-   "creators": "SolarwalkerGD",
-   "publisher": "SolarwalkerGD",
-   "verifier": "SolarwalkerGD",
-   "video": "https://www.youtube.com/watch?v=tgvQYPqxYzk",
-   "thumbnail": "https://i.ytimg.com/vi/tgvQYPqxYzk/hqdefault.jpg",
-   "quote": "for deadlocked gaming nya~",
-   "levelId": "130960474",
-   "password": "Free to copy",
-   "length": "Medium (30-60s)",
-   "objects": "6279",
-   "difficulty": "Hard Demon (est.)",
-   "createdIn": "2.2",
-   "song": "Panda Eyes - Colorblind",
-   "minPercent": 55,
-   "position": 23
-  },
-  {
    "id": "23",
    "history": [
     {
@@ -2213,6 +2072,12 @@
      "position": 24,
      "change": 1,
      "reason": "wing dih landscape: removed from the list"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 23,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Conical Dihpression",
@@ -2230,7 +2095,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 55,
-   "position": 24
+   "position": 23
   },
   {
    "id": "33",
@@ -2306,6 +2171,12 @@
      "position": 26,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 25,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Dih Dih Dih Fruit",
@@ -2323,7 +2194,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 60,
-   "position": 26
+   "position": 25
   },
   {
    "id": "34",
@@ -2399,6 +2270,12 @@
      "position": 27,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 26,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "geometry dih",
@@ -2416,7 +2293,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 65,
-   "position": 27
+   "position": 26
   },
   {
    "id": "41",
@@ -2468,6 +2345,12 @@
      "position": 29,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 28,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Dih (CarolzaGD showcase)",
@@ -2485,7 +2368,7 @@
    "createdIn": "2.2",
    "song": "Cacola - Yellow and Purple",
    "minPercent": 60,
-   "position": 29
+   "position": 28
   },
   {
    "id": "15",
@@ -2693,6 +2576,12 @@
      "position": 30,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 29,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "VeritY",
@@ -2710,7 +2599,7 @@
    "createdIn": "2.0",
    "song": "TheFatRat - The Calling (feat. Laura Brehm)",
    "minPercent": 50,
-   "position": 30
+   "position": 29
   },
   {
    "id": "12",
@@ -2906,6 +2795,12 @@
      "position": 31,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 30,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Dih Wave",
@@ -2923,7 +2818,7 @@
    "createdIn": "2.2",
    "song": "yagru - g444444444g",
    "minPercent": 70,
-   "position": 31
+   "position": 30
   },
   {
    "id": "3",
@@ -3191,6 +3086,12 @@
      "position": 33,
      "change": -1,
      "reason": "Dihpression: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 32,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Dihnouement II",
@@ -3208,7 +3109,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 30,
-   "position": 33
+   "position": 32
   },
   {
    "id": "16",
@@ -3404,6 +3305,12 @@
      "position": 34,
      "change": -1,
      "reason": "Dihpression: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 33,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Verity in GD",
@@ -3421,7 +3328,7 @@
    "createdIn": "2.2",
    "song": "chane-of-musik - Its me Its Verity (Remix)",
    "minPercent": 55,
-   "position": 34
+   "position": 33
   },
   {
    "id": "5",
@@ -3671,6 +3578,12 @@
      "position": 35,
      "change": -1,
      "reason": "Dihpression: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 34,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Brizz Circles",
@@ -3688,7 +3601,7 @@
    "createdIn": "2.2",
    "song": "~NK~ Fracture",
    "minPercent": 75,
-   "position": 35
+   "position": 34
   },
   {
    "id": "13",
@@ -3890,6 +3803,12 @@
      "position": 36,
      "change": -1,
      "reason": "Dihpression: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 35,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "The Dih",
@@ -3907,7 +3826,7 @@
    "createdIn": "2.2",
    "song": "OxygoneOn - surasshu - Eek! (chops remix)",
    "minPercent": 80,
-   "position": 36
+   "position": 35
   },
   {
    "id": "24",
@@ -4061,6 +3980,12 @@
      "position": 37,
      "change": -1,
      "reason": "Dihpression: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 36,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Theory of Dih",
@@ -4078,7 +4003,7 @@
    "createdIn": "2.2",
    "song": "DJVI - Theory of Everything",
    "minPercent": 60,
-   "position": 37
+   "position": 36
   },
   {
    "id": "35",
@@ -4178,6 +4103,12 @@
      "position": 39,
      "change": -1,
      "reason": "Dihpression: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 38,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Dih level",
@@ -4195,7 +4126,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 75,
-   "position": 39
+   "position": 38
   },
   {
    "id": "17",
@@ -4409,6 +4340,12 @@
      "position": 40,
      "change": -1,
      "reason": "Dihpression: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 39,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Its Me Its Verity",
@@ -4426,7 +4363,7 @@
    "createdIn": "2.2",
    "song": "iammodus - Engine Start",
    "minPercent": 60,
-   "position": 40
+   "position": 39
   },
   {
    "id": "42",
@@ -4460,6 +4397,12 @@
      "position": 38,
      "change": -1,
      "reason": "Dihpression: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 37,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Dihnouement",
@@ -4477,7 +4420,7 @@
    "createdIn": "2.2",
    "song": "FyremanMusic - Glory",
    "minPercent": 60,
-   "position": 38
+   "position": 37
   },
   {
    "id": "43",
@@ -4499,6 +4442,12 @@
      "position": 25,
      "change": 14,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 24,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Twogwei",
@@ -4516,7 +4465,7 @@
    "createdIn": "2.1",
    "song": "TheFatRat - Never Be Alone",
    "minPercent": 60,
-   "position": 25
+   "position": 24
   },
   {
    "id": "44",
@@ -4538,6 +4487,12 @@
      "position": 28,
      "change": -1,
      "reason": "Twogwei: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 27,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "dihscapes",
@@ -4555,7 +4510,7 @@
    "createdIn": "2.2",
    "song": "Creo - Flow",
    "minPercent": 75,
-   "position": 28
+   "position": 27
   },
   {
    "id": "45",
@@ -4571,6 +4526,12 @@
      "position": 41,
      "change": -1,
      "reason": "Dihpression: moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 40,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Dihman Adventures",
@@ -4588,7 +4549,7 @@
    "createdIn": "2.2",
    "song": "Electroman Adventures",
    "minPercent": 60,
-   "position": 41
+   "position": 40
   },
   {
    "id": "46",
@@ -4604,6 +4565,12 @@
      "position": 32,
      "change": 9,
      "reason": "Moved up"
+    },
+    {
+     "date": "2026-11-07T02:27:09.045Z",
+     "position": 31,
+     "change": 1,
+     "reason": "DIH LOCKED was removed"
     }
    ],
    "name": "Dihpression",
@@ -4621,7 +4588,7 @@
    "createdIn": "2.2",
    "song": "Unknown",
    "minPercent": 60,
-   "position": 32
+   "position": 31
   }
  ],
  "records": [],
